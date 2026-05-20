@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Portefeuille PDF simple pour vos fichiers PDF les plus importants sur iOS et Android
+description: Portefeuille PDF simple pour vos fichiers PDF les plus importants sur iOS, macOS et Android
 lang: fr-FR
 title: ""
 hreflang: true
@@ -9,11 +9,11 @@ hreflang: true
 ## [EN]({{ "/" | relative_url }}) | [DE]({{ "/de" | relative_url }}) | [ES]({{ "/es" | relative_url }}) | [FR]({{ "/fr" | relative_url }}) | [IT]({{ "/it" | relative_url }}) | [PT]({{ "/pt" | relative_url }})
 
 # PDF Wallet – Appli mobile
-Votre gestionnaire de certificats PDF pour iOS et Android
+Votre gestionnaire de certificats PDF pour iOS, macOS et Android
 
 **PDF Wallet** est une application mobile pour stocker, organiser et afficher vos PDF les plus importants. La plupart des fonctionnalités de base (comme la visualisation des PDF, l'affichage des codes-barres en plein écran et le tri de base) sont gratuites. Un achat intégré optionnel débloque toutes les fonctionnalités supplémentaires.
 
-## Télécharger pour iOS
+## Télécharger pour iOS et macOS
 <a href="https://apps.apple.com/app/6767864357">
   <img 
     src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" 
