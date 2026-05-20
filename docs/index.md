@@ -36,7 +36,6 @@ Your iOS, macOS and Android PDF certificate manager
   - Sort and rename PDFs
   - Share PDFs from/to other apps
   - Dark Mode support
-  - Password protected PDFs support
 - **Paid Feature**:
   - Unlock all additional functionality with an in-app purchase
 

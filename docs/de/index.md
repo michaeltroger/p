@@ -36,7 +36,6 @@ Ihr iOS, macOS und Android PDF-Zertifikatsmanager
   - PDFs individuell sortierbar und benennbar
   - PDFs öffnen und teilen
   - Dark Mode (Dokument bleibt in Originalfarbe)
-  - Passwortgeschützte PDFs lesen
 - **Kostenpflichtige Funktion**:
   - Schalten Sie alle zusätzlichen Funktionen mit einem In-App-Kauf frei
 

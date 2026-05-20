@@ -36,7 +36,6 @@ Votre gestionnaire de certificats PDF pour iOS, macOS et Android
   - Trier et renommer les PDF
   - Partager des PDF depuis/vers d'autres applications
   - Mode sombre pris en charge
-  - Support des PDF protégés par mot de passe
 - **Fonctionnalité payante** :
   - Débloquez toutes les fonctionnalités supplémentaires avec un achat intégré
 
