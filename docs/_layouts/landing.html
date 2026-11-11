@@ -66,7 +66,8 @@
     .hero p { color:var(--muted); font-size:1.1rem; }
     .badges { display:flex; flex-wrap:wrap; align-items:center; gap:12px; margin-top:24px; }
     .badges img { height:56px; width:auto; display:block; }
-    .badges .play img { height:82px; margin:-13px; }
+    .badges .play img { height:73px; margin:-8.5px 0; }
+    .badges .play-padded img { height:82px; margin:-13px; }
     .hero-shot { text-align:center; }
     .hero-shot img { width:min(320px,80%); height:auto; filter:drop-shadow(0 20px 40px rgba(0,0,0,.25)); }
     section { padding:48px 0; }
@@ -109,7 +110,7 @@
           <p>{{ t.promo }}</p>
           <div class="badges" aria-label="{{ t.cta }}">
             <a href="https://apps.apple.com/app/6767864357"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store – {{ t.cta }}" width="168" height="56"></a>
-            <a class="play" href="https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&amp;hl={{ page.locale }}"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/{{ page.locale }}_badge_web_generic.png" alt="Google Play – {{ t.cta }}" width="212" height="82"></a>
+            <a class="play{% if page.locale == "en" or page.locale == "ar" %} play-padded{% endif %}" href="https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&amp;hl={{ page.locale }}"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/{{ page.locale }}_badge_web_generic.png" alt="Google Play – {{ t.cta }}" width="212" height="82"></a>
           </div>
         </div>
         <div class="hero-shot">
