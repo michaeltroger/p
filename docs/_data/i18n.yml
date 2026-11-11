@@ -1,0 +1,280 @@
+en:
+  lang: en-US
+  dir: ltr
+  label: English
+  title: "PDFWallet: Tickets & Barcodes"
+  subtitle: "Offline PDF tickets & QR codes"
+  description: "Store PDF tickets, boarding passes and certificates offline. Show QR codes & barcodes fullscreen. Free for iOS, macOS and Android – no ads, no tracking."
+  keywords: "pdf wallet, boarding pass, ticket, certificate, qr code, aztec, pdf417, ean, coupon, offline"
+  promo: "Travel season? Keep boarding passes, train tickets and event tickets in PDFWallet and show their QR codes in fullscreen, even offline."
+  cta: "Download for free"
+  features_title: "Everything you need, nothing you don't"
+  features:
+    - ["🔒", "Private by design", "Works offline, with no ads and no tracking. Your documents never leave your device."]
+    - ["📱", "Fullscreen barcodes", "Show QR, Aztec, DataMatrix, PDF417 and 1D barcodes fullscreen – scanned in seconds."]
+    - ["📄", "Crisp PDF viewing", "View your PDFs in high quality, even without an internet connection."]
+    - ["🏷️", "Tags & sorting", "Organize, rename and sort your documents exactly the way you want."]
+    - ["🌙", "Dark mode", "Beautiful in dark mode, with documents kept in their original colors."]
+    - ["👆", "Biometric lock", "Optionally protect your wallet with Face ID or fingerprint authentication."]
+  barcodes_title: "Supported barcodes"
+  screenshots_title: "Screenshots"
+  shots: ["All your tickets & passes in one wallet", "Show barcodes full screen, scan in seconds", "Crisp PDF viewing, even offline", "Organize documents with tags", "Sort your documents your way", "Scan-ready QR codes, day or night"]
+  pricing: "Core features like viewing PDFs, fullscreen barcodes and sorting are free. An optional in-app purchase unlocks all additional functionality."
+  privacy_title: "Privacy"
+  privacy_text: "This app operates entirely on your device."
+  privacy_link: "Read our Privacy Policy"
+  privacy_url: "/privacy/"
+  imprint: "Imprint"
+  privacy_policy: "Privacy Policy"
+de:
+  lang: de-DE
+  dir: ltr
+  label: Deutsch
+  title: "PDFWallet: Tickets & Barcodes"
+  subtitle: "PDF-Tickets & QR-Codes offline"
+  description: "PDF-Tickets, Bordkarten und Zertifikate offline speichern. QR-Codes & Barcodes im Vollbild zeigen. Kostenlos für iOS, macOS und Android – ohne Werbung und Tracking."
+  keywords: "pdf wallet, bordkarte, ticket, zertifikat, qr-code, aztec, pdf417, ean, gutschein, offline"
+  promo: "Reisezeit? Bordkarten, Bahn- und Eventtickets in PDFWallet speichern und ihre QR-Codes im Vollbild zeigen – auch offline."
+  cta: "Kostenlos herunterladen"
+  features_title: "Alles, was du brauchst – nichts, was du nicht brauchst"
+  features:
+    - ["🔒", "Privatsphäre zuerst", "Funktioniert offline, ohne Werbung und ohne Tracking. Deine Dokumente verlassen nie dein Gerät."]
+    - ["📱", "Barcodes im Vollbild", "QR-, Aztec-, DataMatrix-, PDF417- und 1D-Barcodes im Vollbild – in Sekunden gescannt."]
+    - ["📄", "Gestochen scharfe PDFs", "PDFs in hoher Qualität ansehen, auch ohne Internetverbindung."]
+    - ["🏷️", "Tags & Sortierung", "Dokumente organisieren, umbenennen und nach Wunsch sortieren."]
+    - ["🌙", "Dark Mode", "Wunderschön im Dark Mode – Dokumente bleiben in Originalfarbe."]
+    - ["👆", "Biometrische Sperre", "Optional mit Face ID oder Fingerabdruck schützen."]
+  barcodes_title: "Unterstützte Barcodes"
+  screenshots_title: "Screenshots"
+  shots: ["Alle Tickets & Pässe in einer Wallet", "Barcodes im Vollbild, in Sekunden gescannt", "Gestochen scharfe PDFs, auch offline", "Dokumente mit Tags organisieren", "Sortiere Dokumente nach deinem Wunsch", "Scanbereite QR-Codes, bei Tag und Nacht"]
+  pricing: "Kernfunktionen wie PDF-Anzeige, Vollbild-Barcodes und Sortierung sind kostenlos. Ein optionaler In-App-Kauf schaltet alle weiteren Funktionen frei."
+  privacy_title: "Datenschutz"
+  privacy_text: "Diese App funktioniert vollständig auf deinem Gerät."
+  privacy_link: "Datenschutzerklärung lesen"
+  privacy_url: "/privacy/de/"
+  imprint: "Impressum"
+  privacy_policy: "Datenschutzerklärung"
+es:
+  lang: es-ES
+  dir: ltr
+  label: Español
+  title: "PDFWallet: Entradas y Códigos"
+  subtitle: "Entradas PDF y QR sin conexión"
+  description: "Guarda entradas PDF, tarjetas de embarque y certificados sin conexión. Muestra códigos QR y de barras a pantalla completa. Gratis para iOS, macOS y Android, sin anuncios ni rastreo."
+  keywords: "pdf wallet, tarjeta de embarque, entrada, certificado, código qr, aztec, pdf417, ean, cupón, sin conexión"
+  promo: "¿Temporada de viajes? Guarda tarjetas de embarque, billetes de tren y entradas en PDFWallet y muestra sus códigos QR en pantalla completa, incluso sin conexión."
+  cta: "Descargar gratis"
+  features_title: "Todo lo que necesitas, nada más"
+  features:
+    - ["🔒", "Privacidad ante todo", "Funciona sin conexión, sin anuncios y sin rastreo. Tus documentos nunca salen de tu dispositivo."]
+    - ["📱", "Códigos a pantalla completa", "Muestra códigos QR, Aztec, DataMatrix, PDF417 y 1D a pantalla completa, escaneados en segundos."]
+    - ["📄", "PDF nítidos", "Visualiza tus PDF en alta calidad, incluso sin conexión a internet."]
+    - ["🏷️", "Etiquetas y orden", "Organiza, renombra y ordena tus documentos a tu manera."]
+    - ["🌙", "Modo oscuro", "Precioso en modo oscuro, con los documentos en sus colores originales."]
+    - ["👆", "Bloqueo biométrico", "Protege tu cartera opcionalmente con Face ID o huella dactilar."]
+  barcodes_title: "Códigos compatibles"
+  screenshots_title: "Capturas de pantalla"
+  shots: ["Todos tus billetes y pases en una cartera", "Códigos de barras a pantalla completa, escaneados en segundos", "PDF nítidos, incluso sin conexión", "Organiza documentos con etiquetas", "Ordena tus documentos a tu manera", "Códigos QR listos para escanear, de día o de noche"]
+  pricing: "Las funciones principales, como ver PDF, códigos a pantalla completa y ordenar, son gratuitas. Una compra opcional desbloquea todas las funciones adicionales."
+  privacy_title: "Privacidad"
+  privacy_text: "Esta app funciona completamente en tu dispositivo."
+  privacy_link: "Lee nuestra Política de Privacidad"
+  privacy_url: "/privacy/es/"
+  imprint: "Aviso legal"
+  privacy_policy: "Política de Privacidad"
+fr:
+  lang: fr-FR
+  dir: ltr
+  label: Français
+  title: "PDFWallet : Billets & Codes"
+  subtitle: "Billets PDF et QR hors ligne"
+  description: "Stockez billets PDF, cartes d'embarquement et certificats hors ligne. Affichez QR codes et codes-barres en plein écran. Gratuit sur iOS, macOS et Android, sans pub ni pistage."
+  keywords: "pdf wallet, carte d'embarquement, billet, certificat, qr code, aztec, pdf417, ean, bon, hors ligne"
+  promo: "Vous voyagez ? Gardez cartes d'embarquement, billets de train et d'événements dans PDFWallet et affichez leurs QR codes en plein écran, même hors ligne."
+  cta: "Télécharger gratuitement"
+  features_title: "Tout ce qu'il vous faut, rien de superflu"
+  features:
+    - ["🔒", "Respect de la vie privée", "Fonctionne hors ligne, sans publicité ni pistage. Vos documents ne quittent jamais votre appareil."]
+    - ["📱", "Codes en plein écran", "Affichez QR, Aztec, DataMatrix, PDF417 et codes 1D en plein écran, scannés en quelques secondes."]
+    - ["📄", "PDF nets", "Consultez vos PDF en haute qualité, même sans connexion internet."]
+    - ["🏷️", "Tags et tri", "Organisez, renommez et triez vos documents à votre façon."]
+    - ["🌙", "Mode sombre", "Superbe en mode sombre, les documents gardent leurs couleurs d'origine."]
+    - ["👆", "Verrou biométrique", "Protégez votre portefeuille avec Face ID ou l'empreinte digitale (optionnel)."]
+  barcodes_title: "Codes-barres pris en charge"
+  screenshots_title: "Captures d'écran"
+  shots: ["Tous vos billets et cartes dans un seul portefeuille", "Codes-barres en plein écran, scannés en quelques secondes", "Des PDF nets, même hors ligne", "Organisez vos documents avec des tags", "Triez vos documents à votre façon", "Codes QR prêts à scanner, de jour comme de nuit"]
+  pricing: "Les fonctions essentielles comme l'affichage des PDF, les codes en plein écran et le tri sont gratuites. Un achat intégré optionnel débloque toutes les fonctions supplémentaires."
+  privacy_title: "Confidentialité"
+  privacy_text: "Cette app fonctionne entièrement sur votre appareil."
+  privacy_link: "Lire notre politique de confidentialité"
+  privacy_url: "/privacy/fr/"
+  imprint: "Mentions légales"
+  privacy_policy: "Politique de confidentialité"
+it:
+  lang: it-IT
+  dir: ltr
+  label: Italiano
+  title: "PDFWallet: Biglietti e Codici"
+  subtitle: "Biglietti PDF e QR offline"
+  description: "Conserva biglietti PDF, carte d'imbarco e certificati offline. Mostra codici QR e a barre a schermo intero. Gratis per iOS, macOS e Android, senza pubblicità né tracciamento."
+  keywords: "pdf wallet, carta d'imbarco, biglietto, certificato, codice qr, aztec, pdf417, ean, coupon, offline"
+  promo: "Si parte? Tieni carte d'imbarco, biglietti del treno e degli eventi in PDFWallet e mostra i loro codici QR a schermo intero, anche offline."
+  cta: "Scarica gratis"
+  features_title: "Tutto ciò che serve, niente di superfluo"
+  features:
+    - ["🔒", "Privacy al primo posto", "Funziona offline, senza pubblicità e senza tracciamento. I tuoi documenti non lasciano mai il dispositivo."]
+    - ["📱", "Codici a schermo intero", "Mostra codici QR, Aztec, DataMatrix, PDF417 e 1D a schermo intero, scansionati in pochi secondi."]
+    - ["📄", "PDF nitidi", "Visualizza i PDF in alta qualità, anche senza connessione."]
+    - ["🏷️", "Tag e ordinamento", "Organizza, rinomina e ordina i documenti come preferisci."]
+    - ["🌙", "Modalità scura", "Splendida in modalità scura, con i documenti nei colori originali."]
+    - ["👆", "Blocco biometrico", "Proteggi il wallet con Face ID o impronta digitale (opzionale)."]
+  barcodes_title: "Codici supportati"
+  screenshots_title: "Screenshot"
+  shots: ["Tutti i tuoi biglietti e pass in un unico wallet", "Codici a barre a schermo intero, scansionati in pochi secondi", "PDF nitidi, anche offline", "Organizza i documenti con i tag", "Ordina i documenti come preferisci", "Codici QR pronti da scansionare, di giorno e di notte"]
+  pricing: "Le funzioni principali come visualizzare PDF, codici a schermo intero e ordinamento sono gratuite. Un acquisto in-app opzionale sblocca tutte le funzioni aggiuntive."
+  privacy_title: "Privacy"
+  privacy_text: "Questa app funziona interamente sul tuo dispositivo."
+  privacy_link: "Leggi l'Informativa sulla Privacy"
+  privacy_url: "/privacy/it/"
+  imprint: "Informazioni legali"
+  privacy_policy: "Informativa sulla Privacy"
+pt:
+  lang: pt-BR
+  dir: ltr
+  label: Português
+  title: "PDFWallet: Ingressos e Códigos"
+  subtitle: "Ingressos PDF e QR offline"
+  description: "Guarde ingressos PDF, cartões de embarque e certificados offline. Mostre códigos QR e de barras em tela cheia. Grátis para iOS, macOS e Android, sem anúncios nem rastreamento."
+  keywords: "pdf wallet, cartão de embarque, ingresso, certificado, código qr, aztec, pdf417, ean, cupom, offline"
+  promo: "Hora de viajar? Guarde cartões de embarque, passagens de trem e ingressos no PDFWallet e mostre os códigos QR em tela cheia, mesmo offline."
+  cta: "Baixar grátis"
+  features_title: "Tudo o que você precisa, nada a mais"
+  features:
+    - ["🔒", "Privacidade em primeiro lugar", "Funciona offline, sem anúncios e sem rastreamento. Seus documentos nunca saem do seu aparelho."]
+    - ["📱", "Códigos em tela cheia", "Mostre códigos QR, Aztec, DataMatrix, PDF417 e 1D em tela cheia, lidos em segundos."]
+    - ["📄", "PDFs nítidos", "Veja seus PDFs em alta qualidade, mesmo sem internet."]
+    - ["🏷️", "Tags e ordenação", "Organize, renomeie e ordene seus documentos do seu jeito."]
+    - ["🌙", "Modo escuro", "Lindo no modo escuro, com documentos nas cores originais."]
+    - ["👆", "Bloqueio biométrico", "Proteja sua carteira com Face ID ou impressão digital (opcional)."]
+  barcodes_title: "Códigos suportados"
+  screenshots_title: "Capturas de tela"
+  shots: ["Todos os seus bilhetes e passes em uma carteira", "Códigos de barras em tela cheia, lidos em segundos", "PDFs nítidos, mesmo offline", "Organize documentos com tags", "Ordene seus documentos do seu jeito", "Códigos QR prontos para leitura, de dia ou de noite"]
+  pricing: "Recursos principais como visualizar PDFs, códigos em tela cheia e ordenação são gratuitos. Uma compra opcional no app desbloqueia todos os recursos adicionais."
+  privacy_title: "Privacidade"
+  privacy_text: "Este app funciona inteiramente no seu dispositivo."
+  privacy_link: "Leia nossa Política de Privacidade"
+  privacy_url: "/privacy/pt/"
+  imprint: "Informações legais"
+  privacy_policy: "Política de Privacidade"
+ja:
+  lang: ja-JP
+  dir: ltr
+  label: 日本語
+  title: "PDFWallet: チケット＆バーコード"
+  subtitle: "PDFチケットとQRをオフラインで"
+  description: "PDFチケット、搭乗券、証明書をオフラインで保存。QRコードやバーコードを全画面表示。iOS・macOS・Android対応の無料アプリ。広告・トラッキングなし。"
+  keywords: "pdf wallet, 搭乗券, チケット, 証明書, qrコード, aztec, pdf417, ean, クーポン, オフライン"
+  promo: "旅行シーズンに。搭乗券や電車・イベントのチケットをPDFWalletに保存して、オフラインでもQRコードを全画面表示できます。"
+  cta: "無料でダウンロード"
+  features_title: "必要なものをすべて、シンプルに"
+  features:
+    - ["🔒", "プライバシー重視", "オフラインで動作し、広告もトラッキングもありません。書類が端末の外に出ることはありません。"]
+    - ["📱", "全画面バーコード", "QR、Aztec、DataMatrix、PDF417、1Dバーコードを全画面表示してすぐにスキャン。"]
+    - ["📄", "鮮明なPDF表示", "インターネット接続がなくても高品質でPDFを表示。"]
+    - ["🏷️", "タグと並べ替え", "書類を整理・名前変更し、自由に並べ替え。"]
+    - ["🌙", "ダークモード", "ダークモードでも美しく、書類は元の色のまま表示。"]
+    - ["👆", "生体認証ロック", "Face IDや指紋認証でウォレットを保護（任意）。"]
+  barcodes_title: "対応バーコード"
+  screenshots_title: "スクリーンショット"
+  shots: ["チケットやパスをひとつのウォレットに", "バーコードを全画面表示、すぐにスキャン", "オフラインでも鮮明なPDF表示", "タグでドキュメントを整理", "ドキュメントを自由に並べ替え", "昼でも夜でもすぐ読み取れるQRコード"]
+  pricing: "PDF表示、全画面バーコード、並べ替えなどの基本機能は無料。オプションのアプリ内課金ですべての追加機能が使えます。"
+  privacy_title: "プライバシー"
+  privacy_text: "このアプリは完全に端末上で動作します。"
+  privacy_link: "プライバシーポリシーを読む"
+  privacy_url: "/privacy/"
+  imprint: "運営者情報"
+  privacy_policy: "プライバシーポリシー"
+ko:
+  lang: ko-KR
+  dir: ltr
+  label: 한국어
+  title: "PDFWallet: 티켓 & 바코드"
+  subtitle: "오프라인 PDF 티켓 & QR 코드"
+  description: "PDF 티켓, 탑승권, 인증서를 오프라인으로 보관하세요. QR 코드와 바코드를 전체 화면으로 표시. iOS, macOS, Android용 무료 앱, 광고 및 추적 없음."
+  keywords: "pdf wallet, 탑승권, 티켓, 인증서, qr 코드, aztec, pdf417, ean, 쿠폰, 오프라인"
+  promo: "여행 시즌인가요? 탑승권, 기차표, 공연 티켓을 PDFWallet에 보관하고 오프라인에서도 QR 코드를 전체 화면으로 보여주세요."
+  cta: "무료 다운로드"
+  features_title: "필요한 모든 것, 군더더기 없이"
+  features:
+    - ["🔒", "개인정보 보호", "오프라인으로 작동하며 광고와 추적이 없습니다. 문서는 기기 밖으로 나가지 않습니다."]
+    - ["📱", "전체 화면 바코드", "QR, Aztec, DataMatrix, PDF417 및 1D 바코드를 전체 화면으로 표시해 몇 초 만에 스캔."]
+    - ["📄", "선명한 PDF", "인터넷 연결 없이도 고화질로 PDF를 확인하세요."]
+    - ["🏷️", "태그 및 정렬", "문서를 정리하고 이름을 바꾸고 원하는 대로 정렬하세요."]
+    - ["🌙", "다크 모드", "다크 모드에서도 아름답고, 문서는 원래 색상을 유지합니다."]
+    - ["👆", "생체 인식 잠금", "Face ID 또는 지문으로 지갑을 보호하세요(선택 사항)."]
+  barcodes_title: "지원 바코드"
+  screenshots_title: "스크린샷"
+  shots: ["모든 티켓과 패스를 하나의 지갑에", "바코드를 전체 화면으로, 몇 초 만에 스캔", "오프라인에서도 선명한 PDF 보기", "태그로 문서 정리", "원하는 방식으로 문서 정렬", "낮이든 밤이든 스캔 준비된 QR 코드"]
+  pricing: "PDF 보기, 전체 화면 바코드, 정렬 등 핵심 기능은 무료입니다. 선택적 인앱 구매로 모든 추가 기능을 사용할 수 있습니다."
+  privacy_title: "개인정보"
+  privacy_text: "이 앱은 전적으로 기기에서 작동합니다."
+  privacy_link: "개인정보 처리방침 읽기"
+  privacy_url: "/privacy/"
+  imprint: "법적 고지"
+  privacy_policy: "개인정보 처리방침"
+ru:
+  lang: ru-RU
+  dir: ltr
+  label: Русский
+  title: "PDFWallet: билеты и штрихкоды"
+  subtitle: "PDF-билеты и QR-коды офлайн"
+  description: "Храните PDF-билеты, посадочные талоны и сертификаты офлайн. Показывайте QR-коды и штрихкоды на весь экран. Бесплатно для iOS, macOS и Android, без рекламы и слежки."
+  keywords: "pdf wallet, посадочный талон, билет, сертификат, qr-код, aztec, pdf417, ean, купон, офлайн"
+  promo: "Время путешествий? Храните посадочные талоны, ж/д и концертные билеты в PDFWallet и показывайте QR-коды на весь экран даже без интернета."
+  cta: "Скачать бесплатно"
+  features_title: "Всё нужное, ничего лишнего"
+  features:
+    - ["🔒", "Конфиденциальность", "Работает офлайн, без рекламы и отслеживания. Документы никогда не покидают устройство."]
+    - ["📱", "Коды на весь экран", "QR, Aztec, DataMatrix, PDF417 и 1D-штрихкоды на весь экран — сканирование за секунды."]
+    - ["📄", "Чёткие PDF", "Просматривайте PDF в высоком качестве даже без интернета."]
+    - ["🏷️", "Теги и сортировка", "Упорядочивайте, переименовывайте и сортируйте документы как удобно."]
+    - ["🌙", "Тёмная тема", "Красиво в тёмной теме, документы сохраняют исходные цвета."]
+    - ["👆", "Биометрическая защита", "Защитите кошелёк с помощью Face ID или отпечатка пальца (по желанию)."]
+  barcodes_title: "Поддерживаемые коды"
+  screenshots_title: "Скриншоты"
+  shots: ["Все билеты и пропуска в одном кошельке", "Штрихкоды на весь экран — сканирование за секунды", "Чёткий просмотр PDF даже офлайн", "Упорядочивайте документы с помощью тегов", "Сортируйте документы как удобно", "QR-коды готовы к сканированию днём и ночью"]
+  pricing: "Основные функции — просмотр PDF, коды на весь экран и сортировка — бесплатны. Дополнительная встроенная покупка открывает все остальные функции."
+  privacy_title: "Конфиденциальность"
+  privacy_text: "Приложение работает полностью на вашем устройстве."
+  privacy_link: "Политика конфиденциальности"
+  privacy_url: "/privacy/"
+  imprint: "Выходные данные"
+  privacy_policy: "Политика конфиденциальности"
+ar:
+  lang: ar-SA
+  dir: rtl
+  label: العربية
+  title: "PDFWallet: تذاكر وباركود"
+  subtitle: "تذاكر PDF ورموز QR دون اتصال"
+  description: "احفظ تذاكر PDF وبطاقات الصعود والشهادات دون اتصال. اعرض رموز QR والباركود بملء الشاشة. مجاني لأنظمة iOS وmacOS وAndroid، بلا إعلانات أو تتبع."
+  keywords: "pdf wallet, بطاقة صعود, تذكرة, شهادة, رمز qr, aztec, pdf417, ean, قسيمة, دون اتصال"
+  promo: "موسم السفر؟ احفظ بطاقات الصعود وتذاكر القطار والفعاليات في PDFWallet واعرض رموز QR بملء الشاشة حتى دون اتصال."
+  cta: "تنزيل مجاني"
+  features_title: "كل ما تحتاجه، دون أي زيادة"
+  features:
+    - ["🔒", "الخصوصية أولًا", "يعمل دون اتصال، بلا إعلانات أو تتبع. مستنداتك لا تغادر جهازك أبدًا."]
+    - ["📱", "باركود بملء الشاشة", "اعرض رموز QR وAztec وDataMatrix وPDF417 والباركود الخطي بملء الشاشة وامسحها في ثوانٍ."]
+    - ["📄", "عرض PDF واضح", "اعرض ملفات PDF بجودة عالية حتى دون اتصال بالإنترنت."]
+    - ["🏷️", "الوسوم والترتيب", "نظّم مستنداتك وأعد تسميتها ورتّبها بطريقتك."]
+    - ["🌙", "الوضع الداكن", "جميل في الوضع الداكن مع الحفاظ على الألوان الأصلية للمستندات."]
+    - ["👆", "قفل بيومتري", "احمِ محفظتك باستخدام Face ID أو بصمة الإصبع (اختياري)."]
+  barcodes_title: "الرموز المدعومة"
+  screenshots_title: "لقطات الشاشة"
+  shots: ["كل تذاكرك وبطاقاتك في محفظة واحدة", "اعرض الرموز الشريطية بملء الشاشة وامسحها في ثوانٍ", "عرض PDF واضح حتى دون اتصال", "نظّم المستندات باستخدام الوسوم", "رتّب مستنداتك بطريقتك", "رموز QR جاهزة للمسح ليلًا ونهارًا"]
+  pricing: "الميزات الأساسية مثل عرض PDF والباركود بملء الشاشة والترتيب مجانية. يفتح شراء اختياري داخل التطبيق جميع الميزات الإضافية."
+  privacy_title: "الخصوصية"
+  privacy_text: "يعمل هذا التطبيق بالكامل على جهازك."
+  privacy_link: "اقرأ سياسة الخصوصية"
+  privacy_url: "/privacy/"
+  imprint: "بيانات الناشر"
+  privacy_policy: "سياسة الخصوصية"

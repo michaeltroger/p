@@ -1,0 +1,162 @@
+{%- assign t = site.data.i18n[page.locale] -%}
+{%- assign base = site.url | default: "https://pdfwallet.troger.app" -%}
+{%- assign shot_files = "01_list,02_barcode,03_pdf,05_tags,06_sorting,07_darkmode_barcode" | split: "," -%}
+{%- assign og_image = base | append: "/assets/screenshots/" | append: page.locale | append: "/01_list.jpg" -%}
+{%- assign canonical = base | append: "/" | append: page.locale | append: "/" -%}
+<!DOCTYPE html>
+<html lang="{{ t.lang }}" dir="{{ t.dir }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ t.title }} – {{ t.subtitle }}</title>
+  <meta name="description" content="{{ t.description }}">
+  <meta name="keywords" content="{{ t.keywords }}">
+  <meta name="author" content="Michael Troger">
+  <meta name="theme-color" content="#1b5e20">
+  <link rel="canonical" href="{{ canonical }}">
+  {%- for l in site.data.i18n %}
+  <link rel="alternate" hreflang="{{ l[0] }}" href="{{ base }}/{{ l[0] }}/">
+  {%- endfor %}
+  <link rel="alternate" hreflang="x-default" href="{{ base }}/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="PDFWallet">
+  <meta property="og:title" content="{{ t.title }}">
+  <meta property="og:description" content="{{ t.description }}">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta property="og:image" content="{{ og_image }}">
+  <meta property="og:locale" content="{{ t.lang | replace: '-', '_' }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ t.title }}">
+  <meta name="twitter:description" content="{{ t.description }}">
+  <meta name="twitter:image" content="{{ og_image }}">
+  <meta name="apple-itunes-app" content="app-id=6767864357">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "PDFWallet",
+    "alternateName": {{ t.title | jsonify }},
+    "description": {{ t.description | jsonify }},
+    "inLanguage": {{ t.lang | jsonify }},
+    "url": {{ canonical | jsonify }},
+    "image": {{ og_image | jsonify }},
+    "applicationCategory": "UtilitiesApplication",
+    "operatingSystem": "iOS, macOS, Android",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "author": { "@type": "Person", "name": "Michael Troger", "url": "https://michaeltroger.com" },
+    "sameAs": [
+      "https://apps.apple.com/app/6767864357",
+      "https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass"
+    ]
+  }
+  </script>
+  <style>
+    :root { --bg:#f6f8f6; --fg:#14201a; --muted:#56635b; --card:#fff; --accent:#1b5e20; --accent2:#43a047; --border:#e1e7e2; }
+    @media (prefers-color-scheme: dark) { :root { --bg:#0f1512; --fg:#e8efe9; --muted:#a3b0a7; --card:#18211c; --accent:#81c784; --accent2:#4caf50; --border:#26322b; } }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans",Helvetica,Arial,sans-serif; background:var(--bg); color:var(--fg); line-height:1.6; }
+    a { color:var(--accent); }
+    .wrap { max-width:1100px; margin:0 auto; padding:0 20px; }
+    header.nav { display:flex; justify-content:space-between; align-items:center; padding:16px 0; gap:12px; }
+    .brand { font-weight:700; font-size:1.2rem; text-decoration:none; color:var(--fg); }
+    select { background:var(--card); color:var(--fg); border:1px solid var(--border); border-radius:8px; padding:6px 10px; font-size:.95rem; }
+    .hero { display:grid; grid-template-columns:1.1fr .9fr; gap:40px; align-items:center; padding:40px 0 60px; }
+    .hero h1 { font-size:clamp(2rem,4.5vw,3.2rem); line-height:1.15; margin:0 0 12px; }
+    .hero .sub { font-size:1.3rem; color:var(--accent); font-weight:600; margin:0 0 16px; }
+    .hero p { color:var(--muted); font-size:1.1rem; }
+    .badges { display:flex; flex-wrap:wrap; align-items:center; gap:12px; margin-top:24px; }
+    .badges img { height:56px; width:auto; display:block; }
+    .badges .play img { height:82px; margin:-13px; }
+    .hero-shot { text-align:center; }
+    .hero-shot img { width:min(320px,80%); height:auto; filter:drop-shadow(0 20px 40px rgba(0,0,0,.25)); }
+    section { padding:48px 0; }
+    h2 { font-size:clamp(1.5rem,3vw,2.1rem); text-align:center; margin:0 0 32px; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:20px; }
+    .card { background:var(--card); border:1px solid var(--border); border-radius:16px; padding:24px; }
+    .card .ico { font-size:1.8rem; }
+    .card h3 { margin:8px 0; font-size:1.15rem; }
+    .card p { margin:0; color:var(--muted); }
+    .gallery { display:flex; gap:20px; overflow-x:auto; scroll-snap-type:x mandatory; padding-bottom:12px; }
+    .gallery figure { flex:0 0 auto; width:240px; margin:0; scroll-snap-align:center; text-align:center; }
+    .gallery img { width:100%; height:auto; border-radius:18px; }
+    .gallery figcaption { font-size:.9rem; color:var(--muted); margin-top:8px; }
+    .chips { display:flex; flex-wrap:wrap; justify-content:center; gap:8px; }
+    .chip { background:var(--card); border:1px solid var(--border); border-radius:999px; padding:6px 14px; font-size:.9rem; }
+    .pricing { text-align:center; max-width:720px; margin:0 auto; color:var(--muted); font-size:1.05rem; }
+    footer { border-top:1px solid var(--border); padding:24px 0 40px; color:var(--muted); font-size:.9rem; display:flex; flex-wrap:wrap; gap:16px; justify-content:space-between; }
+    @media (max-width:800px) { .hero { grid-template-columns:1fr; text-align:center; padding-top:16px; } .badges { justify-content:center; } }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="nav">
+      <a class="brand" href="{{ '/' | append: page.locale | append: '/' | relative_url }}">📄 PDFWallet</a>
+      <label>
+        <span hidden>Language</span>
+        <select aria-label="Language" onchange="try{localStorage.setItem('lang',this.value)}catch(e){};location.href='{{ '/' | relative_url }}'+this.value+'/'">
+          {%- for l in site.data.i18n %}
+          <option value="{{ l[0] }}"{% if l[0] == page.locale %} selected{% endif %}>{{ l[1].label }}</option>
+          {%- endfor %}
+        </select>
+      </label>
+    </header>
+
+    <main>
+      <div class="hero">
+        <div>
+          <h1>{{ t.title }}</h1>
+          <p class="sub">{{ t.subtitle }}</p>
+          <p>{{ t.promo }}</p>
+          <div class="badges" aria-label="{{ t.cta }}">
+            <a href="https://apps.apple.com/app/6767864357"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store – {{ t.cta }}" width="168" height="56"></a>
+            <a class="play" href="https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&amp;hl={{ page.locale }}"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/{{ page.locale }}_badge_web_generic.png" alt="Google Play – {{ t.cta }}" width="212" height="82"></a>
+          </div>
+        </div>
+        <div class="hero-shot">
+          <img src="{{ '/assets/screenshots/' | append: page.locale | append: '/02_barcode.jpg' | relative_url }}" alt="{{ t.shots[1] }}" width="540" height="1173" fetchpriority="high">
+        </div>
+      </div>
+
+      <section>
+        <h2>{{ t.features_title }}</h2>
+        <div class="grid">
+          {%- for f in t.features %}
+          <div class="card"><div class="ico" aria-hidden="true">{{ f[0] }}</div><h3>{{ f[1] }}</h3><p>{{ f[2] }}</p></div>
+          {%- endfor %}
+        </div>
+      </section>
+
+      <section>
+        <h2>{{ t.screenshots_title }}</h2>
+        <div class="gallery">
+          {%- for s in shot_files %}
+          <figure>
+            <img src="{{ '/assets/screenshots/' | append: page.locale | append: '/' | append: s | append: '.jpg' | relative_url }}" alt="{{ t.shots[forloop.index0] }}" width="540" height="1173" loading="lazy" decoding="async">
+            <figcaption>{{ t.shots[forloop.index0] }}</figcaption>
+          </figure>
+          {%- endfor %}
+        </div>
+      </section>
+
+      <section>
+        <h2>{{ t.barcodes_title }}</h2>
+        <div class="chips">
+          {%- assign codes = "QR,Aztec,DataMatrix,PDF417,UPC-A,UPC-E,EAN-8,EAN-13,Code 39,Code 93,Code 128,ITF,Codabar" | split: "," -%}
+          {%- for c in codes %}<span class="chip">{{ c }}</span>{% endfor %}
+        </div>
+        <p class="pricing" style="margin-top:32px">{{ t.pricing }}</p>
+      </section>
+
+      <section>
+        <h2>{{ t.privacy_title }}</h2>
+        <p class="pricing">{{ t.privacy_text }} <a href="{{ t.privacy_url | relative_url }}">{{ t.privacy_link }}</a></p>
+      </section>
+    </main>
+
+    <footer>
+      <span><a href="https://michaeltroger.com">© Michael Troger</a></span>
+      <span><a href="https://michaeltroger.com/imprint">{{ t.imprint }}</a> · <a href="https://michaeltroger.com/privacy">{{ t.privacy_policy }}</a></span>
+    </footer>
+  </div>
+</body>
+</html>

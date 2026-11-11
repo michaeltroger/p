@@ -1,0 +1,42 @@
+---
+layout: null
+permalink: /
+---
+{%- assign base = site.url -%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.data.i18n.en.title }} – {{ site.data.i18n.en.subtitle }}</title>
+  <meta name="description" content="{{ site.data.i18n.en.description }}">
+  <link rel="canonical" href="{{ base }}/en/">
+  {%- for l in site.data.i18n %}
+  <link rel="alternate" hreflang="{{ l[0] }}" href="{{ base }}/{{ l[0] }}/">
+  {%- endfor %}
+  <link rel="alternate" hreflang="x-default" href="{{ base }}/">
+  <script>
+    (function () {
+      var supported = [{% for l in site.data.i18n %}"{{ l[0] }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+      var pick = null;
+      try { var saved = localStorage.getItem("lang"); if (supported.indexOf(saved) >= 0) pick = saved; } catch (e) {}
+      if (!pick) {
+        var langs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || "en"];
+        for (var i = 0; i < langs.length && !pick; i++) {
+          var code = String(langs[i]).toLowerCase().split("-")[0];
+          if (supported.indexOf(code) >= 0) pick = code;
+        }
+      }
+      location.replace("{{ '/' | relative_url }}" + (pick || "en") + "/" + location.search + location.hash);
+    })();
+  </script>
+  <noscript><meta http-equiv="refresh" content="0; url={{ '/en/' | relative_url }}"></noscript>
+</head>
+<body>
+  <ul>
+    {%- for l in site.data.i18n %}
+    <li><a href="{{ '/' | append: l[0] | append: '/' | relative_url }}" hreflang="{{ l[0] }}">{{ l[1].label }}</a></li>
+    {%- endfor %}
+  </ul>
+</body>
+</html>
