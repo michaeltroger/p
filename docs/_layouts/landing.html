@@ -90,7 +90,7 @@
 <body>
   <div class="wrap">
     <header class="nav">
-      <a class="brand" href="{{ '/' | append: page.locale | append: '/' | relative_url }}">📄 PDFWallet</a>
+      <a class="brand" href="{{ '/' | append: page.locale | append: '/' | relative_url }}">PDFWallet</a>
       <label>
         <span hidden>Language</span>
         <select aria-label="Language" onchange="try{localStorage.setItem('lang',this.value)}catch(e){};location.href='{{ '/' | relative_url }}'+this.value+'/'">
