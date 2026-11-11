@@ -155,9 +155,10 @@
     </main>
 
     <footer>
-      <span><a href="https://michaeltroger.com">© Michael Troger</a></span>
+      <span><a href="https://michaeltroger.com">© <span class="copyright-year">{{ "now" | date: "%Y" }}</span> Michael Troger</a></span>
       <span><a href="https://michaeltroger.com/imprint">{{ t.imprint }}</a> · <a href="https://michaeltroger.com/privacy">{{ t.privacy_policy }}</a></span>
     </footer>
   </div>
+  <script>document.querySelectorAll(".copyright-year").forEach(function (e) { e.textContent = new Date().getFullYear(); });</script>
 </body>
 </html>

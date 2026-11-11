@@ -3,7 +3,7 @@ noindex: true
 title: Informativa sulla Privacy
 ---
 
-## [EN]({{ "/privacy" | relative_url }}) | [DE]({{ "/privacy/de" | relative_url }}) | [ES]({{ "/privacy/es" | relative_url }}) | [FR]({{ "/privacy/fr" | relative_url }}) | [IT]({{ "/privacy/it" | relative_url }}) | [PT]({{ "/privacy/pt" | relative_url }})
+## [EN]({{ "/privacy/en" | relative_url }}) | [DE]({{ "/privacy/de" | relative_url }}) | [ES]({{ "/privacy/es" | relative_url }}) | [FR]({{ "/privacy/fr" | relative_url }}) | [IT]({{ "/privacy/it" | relative_url }}) | [PT]({{ "/privacy/pt" | relative_url }})
 
 # PDF Wallet: Informativa sulla Privacy
 

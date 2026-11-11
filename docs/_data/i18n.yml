@@ -23,7 +23,7 @@ en:
   privacy_title: "Privacy"
   privacy_text: "This app operates entirely on your device."
   privacy_link: "Read our Privacy Policy"
-  privacy_url: "/privacy/"
+  privacy_url: "/privacy/en/"
   imprint: "Imprint"
   privacy_policy: "Privacy Policy"
 de:
