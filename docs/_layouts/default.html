@@ -19,6 +19,23 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
+{%- assign url_parts = page.url | split: "/" -%}
+{%- if url_parts[1] == "privacy" and url_parts[2] -%}
+{%- assign privacy_locale = url_parts[2] -%}
+{%- assign privacy_langs = "en,de,es,fr,it,pt" | split: "," %}
+      <div class="text-right mb-3">
+        <label>
+          <span hidden>Language</span>
+          <select aria-label="Language" style="border:1px solid #e1e7e2;border-radius:8px;padding:6px 10px;font-size:.95rem;" onchange="try{localStorage.setItem('lang',this.value)}catch(e){};location.href='{{ '/privacy/' | relative_url }}'+this.value+'/'">
+            {%- for l in site.data.i18n %}
+            {%- if privacy_langs contains l[0] %}
+            <option value="{{ l[0] }}"{% if l[0] == privacy_locale %} selected{% endif %}>{{ l[1].label }}</option>
+            {%- endif %}
+            {%- endfor %}
+          </select>
+        </label>
+      </div>
+{%- endif %}
 
       {{ content }}
 
