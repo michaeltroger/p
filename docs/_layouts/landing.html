@@ -1,5 +1,5 @@
 {%- assign t = site.data.i18n[page.locale] -%}
-{%- assign base = site.url | default: "https://pdfwallet.troger.app" -%}
+{%- assign base = site.url | default: "https://pdfwallet.app" -%}
 {%- assign shot_files = "01_list,02_barcode,03_pdf,05_tags,06_sorting,07_darkmode_barcode" | split: "," -%}
 {%- assign og_image = base | append: "/assets/screenshots/" | append: page.locale | append: "/01_list.jpg" -%}
 {%- assign canonical = base | append: "/" | append: page.locale | append: "/" -%}
