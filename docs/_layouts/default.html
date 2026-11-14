@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.noindex %}
+    <meta name="robots" content="noindex">
+  {% endif %}
   {% if page.hreflang %}
       <link rel="alternate" hreflang="en" href="{{ '/' | absolute_url }}" />
       <link rel="alternate" hreflang="de" href="{{ 'de' | absolute_url }}" />
