@@ -21,12 +21,7 @@ User-agent: cohere-ai
 User-agent: DuckAssistBot
 User-agent: MistralAI-User
 Allow: /
-Disallow: /privacy/
-Disallow: /en/privacy/
-Disallow: /de/privacy/
-Disallow: /fr/privacy/
-Disallow: /pt/privacy/
-Disallow: /es/privacy/
-Disallow: /it/privacy/
+Disallow: /privacy
+Disallow: /*/privacy
 
 Sitemap: https://pdfwallet.app/sitemap.xml
