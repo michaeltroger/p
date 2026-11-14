@@ -7,15 +7,6 @@
   {% if page.noindex %}
     <meta name="robots" content="noindex, noai, noimageai">
   {% endif %}
-  {% if page.hreflang %}
-      <link rel="alternate" hreflang="en" href="{{ '/' | absolute_url }}" />
-      <link rel="alternate" hreflang="de" href="{{ 'de' | absolute_url }}" />
-      <link rel="alternate" hreflang="es" href="{{ 'es' | absolute_url }}" />
-      <link rel="alternate" hreflang="fr" href="{{ 'fr' | absolute_url }}" />
-      <link rel="alternate" hreflang="it" href="{{ 'it' | absolute_url }}" />
-      <link rel="alternate" hreflang="pt" href="{{ 'pt' | absolute_url }}" />
-      <link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}" />
-{% endif %}
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
