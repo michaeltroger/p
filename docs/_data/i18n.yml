@@ -23,7 +23,7 @@ en:
   privacy_title: "Privacy"
   privacy_text: "This app operates entirely on your device."
   privacy_link: "Read our Privacy Policy"
-  privacy_url: "/privacy/en/"
+  privacy_url: "/en/privacy/"
   imprint: "Imprint"
   privacy_policy: "Privacy Policy"
 de:
@@ -51,7 +51,7 @@ de:
   privacy_title: "Datenschutz"
   privacy_text: "Diese App funktioniert vollständig auf deinem Gerät."
   privacy_link: "Datenschutzerklärung lesen"
-  privacy_url: "/privacy/de/"
+  privacy_url: "/de/privacy/"
   imprint: "Impressum"
   privacy_policy: "Datenschutzerklärung"
 es:
@@ -79,7 +79,7 @@ es:
   privacy_title: "Privacidad"
   privacy_text: "Esta app funciona completamente en tu dispositivo."
   privacy_link: "Lee nuestra Política de Privacidad"
-  privacy_url: "/privacy/es/"
+  privacy_url: "/es/privacy/"
   imprint: "Aviso legal"
   privacy_policy: "Política de Privacidad"
 fr:
@@ -107,7 +107,7 @@ fr:
   privacy_title: "Confidentialité"
   privacy_text: "Cette app fonctionne entièrement sur votre appareil."
   privacy_link: "Lire notre politique de confidentialité"
-  privacy_url: "/privacy/fr/"
+  privacy_url: "/fr/privacy/"
   imprint: "Mentions légales"
   privacy_policy: "Politique de confidentialité"
 it:
@@ -135,7 +135,7 @@ it:
   privacy_title: "Privacy"
   privacy_text: "Questa app funziona interamente sul tuo dispositivo."
   privacy_link: "Leggi l'Informativa sulla Privacy"
-  privacy_url: "/privacy/it/"
+  privacy_url: "/it/privacy/"
   imprint: "Informazioni legali"
   privacy_policy: "Informativa sulla Privacy"
 pt:
@@ -163,7 +163,7 @@ pt:
   privacy_title: "Privacidade"
   privacy_text: "Este app funciona inteiramente no seu dispositivo."
   privacy_link: "Leia nossa Política de Privacidade"
-  privacy_url: "/privacy/pt/"
+  privacy_url: "/pt/privacy/"
   imprint: "Informações legais"
   privacy_policy: "Política de Privacidade"
 ja:

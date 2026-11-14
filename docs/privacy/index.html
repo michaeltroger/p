@@ -10,7 +10,7 @@ permalink: /privacy/
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
   <title>Privacy Policy</title>
-  <link rel="canonical" href="{{ site.url }}/privacy/en/">
+  <link rel="canonical" href="{{ site.url }}/en/privacy/">
   <script>
     (function () {
       var supported = [{% for l in supported %}"{{ l }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
@@ -23,15 +23,15 @@ permalink: /privacy/
           if (supported.indexOf(code) >= 0) pick = code;
         }
       }
-      location.replace("{{ '/privacy/' | relative_url }}" + (pick || "en") + "/" + location.search + location.hash);
+      location.replace("{{ '/' | relative_url }}" + (pick || "en") + "/privacy/" + location.search + location.hash);
     })();
   </script>
-  <noscript><meta http-equiv="refresh" content="0; url={{ '/privacy/en/' | relative_url }}"></noscript>
+  <noscript><meta http-equiv="refresh" content="0; url={{ '/en/privacy/' | relative_url }}"></noscript>
 </head>
 <body>
   <ul>
     {%- for l in supported %}
-    <li><a href="{{ '/privacy/' | append: l | append: '/' | relative_url }}" hreflang="{{ l }}">{{ l | upcase }}</a></li>
+    <li><a href="{{ '/' | append: l | append: '/privacy/' | relative_url }}" hreflang="{{ l }}">{{ l | upcase }}</a></li>
     {%- endfor %}
   </ul>
 </body>

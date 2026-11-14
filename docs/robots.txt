@@ -1,10 +1,10 @@
 User-agent: *
 Disallow: /privacy/
-Disallow: /privacy/en/
-Disallow: /privacy/de/
-Disallow: /privacy/fr/
-Disallow: /privacy/pt/
-Disallow: /privacy/es/
-Disallow: /privacy/it/
+Disallow: /en/privacy/
+Disallow: /de/privacy/
+Disallow: /fr/privacy/
+Disallow: /pt/privacy/
+Disallow: /es/privacy/
+Disallow: /it/privacy/
 
 Sitemap: https://pdfwallet.app/sitemap.xml
