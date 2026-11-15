@@ -8,6 +8,7 @@ en:
   keywords: "pdf wallet, boarding pass, ticket, certificate, qr code, aztec, pdf417, ean, coupon, offline"
   promo: "Travel season? Keep boarding passes, train tickets and event tickets in PDFWallet and show their QR codes in fullscreen, even offline."
   cta: "Download for free"
+  social_proof: "150,000+ downloads · 4.5 ★ on Google Play"
   features_title: "Everything you need, nothing you don't"
   features:
     - ["🔒", "Private by design", "Works offline, with no ads and no tracking. Your documents never leave your device."]
@@ -36,6 +37,7 @@ de:
   keywords: "pdf wallet, bordkarte, ticket, zertifikat, qr-code, aztec, pdf417, ean, gutschein, offline"
   promo: "Reisezeit? Bordkarten, Bahn- und Eventtickets in PDFWallet speichern und ihre QR-Codes im Vollbild zeigen – auch offline."
   cta: "Kostenlos herunterladen"
+  social_proof: "150.000+ Downloads · 4,5 ★ bei Google Play"
   features_title: "Alles, was du brauchst – nichts, was du nicht brauchst"
   features:
     - ["🔒", "Privatsphäre zuerst", "Funktioniert offline, ohne Werbung und ohne Tracking. Deine Dokumente verlassen nie dein Gerät."]
@@ -64,6 +66,7 @@ es:
   keywords: "pdf wallet, tarjeta de embarque, entrada, certificado, código qr, aztec, pdf417, ean, cupón, sin conexión"
   promo: "¿Temporada de viajes? Guarda tarjetas de embarque, billetes de tren y entradas en PDFWallet y muestra sus códigos QR en pantalla completa, incluso sin conexión."
   cta: "Descargar gratis"
+  social_proof: "150.000+ descargas · 4,5 ★ en Google Play"
   features_title: "Todo lo que necesitas, nada más"
   features:
     - ["🔒", "Privacidad ante todo", "Funciona sin conexión, sin anuncios y sin rastreo. Tus documentos nunca salen de tu dispositivo."]
@@ -92,6 +95,7 @@ fr:
   keywords: "pdf wallet, carte d'embarquement, billet, certificat, qr code, aztec, pdf417, ean, bon, hors ligne"
   promo: "Vous voyagez ? Gardez cartes d'embarquement, billets de train et d'événements dans PDFWallet et affichez leurs QR codes en plein écran, même hors ligne."
   cta: "Télécharger gratuitement"
+  social_proof: "150 000+ téléchargements · 4,5 ★ sur Google Play"
   features_title: "Tout ce qu'il vous faut, rien de superflu"
   features:
     - ["🔒", "Respect de la vie privée", "Fonctionne hors ligne, sans publicité ni pistage. Vos documents ne quittent jamais votre appareil."]
@@ -120,6 +124,7 @@ it:
   keywords: "pdf wallet, carta d'imbarco, biglietto, certificato, codice qr, aztec, pdf417, ean, coupon, offline"
   promo: "Si parte? Tieni carte d'imbarco, biglietti del treno e degli eventi in PDFWallet e mostra i loro codici QR a schermo intero, anche offline."
   cta: "Scarica gratis"
+  social_proof: "150.000+ download · 4,5 ★ su Google Play"
   features_title: "Tutto ciò che serve, niente di superfluo"
   features:
     - ["🔒", "Privacy al primo posto", "Funziona offline, senza pubblicità e senza tracciamento. I tuoi documenti non lasciano mai il dispositivo."]
@@ -148,6 +153,7 @@ pt:
   keywords: "pdf wallet, cartão de embarque, ingresso, certificado, código qr, aztec, pdf417, ean, cupom, offline"
   promo: "Hora de viajar? Guarde cartões de embarque, passagens de trem e ingressos no PDFWallet e mostre os códigos QR em tela cheia, mesmo offline."
   cta: "Baixar grátis"
+  social_proof: "150.000+ downloads · 4,5 ★ no Google Play"
   features_title: "Tudo o que você precisa, nada a mais"
   features:
     - ["🔒", "Privacidade em primeiro lugar", "Funciona offline, sem anúncios e sem rastreamento. Seus documentos nunca saem do seu aparelho."]
@@ -176,6 +182,7 @@ ja:
   keywords: "pdf wallet, 搭乗券, チケット, 証明書, qrコード, aztec, pdf417, ean, クーポン, オフライン"
   promo: "旅行シーズンに。搭乗券や電車・イベントのチケットをPDFWalletに保存して、オフラインでもQRコードを全画面表示できます。"
   cta: "無料でダウンロード"
+  social_proof: "15万回以上のダウンロード · Google Playで4.5 ★"
   features_title: "必要なものをすべて、シンプルに"
   features:
     - ["🔒", "プライバシー重視", "オフラインで動作し、広告もトラッキングもありません。書類が端末の外に出ることはありません。"]
@@ -204,6 +211,7 @@ ko:
   keywords: "pdf wallet, 탑승권, 티켓, 인증서, qr 코드, aztec, pdf417, ean, 쿠폰, 오프라인"
   promo: "여행 시즌인가요? 탑승권, 기차표, 공연 티켓을 PDFWallet에 보관하고 오프라인에서도 QR 코드를 전체 화면으로 보여주세요."
   cta: "무료 다운로드"
+  social_proof: "15만 회 이상 다운로드 · Google Play 평점 4.5 ★"
   features_title: "필요한 모든 것, 군더더기 없이"
   features:
     - ["🔒", "개인정보 보호", "오프라인으로 작동하며 광고와 추적이 없습니다. 문서는 기기 밖으로 나가지 않습니다."]
@@ -232,6 +240,7 @@ ru:
   keywords: "pdf wallet, посадочный талон, билет, сертификат, qr-код, aztec, pdf417, ean, купон, офлайн"
   promo: "Время путешествий? Храните посадочные талоны, ж/д и концертные билеты в PDFWallet и показывайте QR-коды на весь экран даже без интернета."
   cta: "Скачать бесплатно"
+  social_proof: "150 000+ скачиваний · 4,5 ★ в Google Play"
   features_title: "Всё нужное, ничего лишнего"
   features:
     - ["🔒", "Конфиденциальность", "Работает офлайн, без рекламы и отслеживания. Документы никогда не покидают устройство."]
@@ -260,6 +269,7 @@ ar:
   keywords: "pdf wallet, بطاقة صعود, تذكرة, شهادة, رمز qr, aztec, pdf417, ean, قسيمة, دون اتصال"
   promo: "موسم السفر؟ احفظ بطاقات الصعود وتذاكر القطار والفعاليات في PDFWallet واعرض رموز QR بملء الشاشة حتى دون اتصال."
   cta: "تنزيل مجاني"
+  social_proof: "١٥٠٬٠٠٠+ عملية تنزيل · تقييم ٤٫٥ ★ على Google Play"
   features_title: "كل ما تحتاجه، دون أي زيادة"
   features:
     - ["🔒", "الخصوصية أولًا", "يعمل دون اتصال، بلا إعلانات أو تتبع. مستنداتك لا تغادر جهازك أبدًا."]

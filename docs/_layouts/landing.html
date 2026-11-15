@@ -64,6 +64,7 @@
     .hero h1 { font-size:clamp(2rem,4.5vw,3.2rem); line-height:1.15; margin:0 0 12px; }
     .hero .sub { font-size:1.3rem; color:var(--accent); font-weight:600; margin:0 0 16px; }
     .hero p { color:var(--muted); font-size:1.1rem; }
+    .hero .proof { font-size:.9rem; margin:8px 0 0; }
     .badges { display:flex; flex-wrap:wrap; align-items:center; gap:12px; margin-top:24px; }
     .badges img { height:56px; width:auto; display:block; }
     .badges .play img { height:73px; margin:-8.5px 0; }
@@ -112,6 +113,9 @@
             <a href="https://apps.apple.com/app/6767864357"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store – {{ t.cta }}" width="168" height="56"></a>
             <a class="play{% if page.locale == "en" or page.locale == "ar" %} play-padded{% endif %}" href="https://play.google.com/store/apps/details?id=com.michaeltroger.gruenerpass&amp;hl={{ page.locale }}"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/{{ page.locale }}_badge_web_generic.png" alt="Google Play – {{ t.cta }}" width="212" height="82"></a>
           </div>
+          {%- if t.social_proof %}
+          <p class="proof">{{ t.social_proof }}</p>
+          {%- endif %}
         </div>
         <div class="hero-shot">
           <img src="{{ '/assets/screenshots/' | append: page.locale | append: '/02_barcode.jpg' | relative_url }}" alt="{{ t.shots[1] }}" width="540" height="1173" fetchpriority="high">
