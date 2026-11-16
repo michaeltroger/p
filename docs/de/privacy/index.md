@@ -6,7 +6,7 @@ title: Datenschutzrichtlinie
 
 # PDFWallet: Datenschutzrichtlinie
 
-**Zuletzt aktualisiert**: Mai 2026
+**Zuletzt aktualisiert**: November 2026
 
 ## Kontakt
 

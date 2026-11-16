@@ -6,7 +6,7 @@ title: Política de Privacidad
 
 # PDFWallet: Política de Privacidad
 
-**Última actualización**: mayo de 2026
+**Última actualización**: noviembre de 2026
 
 ## Contacto
 

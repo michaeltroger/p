@@ -6,7 +6,7 @@ title: Informativa sulla Privacy
 
 # PDFWallet: Informativa sulla Privacy
 
-**Ultimo aggiornamento**: Maggio 2026
+**Ultimo aggiornamento**: Novembre 2026
 
 ## Contatto
 

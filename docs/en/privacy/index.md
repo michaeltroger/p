@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 # PDFWallet: Privacy Policy
 
-**Last updated**: May 2026
+**Last updated**: November 2026
 
 ## Contact
 Michael Troger, MSc.  
