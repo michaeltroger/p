@@ -1,5 +1,69 @@
+---
+layout: null
+permalink: /404.html
+---
+{%- assign t = site.data.i18n.en -%}
 <!DOCTYPE html>
-<meta charset="utf-8">
-<title>Redirecting to https://michaeltroger.com</title>
-<meta http-equiv="refresh" content="0; URL=https://michaeltroger.com">
-<link rel="canonical" href="https://michaeltroger.com">
+<html lang="{{ t.lang }}" dir="{{ t.dir }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#1b5e20">
+  <title>404 – {{ t.not_found_title }} · PDFWallet</title>
+  <style>
+    html, body { margin: 0; height: 100%; }
+    body { display: flex; align-items: center; justify-content: center; text-align: center; padding: 24px; box-sizing: border-box;
+           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #1f2a22; background: #f6f8f6; }
+    main { max-width: 480px; }
+    .code { font-size: 4.5rem; font-weight: 800; color: #1b5e20; margin: 0; line-height: 1; }
+    h1 { font-size: 1.6rem; margin: 16px 0 8px; }
+    p { color: #4a5a4e; line-height: 1.5; margin: 0 0 28px; }
+    a.btn { display: inline-block; background: #1b5e20; color: #fff; text-decoration: none; padding: 12px 22px; border-radius: 10px; font-weight: 600; }
+    a.btn:hover { background: #2e7d32; }
+    @media (prefers-color-scheme: dark) {
+      body { background: #121512; color: #e6ece7; }
+      p { color: #b5c2b8; }
+      .code { color: #81c784; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="code">404</p>
+    <h1 id="nf-title">{{ t.not_found_title }}</h1>
+    <p id="nf-text">{{ t.not_found_text }}</p>
+    <a class="btn" id="nf-link" href="{{ site.url }}/en/">{{ t.not_found_link }}</a>
+  </main>
+  <script>
+    (function () {
+      var i18n = {
+        {%- for l in site.data.i18n %}
+        {{ l[0] | jsonify }}: { lang: {{ l[1].lang | jsonify }}, dir: {{ l[1].dir | jsonify }}, title: {{ l[1].not_found_title | jsonify }}, text: {{ l[1].not_found_text | jsonify }}, link: {{ l[1].not_found_link | jsonify }} }{% unless forloop.last %},{% endunless %}
+        {%- endfor %}
+      };
+      var pick = null;
+      var fromPath = location.pathname.split("/")[1];
+      if (i18n[fromPath]) pick = fromPath;
+      if (!pick) { try { var saved = localStorage.getItem("lang"); if (i18n[saved]) pick = saved; } catch (e) {} }
+      if (!pick) {
+        var langs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || "en"];
+        for (var i = 0; i < langs.length && !pick; i++) {
+          var code = String(langs[i]).toLowerCase().split("-")[0];
+          if (i18n[code]) pick = code;
+        }
+      }
+      if (!pick || pick === "en") return;
+      var t = i18n[pick];
+      document.documentElement.lang = t.lang;
+      document.documentElement.dir = t.dir;
+      document.title = "404 – " + t.title + " · PDFWallet";
+      document.getElementById("nf-title").textContent = t.title;
+      document.getElementById("nf-text").textContent = t.text;
+      var link = document.getElementById("nf-link");
+      link.textContent = t.link;
+      link.href = "{{ site.url }}/" + pick + "/";
+    })();
+  </script>
+</body>
+</html>

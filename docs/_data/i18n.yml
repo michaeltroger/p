@@ -30,6 +30,9 @@ en:
   contact_title: "Contact"
   contact_text: "Questions, feedback or ideas? Get in touch."
   contact_button: "Send an email"
+  not_found_title: "Page not found"
+  not_found_text: "Sorry, the page you are looking for doesn't exist or has been moved."
+  not_found_link: "Back to home"
 de:
   lang: de-DE
   dir: ltr
@@ -62,6 +65,9 @@ de:
   contact_title: "Kontakt"
   contact_text: "Fragen, Feedback oder Ideen? Schreib uns."
   contact_button: "E-Mail senden"
+  not_found_title: "Seite nicht gefunden"
+  not_found_text: "Die gesuchte Seite existiert leider nicht oder wurde verschoben."
+  not_found_link: "Zur Startseite"
 es:
   lang: es-ES
   dir: ltr
@@ -94,6 +100,9 @@ es:
   contact_title: "Contacto"
   contact_text: "¿Preguntas, comentarios o ideas? Escríbenos."
   contact_button: "Enviar un correo"
+  not_found_title: "Página no encontrada"
+  not_found_text: "Lo sentimos, la página que buscas no existe o se ha movido."
+  not_found_link: "Volver al inicio"
 fr:
   lang: fr-FR
   dir: ltr
@@ -126,6 +135,9 @@ fr:
   contact_title: "Contact"
   contact_text: "Des questions, des retours ou des idées ? Écrivez-nous."
   contact_button: "Envoyer un e-mail"
+  not_found_title: "Page introuvable"
+  not_found_text: "Désolé, la page que vous recherchez n'existe pas ou a été déplacée."
+  not_found_link: "Retour à l'accueil"
 it:
   lang: it-IT
   dir: ltr
@@ -158,6 +170,9 @@ it:
   contact_title: "Contatti"
   contact_text: "Domande, feedback o idee? Scrivici."
   contact_button: "Invia un'e-mail"
+  not_found_title: "Pagina non trovata"
+  not_found_text: "Spiacenti, la pagina che stai cercando non esiste o è stata spostata."
+  not_found_link: "Torna alla home"
 pt:
   lang: pt-BR
   dir: ltr
@@ -190,6 +205,9 @@ pt:
   contact_title: "Contato"
   contact_text: "Dúvidas, sugestões ou ideias? Fale conosco."
   contact_button: "Enviar um e-mail"
+  not_found_title: "Página não encontrada"
+  not_found_text: "Desculpe, a página que procura não existe ou foi movida."
+  not_found_link: "Voltar ao início"
 ja:
   lang: ja-JP
   dir: ltr
@@ -222,6 +240,9 @@ ja:
   contact_title: "お問い合わせ"
   contact_text: "ご質問、ご意見、アイデアはお気軽にどうぞ。"
   contact_button: "メールを送る"
+  not_found_title: "ページが見つかりません"
+  not_found_text: "お探しのページは存在しないか、移動された可能性があります。"
+  not_found_link: "ホームに戻る"
 ko:
   lang: ko-KR
   dir: ltr
@@ -254,6 +275,9 @@ ko:
   contact_title: "문의하기"
   contact_text: "질문, 피드백 또는 아이디어가 있으신가요? 연락주세요."
   contact_button: "이메일 보내기"
+  not_found_title: "페이지를 찾을 수 없습니다"
+  not_found_text: "찾으시는 페이지가 존재하지 않거나 이동되었습니다."
+  not_found_link: "홈으로 돌아가기"
 ru:
   lang: ru-RU
   dir: ltr
@@ -286,6 +310,9 @@ ru:
   contact_title: "Контакты"
   contact_text: "Вопросы, отзывы или идеи? Напишите нам."
   contact_button: "Написать письмо"
+  not_found_title: "Страница не найдена"
+  not_found_text: "К сожалению, запрашиваемая страница не существует или была перемещена."
+  not_found_link: "На главную"
 ar:
   lang: ar-SA
   dir: rtl
@@ -318,3 +345,6 @@ ar:
   contact_title: "اتصل بنا"
   contact_text: "هل لديك أسئلة أو ملاحظات أو أفكار؟ تواصل معنا."
   contact_button: "أرسل بريدًا إلكترونيًا"
+  not_found_title: "الصفحة غير موجودة"
+  not_found_text: "عذرًا، الصفحة التي تبحث عنها غير موجودة أو تم نقلها."
+  not_found_link: "العودة إلى الصفحة الرئيسية"
