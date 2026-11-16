@@ -27,6 +27,9 @@ en:
   privacy_url: "/en/privacy/"
   imprint: "Imprint"
   privacy_policy: "Privacy Policy"
+  contact_title: "Contact"
+  contact_text: "Questions, feedback or ideas? Get in touch."
+  contact_button: "Send an email"
 de:
   lang: de-DE
   dir: ltr
@@ -56,6 +59,9 @@ de:
   privacy_url: "/de/privacy/"
   imprint: "Impressum"
   privacy_policy: "Datenschutzerklärung"
+  contact_title: "Kontakt"
+  contact_text: "Fragen, Feedback oder Ideen? Schreib uns."
+  contact_button: "E-Mail senden"
 es:
   lang: es-ES
   dir: ltr
@@ -85,6 +91,9 @@ es:
   privacy_url: "/es/privacy/"
   imprint: "Aviso legal"
   privacy_policy: "Política de Privacidad"
+  contact_title: "Contacto"
+  contact_text: "¿Preguntas, comentarios o ideas? Escríbenos."
+  contact_button: "Enviar un correo"
 fr:
   lang: fr-FR
   dir: ltr
@@ -114,6 +123,9 @@ fr:
   privacy_url: "/fr/privacy/"
   imprint: "Mentions légales"
   privacy_policy: "Politique de confidentialité"
+  contact_title: "Contact"
+  contact_text: "Des questions, des retours ou des idées ? Écrivez-nous."
+  contact_button: "Envoyer un e-mail"
 it:
   lang: it-IT
   dir: ltr
@@ -143,6 +155,9 @@ it:
   privacy_url: "/it/privacy/"
   imprint: "Informazioni legali"
   privacy_policy: "Informativa sulla Privacy"
+  contact_title: "Contatti"
+  contact_text: "Domande, feedback o idee? Scrivici."
+  contact_button: "Invia un'e-mail"
 pt:
   lang: pt-BR
   dir: ltr
@@ -172,6 +187,9 @@ pt:
   privacy_url: "/pt/privacy/"
   imprint: "Informações legais"
   privacy_policy: "Política de Privacidade"
+  contact_title: "Contato"
+  contact_text: "Dúvidas, sugestões ou ideias? Fale conosco."
+  contact_button: "Enviar um e-mail"
 ja:
   lang: ja-JP
   dir: ltr
@@ -201,6 +219,9 @@ ja:
   privacy_url: "/privacy/"
   imprint: "運営者情報"
   privacy_policy: "プライバシーポリシー"
+  contact_title: "お問い合わせ"
+  contact_text: "ご質問、ご意見、アイデアはお気軽にどうぞ。"
+  contact_button: "メールを送る"
 ko:
   lang: ko-KR
   dir: ltr
@@ -230,6 +251,9 @@ ko:
   privacy_url: "/privacy/"
   imprint: "법적 고지"
   privacy_policy: "개인정보 처리방침"
+  contact_title: "문의하기"
+  contact_text: "질문, 피드백 또는 아이디어가 있으신가요? 연락주세요."
+  contact_button: "이메일 보내기"
 ru:
   lang: ru-RU
   dir: ltr
@@ -259,6 +283,9 @@ ru:
   privacy_url: "/privacy/"
   imprint: "Выходные данные"
   privacy_policy: "Политика конфиденциальности"
+  contact_title: "Контакты"
+  contact_text: "Вопросы, отзывы или идеи? Напишите нам."
+  contact_button: "Написать письмо"
 ar:
   lang: ar-SA
   dir: rtl
@@ -288,3 +315,6 @@ ar:
   privacy_url: "/privacy/"
   imprint: "بيانات الناشر"
   privacy_policy: "سياسة الخصوصية"
+  contact_title: "اتصل بنا"
+  contact_text: "هل لديك أسئلة أو ملاحظات أو أفكار؟ تواصل معنا."
+  contact_button: "أرسل بريدًا إلكترونيًا"

@@ -4,7 +4,7 @@ title: Política de Privacidade
 ---
 
 
-# PDF Wallet: Política de Privacidade
+# PDFWallet: Política de Privacidade
 
 **Última atualização**: maio de 2026
 
@@ -18,7 +18,7 @@ Kürnbergblick 1/2
 
 ## Processamento de Dados
 
-O PDF Wallet funciona **inteiramente no seu dispositivo**.
+O PDFWallet funciona **inteiramente no seu dispositivo**.
 Todos os documentos e informações relacionadas permanecem locais e **nunca são enviados** para nós nem para terceiros.
 Não temos acesso aos seus arquivos, senhas ou dados de utilização.
 

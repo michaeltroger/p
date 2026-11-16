@@ -4,7 +4,7 @@ title: Datenschutzrichtlinie
 ---
 
 
-# PDF Wallet: Datenschutzrichtlinie
+# PDFWallet: Datenschutzrichtlinie
 
 **Zuletzt aktualisiert**: Mai 2026
 
@@ -18,7 +18,7 @@ Kürnbergblick 1/2
 
 ## Datenverarbeitung
 
-PDF Wallet arbeitet **ausschließlich auf deinem Gerät**.
+PDFWallet arbeitet **ausschließlich auf deinem Gerät**.
 Alle Dokumente und zugehörigen Informationen bleiben lokal gespeichert und werden **niemals an uns oder an Dritte gesendet**.
 Wir haben **keinen Zugriff** auf deine Dateien, Passwörter oder Nutzungsdaten.
 

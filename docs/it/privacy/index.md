@@ -4,7 +4,7 @@ title: Informativa sulla Privacy
 ---
 
 
-# PDF Wallet: Informativa sulla Privacy
+# PDFWallet: Informativa sulla Privacy
 
 **Ultimo aggiornamento**: Maggio 2026
 
@@ -18,7 +18,7 @@ Austria
 
 ## Trattamento dei Dati
 
-PDF Wallet funziona **interamente sul tuo dispositivo**.
+PDFWallet funziona **interamente sul tuo dispositivo**.
 Tutti i documenti e le informazioni correlate rimangono locali e **non vengono mai inviati** a noi né a terze parti.
 Non abbiamo **alcun accesso** ai tuoi file, password o dati di utilizzo.
 

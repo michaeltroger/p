@@ -2,7 +2,7 @@
 noindex: true
 title: Privacy Policy
 ---
-# PDF Wallet: Privacy Policy
+# PDFWallet: Privacy Policy
 
 **Last updated**: May 2026
 
@@ -14,7 +14,7 @@ Austria
 &#112;&#100;&#102;&#119;&#97;&#108;&#108;&#101;&#116;&#64;&#116;&#114;&#111;&#103;&#101;&#114;&#46;&#97;&#112;&#112;
 
 ## Data Processing
-PDF Wallet operates **entirely on your device**.
+PDFWallet operates **entirely on your device**.
 All documents and related information remain local and are **never sent** to us or to any third party.
 We have **no access** to your files, passwords, or usage data.
 

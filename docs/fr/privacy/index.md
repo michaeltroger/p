@@ -4,7 +4,7 @@ title: Politique de confidentialité
 ---
 
 
-# PDF Wallet : Politique de confidentialité
+# PDFWallet : Politique de confidentialité
 
 **Dernière mise à jour** : mai 2026
 
@@ -18,7 +18,7 @@ Autriche
 
 ## Traitement des données
 
-PDF Wallet fonctionne **entièrement sur votre appareil**.
+PDFWallet fonctionne **entièrement sur votre appareil**.
 Tous les documents et les informations associées restent locaux et **ne sont jamais envoyés** ni à nous, ni à un tiers.
 Nous **n’avons aucun accès** à vos fichiers, mots de passe ou données d’utilisation.
 
