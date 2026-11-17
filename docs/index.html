@@ -10,6 +10,17 @@ permalink: /
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.data.i18n.en.title }} – {{ site.data.i18n.en.subtitle }}</title>
   <meta name="description" content="{{ site.data.i18n.en.description }}">
+  {%- assign og_image = base | append: "/assets/screenshots/en/01_list.jpg" %}
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="PDFWallet">
+  <meta property="og:title" content="{{ site.data.i18n.en.title }}">
+  <meta property="og:description" content="{{ site.data.i18n.en.description }}">
+  <meta property="og:url" content="{{ base }}/">
+  <meta property="og:image" content="{{ og_image }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ site.data.i18n.en.title }}">
+  <meta name="twitter:description" content="{{ site.data.i18n.en.description }}">
+  <meta name="twitter:image" content="{{ og_image }}">
   <link rel="canonical" href="{{ base }}/en/">
   {%- for l in site.data.i18n %}
   <link rel="alternate" hreflang="{{ l[0] }}" href="{{ base }}/{{ l[0] }}/">
