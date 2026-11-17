@@ -165,6 +165,14 @@
       </section>
 
       <section>
+        <h2>{{ t.barcodes_title }}</h2>
+        <div class="chips">
+          {%- assign codes = "QR,Aztec,DataMatrix,PDF417,UPC-A,UPC-E,EAN-8,EAN-13,Code 39,Code 93,Code 128,ITF,Codabar" | split: "," -%}
+          {%- for c in codes %}<span class="chip">{{ c }}</span>{% endfor %}
+        </div>
+      </section>
+
+      <section>
         <h2>{{ t.screenshots_title }}</h2>
         <div class="gallery">
           {%- for s in shot_files %}
@@ -173,14 +181,6 @@
             <figcaption>{{ t.shots[forloop.index0] }}</figcaption>
           </figure>
           {%- endfor %}
-        </div>
-      </section>
-
-      <section>
-        <h2>{{ t.barcodes_title }}</h2>
-        <div class="chips">
-          {%- assign codes = "QR,Aztec,DataMatrix,PDF417,UPC-A,UPC-E,EAN-8,EAN-13,Code 39,Code 93,Code 128,ITF,Codabar" | split: "," -%}
-          {%- for c in codes %}<span class="chip">{{ c }}</span>{% endfor %}
         </div>
       </section>
 
