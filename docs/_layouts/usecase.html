@@ -110,7 +110,8 @@
         <span hidden>Language</span>
         <select aria-label="Language" onchange="try{localStorage.setItem('lang',this.value)}catch(e){};location.href='{{ '/' | relative_url }}'+this.value+'/{{ page.usecase }}/'">
           {%- for l in site.data.i18n %}
-          {%- if uc[l[0]] %}
+          {%- assign code = l[0] %}
+          {%- if uc[code] %}
           <option value="{{ l[0] }}"{% if l[0] == page.locale %} selected{% endif %}>{{ l[1].label }}</option>
           {%- endif %}
           {%- endfor %}
