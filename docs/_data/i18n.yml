@@ -14,13 +14,16 @@ en:
     - ["🔒", "Private by design", "Works offline, with no ads and no tracking. Your documents never leave your device."]
     - ["📱", "Fullscreen barcodes", "Show QR, Aztec, DataMatrix, PDF417 and 1D barcodes fullscreen – scanned in seconds."]
     - ["📄", "Crisp PDF viewing", "View your PDFs in high quality, even without an internet connection."]
-    - ["🏷️", "Tags & sorting", "Organize, rename and sort your documents exactly the way you want."]
-    - ["🌙", "Dark mode", "Beautiful in dark mode, with documents kept in their original colors."]
+    - ["🏷️", "Tags & sorting", "Organize with tags, sort, drag & drop to reorder, switch between list and grid, and share or delete in bulk."]
+    - ["🌙", "Dark mode", "Beautiful in dark mode – keep documents in their original colors or invert them."]
     - ["👆", "Biometric lock", "Optionally protect your wallet with Face ID or fingerprint authentication."]
+    - ["📥", "Import in one tap", "Share PDFs from email, your browser or files straight into your wallet – several at once."]
+    - ["🔍", "Find it fast", "Search by name and filter by tag or by documents with barcodes."]
+    - ["👉", "Swipe between passes", "Swipe through pages and documents – ideal for group travel."]
   barcodes_title: "Supported barcodes"
   screenshots_title: "Screenshots"
   shots: ["All your tickets & passes in one wallet", "Show barcodes full screen, scan in seconds", "Crisp PDF viewing, even offline", "Organize documents with tags", "Sort your documents your way", "Scan-ready QR codes, day or night"]
-  pricing: "Core features like viewing PDFs, fullscreen barcodes and sorting are free. An optional in-app purchase unlocks all additional functionality."
+  pricing: "Core features like viewing PDFs, fullscreen barcodes and sorting are free. A one-time in-app purchase – no subscription – unlocks all additional functionality."
   privacy_title: "Privacy"
   privacy_text: "This app operates entirely on your device."
   privacy_link: "Read our Privacy Policy"
@@ -32,7 +35,7 @@ en:
   contact_button: "Send an email"
   faq_title: "Frequently asked questions"
   faq:
-    - ["Is PDFWallet free?", "Yes. Core features like viewing PDFs, fullscreen barcodes and sorting are free, with no ads. An optional in-app purchase unlocks all additional functionality."]
+    - ["Is PDFWallet free?", "Yes. Core features like viewing PDFs, fullscreen barcodes and sorting are free, with no ads. A one-time in-app purchase – no subscription – unlocks all additional functionality."]
     - ["Does PDFWallet work offline?", "Yes. All documents are stored on your device, so your tickets and barcodes are available even without an internet connection."]
     - ["Which barcodes are supported?", "QR, Aztec, DataMatrix, PDF417 and common 1D barcodes such as EAN, UPC, Code 39, Code 93, Code 128, ITF and Codabar."]
     - ["Are my documents uploaded anywhere?", "No. The app operates entirely on your device, without tracking. You can optionally protect it with Face ID or fingerprint."]
@@ -56,13 +59,16 @@ de:
     - ["🔒", "Privatsphäre zuerst", "Funktioniert offline, ohne Werbung und ohne Tracking. Deine Dokumente verlassen nie dein Gerät."]
     - ["📱", "Barcodes im Vollbild", "QR-, Aztec-, DataMatrix-, PDF417- und 1D-Barcodes im Vollbild – in Sekunden gescannt."]
     - ["📄", "Gestochen scharfe PDFs", "PDFs in hoher Qualität ansehen, auch ohne Internetverbindung."]
-    - ["🏷️", "Tags & Sortierung", "Dokumente organisieren, umbenennen und nach Wunsch sortieren."]
-    - ["🌙", "Dark Mode", "Wunderschön im Dark Mode – Dokumente bleiben in Originalfarbe."]
+    - ["🏷️", "Tags & Sortierung", "Mit Tags organisieren, sortieren, per Drag & Drop anordnen, zwischen Liste und Raster wechseln und mehrere Dokumente auf einmal teilen oder löschen."]
+    - ["🌙", "Dunkelmodus", "Schön im Dunkelmodus – Dokumente in Originalfarben behalten oder Farben invertieren."]
     - ["👆", "Biometrische Sperre", "Optional mit Face ID oder Fingerabdruck schützen."]
+    - ["📥", "Import mit einem Tipp", "PDFs aus E-Mail, Browser oder Dateien direkt in dein Wallet teilen – auch mehrere auf einmal."]
+    - ["🔍", "Schnell gefunden", "Nach Namen suchen und nach Tags oder Dokumenten mit Barcodes filtern."]
+    - ["👉", "Zwischen Tickets wischen", "Durch Seiten und Dokumente wischen – ideal für Gruppenreisen."]
   barcodes_title: "Unterstützte Barcodes"
   screenshots_title: "Screenshots"
   shots: ["Alle Tickets & Pässe in einer Wallet", "Barcodes im Vollbild, in Sekunden gescannt", "Gestochen scharfe PDFs, auch offline", "Dokumente mit Tags organisieren", "Sortiere Dokumente nach deinem Wunsch", "Scanbereite QR-Codes, bei Tag und Nacht"]
-  pricing: "Kernfunktionen wie PDF-Anzeige, Vollbild-Barcodes und Sortierung sind kostenlos. Ein optionaler In-App-Kauf schaltet alle weiteren Funktionen frei."
+  pricing: "Kernfunktionen wie PDF-Anzeige, Vollbild-Barcodes und Sortierung sind kostenlos. Ein einmaliger In-App-Kauf – kein Abo – schaltet alle weiteren Funktionen frei."
   privacy_title: "Datenschutz"
   privacy_text: "Diese App funktioniert vollständig auf deinem Gerät."
   privacy_link: "Datenschutzerklärung lesen"
@@ -74,7 +80,7 @@ de:
   contact_button: "E-Mail senden"
   faq_title: "Häufige Fragen"
   faq:
-    - ["Ist PDFWallet kostenlos?", "Ja. Kernfunktionen wie PDF-Anzeige, Vollbild-Barcodes und Sortierung sind kostenlos und ohne Werbung. Ein optionaler In-App-Kauf schaltet alle weiteren Funktionen frei."]
+    - ["Ist PDFWallet kostenlos?", "Ja. Kernfunktionen wie PDF-Anzeige, Vollbild-Barcodes und Sortierung sind kostenlos und werbefrei. Ein einmaliger In-App-Kauf – kein Abo – schaltet alle weiteren Funktionen frei."]
     - ["Funktioniert PDFWallet offline?", "Ja. Alle Dokumente werden auf deinem Gerät gespeichert, deine Tickets und Barcodes sind also auch ohne Internetverbindung verfügbar."]
     - ["Welche Barcodes werden unterstützt?", "QR, Aztec, DataMatrix, PDF417 und gängige 1D-Barcodes wie EAN, UPC, Code 39, Code 93, Code 128, ITF und Codabar."]
     - ["Werden meine Dokumente irgendwo hochgeladen?", "Nein. Die App funktioniert vollständig auf deinem Gerät, ohne Tracking. Optional kannst du sie mit Face ID oder Fingerabdruck schützen."]
@@ -98,13 +104,16 @@ es:
     - ["🔒", "Privacidad ante todo", "Funciona sin conexión, sin anuncios y sin rastreo. Tus documentos nunca salen de tu dispositivo."]
     - ["📱", "Códigos a pantalla completa", "Muestra códigos QR, Aztec, DataMatrix, PDF417 y 1D a pantalla completa, escaneados en segundos."]
     - ["📄", "PDF nítidos", "Visualiza tus PDF en alta calidad, incluso sin conexión a internet."]
-    - ["🏷️", "Etiquetas y orden", "Organiza, renombra y ordena tus documentos a tu manera."]
-    - ["🌙", "Modo oscuro", "Precioso en modo oscuro, con los documentos en sus colores originales."]
+    - ["🏷️", "Etiquetas y orden", "Organiza con etiquetas, ordena, reordena arrastrando, alterna entre lista y cuadrícula, y comparte o elimina varios a la vez."]
+    - ["🌙", "Modo oscuro", "Precioso en modo oscuro: mantén los colores originales de los documentos o inviértelos."]
     - ["👆", "Bloqueo biométrico", "Protege tu cartera opcionalmente con Face ID o huella dactilar."]
+    - ["📥", "Importa con un toque", "Comparte PDF desde el correo, el navegador o archivos directamente a tu cartera, incluso varios a la vez."]
+    - ["🔍", "Encuéntralo rápido", "Busca por nombre y filtra por etiqueta o por documentos con códigos."]
+    - ["👉", "Desliza entre billetes", "Desliza entre páginas y documentos: ideal para viajes en grupo."]
   barcodes_title: "Códigos compatibles"
   screenshots_title: "Capturas de pantalla"
   shots: ["Todos tus billetes y pases en una cartera", "Códigos de barras a pantalla completa, escaneados en segundos", "PDF nítidos, incluso sin conexión", "Organiza documentos con etiquetas", "Ordena tus documentos a tu manera", "Códigos QR listos para escanear, de día o de noche"]
-  pricing: "Las funciones principales, como ver PDF, códigos a pantalla completa y ordenar, son gratuitas. Una compra opcional desbloquea todas las funciones adicionales."
+  pricing: "Las funciones principales, como ver PDF, códigos a pantalla completa y ordenar, son gratuitas. Una compra única, sin suscripción, desbloquea todas las funciones adicionales."
   privacy_title: "Privacidad"
   privacy_text: "Esta app funciona completamente en tu dispositivo."
   privacy_link: "Lee nuestra Política de Privacidad"
@@ -116,7 +125,7 @@ es:
   contact_button: "Enviar un correo"
   faq_title: "Preguntas frecuentes"
   faq:
-    - ["¿PDFWallet es gratis?", "Sí. Las funciones principales, como ver PDF, códigos de barras a pantalla completa y ordenar, son gratuitas y sin anuncios. Una compra opcional dentro de la app desbloquea todas las funciones adicionales."]
+    - ["¿PDFWallet es gratis?", "Sí. Las funciones principales, como ver PDF, códigos a pantalla completa y ordenar, son gratuitas y sin anuncios. Una compra única, sin suscripción, desbloquea todas las funciones adicionales."]
     - ["¿PDFWallet funciona sin conexión?", "Sí. Todos los documentos se guardan en tu dispositivo, así que tus billetes y códigos están disponibles incluso sin conexión a internet."]
     - ["¿Qué códigos de barras se admiten?", "QR, Aztec, DataMatrix, PDF417 y códigos 1D habituales como EAN, UPC, Code 39, Code 93, Code 128, ITF y Codabar."]
     - ["¿Se suben mis documentos a algún sitio?", "No. La app funciona completamente en tu dispositivo, sin rastreo. Opcionalmente puedes protegerla con Face ID o huella dactilar."]
@@ -140,13 +149,16 @@ fr:
     - ["🔒", "Respect de la vie privée", "Fonctionne hors ligne, sans publicité ni pistage. Vos documents ne quittent jamais votre appareil."]
     - ["📱", "Codes en plein écran", "Affichez QR, Aztec, DataMatrix, PDF417 et codes 1D en plein écran, scannés en quelques secondes."]
     - ["📄", "PDF nets", "Consultez vos PDF en haute qualité, même sans connexion internet."]
-    - ["🏷️", "Tags et tri", "Organisez, renommez et triez vos documents à votre façon."]
-    - ["🌙", "Mode sombre", "Superbe en mode sombre, les documents gardent leurs couleurs d'origine."]
+    - ["🏷️", "Étiquettes et tri", "Organisez avec des étiquettes, triez, réordonnez par glisser-déposer, passez de la liste à la grille, et partagez ou supprimez en lot."]
+    - ["🌙", "Mode sombre", "Superbe en mode sombre : gardez les couleurs d'origine des documents ou inversez-les."]
     - ["👆", "Verrou biométrique", "Protégez votre portefeuille avec Face ID ou l'empreinte digitale (optionnel)."]
+    - ["📥", "Import en un geste", "Partagez des PDF depuis vos e-mails, votre navigateur ou vos fichiers directement dans votre wallet, même plusieurs à la fois."]
+    - ["🔍", "Trouvez vite", "Recherchez par nom et filtrez par étiquette ou par documents avec codes-barres."]
+    - ["👉", "Balayez entre vos billets", "Balayez entre les pages et les documents, idéal pour les voyages en groupe."]
   barcodes_title: "Codes-barres pris en charge"
   screenshots_title: "Captures d'écran"
   shots: ["Tous vos billets et cartes dans un seul portefeuille", "Codes-barres en plein écran, scannés en quelques secondes", "Des PDF nets, même hors ligne", "Organisez vos documents avec des tags", "Triez vos documents à votre façon", "Codes QR prêts à scanner, de jour comme de nuit"]
-  pricing: "Les fonctions essentielles comme l'affichage des PDF, les codes en plein écran et le tri sont gratuites. Un achat intégré optionnel débloque toutes les fonctions supplémentaires."
+  pricing: "Les fonctions essentielles comme l'affichage des PDF, les codes en plein écran et le tri sont gratuites. Un achat intégré unique, sans abonnement, débloque toutes les fonctions supplémentaires."
   privacy_title: "Confidentialité"
   privacy_text: "Cette app fonctionne entièrement sur votre appareil."
   privacy_link: "Lire notre politique de confidentialité"
@@ -158,7 +170,7 @@ fr:
   contact_button: "Envoyer un e-mail"
   faq_title: "Questions fréquentes"
   faq:
-    - ["PDFWallet est-il gratuit ?", "Oui. Les fonctions essentielles comme l'affichage des PDF, les codes-barres en plein écran et le tri sont gratuites, sans publicité. Un achat intégré facultatif débloque toutes les fonctions supplémentaires."]
+    - ["PDFWallet est-il gratuit ?", "Oui. Les fonctions essentielles comme l'affichage des PDF, les codes en plein écran et le tri sont gratuites, sans publicité. Un achat intégré unique, sans abonnement, débloque toutes les fonctions supplémentaires."]
     - ["PDFWallet fonctionne-t-il hors ligne ?", "Oui. Tous les documents sont stockés sur votre appareil : vos billets et codes-barres restent disponibles même sans connexion internet."]
     - ["Quels codes-barres sont pris en charge ?", "QR, Aztec, DataMatrix, PDF417 et les codes-barres 1D courants comme EAN, UPC, Code 39, Code 93, Code 128, ITF et Codabar."]
     - ["Mes documents sont-ils envoyés quelque part ?", "Non. L'application fonctionne entièrement sur votre appareil, sans pistage. Vous pouvez la protéger en option avec Face ID ou l'empreinte digitale."]
@@ -182,13 +194,16 @@ it:
     - ["🔒", "Privacy al primo posto", "Funziona offline, senza pubblicità e senza tracciamento. I tuoi documenti non lasciano mai il dispositivo."]
     - ["📱", "Codici a schermo intero", "Mostra codici QR, Aztec, DataMatrix, PDF417 e 1D a schermo intero, scansionati in pochi secondi."]
     - ["📄", "PDF nitidi", "Visualizza i PDF in alta qualità, anche senza connessione."]
-    - ["🏷️", "Tag e ordinamento", "Organizza, rinomina e ordina i documenti come preferisci."]
-    - ["🌙", "Modalità scura", "Splendida in modalità scura, con i documenti nei colori originali."]
+    - ["🏷️", "Tag e ordinamento", "Organizza con i tag, ordina, riordina trascinando, passa da elenco a griglia e condividi o elimina più documenti insieme."]
+    - ["🌙", "Modalità scura", "Bellissima in modalità scura: mantieni i colori originali dei documenti o invertili."]
     - ["👆", "Blocco biometrico", "Proteggi il wallet con Face ID o impronta digitale (opzionale)."]
+    - ["📥", "Importa con un tocco", "Condividi PDF da email, browser o file direttamente nel tuo wallet, anche più alla volta."]
+    - ["🔍", "Trova subito", "Cerca per nome e filtra per tag o per documenti con codici a barre."]
+    - ["👉", "Scorri tra i biglietti", "Scorri tra pagine e documenti: ideale per i viaggi di gruppo."]
   barcodes_title: "Codici supportati"
   screenshots_title: "Screenshot"
   shots: ["Tutti i tuoi biglietti e pass in un unico wallet", "Codici a barre a schermo intero, scansionati in pochi secondi", "PDF nitidi, anche offline", "Organizza i documenti con i tag", "Ordina i documenti come preferisci", "Codici QR pronti da scansionare, di giorno e di notte"]
-  pricing: "Le funzioni principali come visualizzare PDF, codici a schermo intero e ordinamento sono gratuite. Un acquisto in-app opzionale sblocca tutte le funzioni aggiuntive."
+  pricing: "Le funzioni principali come visualizzare PDF, codici a schermo intero e ordinamento sono gratuite. Un acquisto in-app una tantum, senza abbonamento, sblocca tutte le funzioni aggiuntive."
   privacy_title: "Privacy"
   privacy_text: "Questa app funziona interamente sul tuo dispositivo."
   privacy_link: "Leggi l'Informativa sulla Privacy"
@@ -200,7 +215,7 @@ it:
   contact_button: "Invia un'e-mail"
   faq_title: "Domande frequenti"
   faq:
-    - ["PDFWallet è gratuito?", "Sì. Le funzioni principali come la visualizzazione dei PDF, i codici a barre a schermo intero e l'ordinamento sono gratuite e senza pubblicità. Un acquisto in-app facoltativo sblocca tutte le funzioni aggiuntive."]
+    - ["PDFWallet è gratuito?", "Sì. Le funzioni principali come visualizzare PDF, codici a schermo intero e ordinamento sono gratuite e senza pubblicità. Un acquisto in-app una tantum, senza abbonamento, sblocca tutte le funzioni aggiuntive."]
     - ["PDFWallet funziona offline?", "Sì. Tutti i documenti sono salvati sul tuo dispositivo, quindi biglietti e codici a barre sono disponibili anche senza connessione internet."]
     - ["Quali codici a barre sono supportati?", "QR, Aztec, DataMatrix, PDF417 e i comuni codici 1D come EAN, UPC, Code 39, Code 93, Code 128, ITF e Codabar."]
     - ["I miei documenti vengono caricati da qualche parte?", "No. L'app funziona interamente sul tuo dispositivo, senza tracciamento. Puoi proteggerla facoltativamente con Face ID o impronta digitale."]
@@ -224,13 +239,16 @@ pt:
     - ["🔒", "Privacidade em primeiro lugar", "Funciona offline, sem anúncios e sem rastreamento. Seus documentos nunca saem do seu aparelho."]
     - ["📱", "Códigos em tela cheia", "Mostre códigos QR, Aztec, DataMatrix, PDF417 e 1D em tela cheia, lidos em segundos."]
     - ["📄", "PDFs nítidos", "Veja seus PDFs em alta qualidade, mesmo sem internet."]
-    - ["🏷️", "Tags e ordenação", "Organize, renomeie e ordene seus documentos do seu jeito."]
-    - ["🌙", "Modo escuro", "Lindo no modo escuro, com documentos nas cores originais."]
+    - ["🏷️", "Tags e ordenação", "Organize com tags, ordene, reorganize arrastando, alterne entre lista e grade, e compartilhe ou exclua vários de uma vez."]
+    - ["🌙", "Modo escuro", "Lindo no modo escuro: mantenha as cores originais dos documentos ou inverta-as."]
     - ["👆", "Bloqueio biométrico", "Proteja sua carteira com Face ID ou impressão digital (opcional)."]
+    - ["📥", "Importe com um toque", "Compartilhe PDFs do e-mail, navegador ou arquivos direto para sua carteira, até vários de uma vez."]
+    - ["🔍", "Encontre rápido", "Pesquise por nome e filtre por tag ou por documentos com códigos de barras."]
+    - ["👉", "Deslize entre bilhetes", "Deslize entre páginas e documentos: ideal para viagens em grupo."]
   barcodes_title: "Códigos suportados"
   screenshots_title: "Capturas de tela"
   shots: ["Todos os seus bilhetes e passes em uma carteira", "Códigos de barras em tela cheia, lidos em segundos", "PDFs nítidos, mesmo offline", "Organize documentos com tags", "Ordene seus documentos do seu jeito", "Códigos QR prontos para leitura, de dia ou de noite"]
-  pricing: "Recursos principais como visualizar PDFs, códigos em tela cheia e ordenação são gratuitos. Uma compra opcional no app desbloqueia todos os recursos adicionais."
+  pricing: "Recursos principais como visualizar PDFs, códigos em tela cheia e ordenação são gratuitos. Uma compra única no app, sem assinatura, desbloqueia todos os recursos adicionais."
   privacy_title: "Privacidade"
   privacy_text: "Este app funciona inteiramente no seu dispositivo."
   privacy_link: "Leia nossa Política de Privacidade"
@@ -242,7 +260,7 @@ pt:
   contact_button: "Enviar um e-mail"
   faq_title: "Perguntas frequentes"
   faq:
-    - ["O PDFWallet é gratuito?", "Sim. As funções principais, como ver PDFs, códigos de barras em ecrã inteiro e ordenação, são gratuitas e sem anúncios. Uma compra opcional na app desbloqueia todas as funções adicionais."]
+    - ["O PDFWallet é gratuito?", "Sim. Recursos principais como visualizar PDFs, códigos em tela cheia e ordenação são gratuitos e sem anúncios. Uma compra única no app, sem assinatura, desbloqueia todos os recursos adicionais."]
     - ["O PDFWallet funciona offline?", "Sim. Todos os documentos são guardados no seu dispositivo, por isso os seus bilhetes e códigos estão disponíveis mesmo sem ligação à internet."]
     - ["Que códigos de barras são suportados?", "QR, Aztec, DataMatrix, PDF417 e códigos 1D comuns como EAN, UPC, Code 39, Code 93, Code 128, ITF e Codabar."]
     - ["Os meus documentos são enviados para algum lado?", "Não. A app funciona inteiramente no seu dispositivo, sem rastreio. Opcionalmente, pode protegê-la com Face ID ou impressão digital."]
@@ -266,13 +284,16 @@ ja:
     - ["🔒", "プライバシー重視", "オフラインで動作し、広告もトラッキングもありません。書類が端末の外に出ることはありません。"]
     - ["📱", "全画面バーコード", "QR、Aztec、DataMatrix、PDF417、1Dバーコードを全画面表示してすぐにスキャン。"]
     - ["📄", "鮮明なPDF表示", "インターネット接続がなくても高品質でPDFを表示。"]
-    - ["🏷️", "タグと並べ替え", "書類を整理・名前変更し、自由に並べ替え。"]
-    - ["🌙", "ダークモード", "ダークモードでも美しく、書類は元の色のまま表示。"]
+    - ["🏷️", "タグと並べ替え", "タグで整理、並べ替え、ドラッグ＆ドロップで順序変更、リストとグリッドの切り替え、まとめて共有・削除。"]
+    - ["🌙", "ダークモード", "ダークモードでも美しく。書類は元の色のまま、または色を反転して表示できます。"]
     - ["👆", "生体認証ロック", "Face IDや指紋認証でウォレットを保護（任意）。"]
+    - ["📥", "ワンタップで取り込み", "メール、ブラウザ、ファイルからPDFを共有してそのまま取り込み。複数同時もOK。"]
+    - ["🔍", "すばやく検索", "名前で検索し、タグやバーコード付きの書類で絞り込み。"]
+    - ["👉", "スワイプで切り替え", "ページや書類をスワイプで切り替え。グループ旅行に最適。"]
   barcodes_title: "対応バーコード"
   screenshots_title: "スクリーンショット"
   shots: ["チケットやパスをひとつのウォレットに", "バーコードを全画面表示、すぐにスキャン", "オフラインでも鮮明なPDF表示", "タグでドキュメントを整理", "ドキュメントを自由に並べ替え", "昼でも夜でもすぐ読み取れるQRコード"]
-  pricing: "PDF表示、全画面バーコード、並べ替えなどの基本機能は無料。オプションのアプリ内課金ですべての追加機能が使えます。"
+  pricing: "PDF表示、全画面バーコード、並べ替えなどの基本機能は無料。サブスクなしの一回限りのアプリ内課金ですべての追加機能が使えます。"
   privacy_title: "プライバシー"
   privacy_text: "このアプリは完全に端末上で動作します。"
   privacy_link: "プライバシーポリシーを読む"
@@ -284,7 +305,7 @@ ja:
   contact_button: "メールを送る"
   faq_title: "よくある質問"
   faq:
-    - ["PDFWalletは無料ですか？", "はい。PDFの表示、バーコードの全画面表示、並べ替えなどの基本機能は無料で、広告もありません。オプションのアプリ内課金ですべての追加機能が使えるようになります。"]
+    - ["PDFWalletは無料ですか？", "はい。PDF表示、全画面バーコード、並べ替えなどの基本機能は無料で、広告もありません。サブスクなしの一回限りのアプリ内課金ですべての追加機能が使えます。"]
     - ["オフラインで使えますか？", "はい。すべての書類は端末に保存されるため、インターネットに接続していなくてもチケットやバーコードを表示できます。"]
     - ["どのバーコードに対応していますか？", "QR、Aztec、DataMatrix、PDF417、およびEAN、UPC、Code 39、Code 93、Code 128、ITF、Codabarなどの一般的な1Dバーコードに対応しています。"]
     - ["書類はどこかにアップロードされますか？", "いいえ。アプリは完全に端末上で動作し、トラッキングもありません。Face IDや指紋認証で保護することもできます。"]
@@ -308,13 +329,16 @@ ko:
     - ["🔒", "개인정보 보호", "오프라인으로 작동하며 광고와 추적이 없습니다. 문서는 기기 밖으로 나가지 않습니다."]
     - ["📱", "전체 화면 바코드", "QR, Aztec, DataMatrix, PDF417 및 1D 바코드를 전체 화면으로 표시해 몇 초 만에 스캔."]
     - ["📄", "선명한 PDF", "인터넷 연결 없이도 고화질로 PDF를 확인하세요."]
-    - ["🏷️", "태그 및 정렬", "문서를 정리하고 이름을 바꾸고 원하는 대로 정렬하세요."]
-    - ["🌙", "다크 모드", "다크 모드에서도 아름답고, 문서는 원래 색상을 유지합니다."]
+    - ["🏷️", "태그 및 정렬", "태그로 정리하고, 정렬하고, 드래그 앤 드롭으로 순서를 바꾸고, 목록과 그리드를 전환하며, 여러 문서를 한 번에 공유하거나 삭제하세요."]
+    - ["🌙", "다크 모드", "다크 모드에서도 아름답게. 문서를 원래 색상으로 유지하거나 색상을 반전할 수 있습니다."]
     - ["👆", "생체 인식 잠금", "Face ID 또는 지문으로 지갑을 보호하세요(선택 사항)."]
+    - ["📥", "탭 한 번으로 가져오기", "이메일, 브라우저, 파일에서 PDF를 공유해 바로 지갑에 추가하세요. 여러 개도 한 번에."]
+    - ["🔍", "빠르게 찾기", "이름으로 검색하고 태그나 바코드가 있는 문서로 필터링하세요."]
+    - ["👉", "스와이프로 전환", "페이지와 문서를 스와이프로 넘기세요. 단체 여행에 딱입니다."]
   barcodes_title: "지원 바코드"
   screenshots_title: "스크린샷"
   shots: ["모든 티켓과 패스를 하나의 지갑에", "바코드를 전체 화면으로, 몇 초 만에 스캔", "오프라인에서도 선명한 PDF 보기", "태그로 문서 정리", "원하는 방식으로 문서 정렬", "낮이든 밤이든 스캔 준비된 QR 코드"]
-  pricing: "PDF 보기, 전체 화면 바코드, 정렬 등 핵심 기능은 무료입니다. 선택적 인앱 구매로 모든 추가 기능을 사용할 수 있습니다."
+  pricing: "PDF 보기, 전체 화면 바코드, 정렬 등 핵심 기능은 무료입니다. 구독 없는 1회성 인앱 구매로 모든 추가 기능을 사용할 수 있습니다."
   privacy_title: "개인정보"
   privacy_text: "이 앱은 전적으로 기기에서 작동합니다."
   privacy_link: "개인정보 처리방침 읽기"
@@ -326,7 +350,7 @@ ko:
   contact_button: "이메일 보내기"
   faq_title: "자주 묻는 질문"
   faq:
-    - ["PDFWallet은 무료인가요?", "네. PDF 보기, 전체 화면 바코드, 정렬 같은 핵심 기능은 무료이며 광고가 없습니다. 선택적 인앱 구매로 모든 추가 기능을 이용할 수 있습니다."]
+    - ["PDFWallet은 무료인가요?", "네. PDF 보기, 전체 화면 바코드, 정렬 등 핵심 기능은 광고 없이 무료입니다. 구독 없는 1회성 인앱 구매로 모든 추가 기능을 사용할 수 있습니다."]
     - ["오프라인에서도 작동하나요?", "네. 모든 문서가 기기에 저장되므로 인터넷 연결 없이도 티켓과 바코드를 사용할 수 있습니다."]
     - ["어떤 바코드를 지원하나요?", "QR, Aztec, DataMatrix, PDF417 및 EAN, UPC, Code 39, Code 93, Code 128, ITF, Codabar 같은 일반적인 1D 바코드를 지원합니다."]
     - ["내 문서가 어딘가에 업로드되나요?", "아니요. 앱은 전적으로 기기에서 작동하며 추적이 없습니다. 원하면 Face ID나 지문으로 보호할 수 있습니다."]
@@ -350,13 +374,16 @@ ru:
     - ["🔒", "Конфиденциальность", "Работает офлайн, без рекламы и отслеживания. Документы никогда не покидают устройство."]
     - ["📱", "Коды на весь экран", "QR, Aztec, DataMatrix, PDF417 и 1D-штрихкоды на весь экран — сканирование за секунды."]
     - ["📄", "Чёткие PDF", "Просматривайте PDF в высоком качестве даже без интернета."]
-    - ["🏷️", "Теги и сортировка", "Упорядочивайте, переименовывайте и сортируйте документы как удобно."]
-    - ["🌙", "Тёмная тема", "Красиво в тёмной теме, документы сохраняют исходные цвета."]
+    - ["🏷️", "Теги и сортировка", "Упорядочивайте тегами, сортируйте, меняйте порядок перетаскиванием, переключайтесь между списком и сеткой, делитесь и удаляйте сразу несколько."]
+    - ["🌙", "Тёмная тема", "Красиво в тёмной теме: сохраняйте исходные цвета документов или инвертируйте их."]
     - ["👆", "Биометрическая защита", "Защитите кошелёк с помощью Face ID или отпечатка пальца (по желанию)."]
+    - ["📥", "Импорт в одно касание", "Делитесь PDF из почты, браузера или файлов прямо в кошелёк — даже несколькими сразу."]
+    - ["🔍", "Быстрый поиск", "Ищите по названию и фильтруйте по тегу или по документам со штрихкодами."]
+    - ["👉", "Листайте билеты", "Листайте страницы и документы свайпом — идеально для групповых поездок."]
   barcodes_title: "Поддерживаемые коды"
   screenshots_title: "Скриншоты"
   shots: ["Все билеты и пропуска в одном кошельке", "Штрихкоды на весь экран — сканирование за секунды", "Чёткий просмотр PDF даже офлайн", "Упорядочивайте документы с помощью тегов", "Сортируйте документы как удобно", "QR-коды готовы к сканированию днём и ночью"]
-  pricing: "Основные функции — просмотр PDF, коды на весь экран и сортировка — бесплатны. Дополнительная встроенная покупка открывает все остальные функции."
+  pricing: "Основные функции — просмотр PDF, коды на весь экран и сортировка — бесплатны. Разовая встроенная покупка без подписки открывает все остальные функции."
   privacy_title: "Конфиденциальность"
   privacy_text: "Приложение работает полностью на вашем устройстве."
   privacy_link: "Политика конфиденциальности"
@@ -368,7 +395,7 @@ ru:
   contact_button: "Написать письмо"
   faq_title: "Частые вопросы"
   faq:
-    - ["PDFWallet бесплатный?", "Да. Основные функции — просмотр PDF, штрихкоды во весь экран и сортировка — бесплатны и без рекламы. Необязательная встроенная покупка открывает все дополнительные функции."]
+    - ["PDFWallet бесплатный?", "Да. Основные функции — просмотр PDF, коды на весь экран и сортировка — бесплатны и без рекламы. Разовая встроенная покупка без подписки открывает все остальные функции."]
     - ["PDFWallet работает без интернета?", "Да. Все документы хранятся на вашем устройстве, поэтому билеты и штрихкоды доступны даже без подключения к интернету."]
     - ["Какие штрихкоды поддерживаются?", "QR, Aztec, DataMatrix, PDF417 и распространённые 1D-штрихкоды: EAN, UPC, Code 39, Code 93, Code 128, ITF и Codabar."]
     - ["Мои документы куда-то загружаются?", "Нет. Приложение работает полностью на вашем устройстве, без отслеживания. При желании его можно защитить с помощью Face ID или отпечатка пальца."]
@@ -392,13 +419,16 @@ ar:
     - ["🔒", "الخصوصية أولًا", "يعمل دون اتصال، بلا إعلانات أو تتبع. مستنداتك لا تغادر جهازك أبدًا."]
     - ["📱", "باركود بملء الشاشة", "اعرض رموز QR وAztec وDataMatrix وPDF417 والباركود الخطي بملء الشاشة وامسحها في ثوانٍ."]
     - ["📄", "عرض PDF واضح", "اعرض ملفات PDF بجودة عالية حتى دون اتصال بالإنترنت."]
-    - ["🏷️", "الوسوم والترتيب", "نظّم مستنداتك وأعد تسميتها ورتّبها بطريقتك."]
-    - ["🌙", "الوضع الداكن", "جميل في الوضع الداكن مع الحفاظ على الألوان الأصلية للمستندات."]
+    - ["🏷️", "الوسوم والترتيب", "نظّم بالوسوم، ورتّب، وأعد الترتيب بالسحب والإفلات، وبدّل بين القائمة والشبكة، وشارك أو احذف عدة مستندات دفعة واحدة."]
+    - ["🌙", "الوضع الداكن", "جميل في الوضع الداكن: احتفظ بألوان المستندات الأصلية أو اعكسها."]
     - ["👆", "قفل بيومتري", "احمِ محفظتك باستخدام Face ID أو بصمة الإصبع (اختياري)."]
+    - ["📥", "استيراد بلمسة", "شارك ملفات PDF من البريد أو المتصفح أو الملفات مباشرة إلى محفظتك، حتى عدة ملفات معًا."]
+    - ["🔍", "اعثر عليه بسرعة", "ابحث بالاسم وصفِّ حسب الوسم أو المستندات التي تحتوي على باركود."]
+    - ["👉", "تنقّل بالسحب", "اسحب للتنقل بين الصفحات والمستندات، مثالي لرحلات المجموعات."]
   barcodes_title: "الرموز المدعومة"
   screenshots_title: "لقطات الشاشة"
   shots: ["كل تذاكرك وبطاقاتك في محفظة واحدة", "اعرض الرموز الشريطية بملء الشاشة وامسحها في ثوانٍ", "عرض PDF واضح حتى دون اتصال", "نظّم المستندات باستخدام الوسوم", "رتّب مستنداتك بطريقتك", "رموز QR جاهزة للمسح ليلًا ونهارًا"]
-  pricing: "الميزات الأساسية مثل عرض PDF والباركود بملء الشاشة والترتيب مجانية. يفتح شراء اختياري داخل التطبيق جميع الميزات الإضافية."
+  pricing: "الميزات الأساسية مثل عرض PDF والباركود بملء الشاشة والترتيب مجانية. يفتح شراء لمرة واحدة داخل التطبيق، دون اشتراك، جميع الميزات الإضافية."
   privacy_title: "الخصوصية"
   privacy_text: "يعمل هذا التطبيق بالكامل على جهازك."
   privacy_link: "اقرأ سياسة الخصوصية"
@@ -410,7 +440,7 @@ ar:
   contact_button: "أرسل بريدًا إلكترونيًا"
   faq_title: "الأسئلة الشائعة"
   faq:
-    - ["هل PDFWallet مجاني؟", "نعم. الميزات الأساسية مثل عرض ملفات PDF والرموز الشريطية بملء الشاشة والفرز مجانية وبدون إعلانات. وتفتح عملية شراء اختيارية داخل التطبيق جميع الميزات الإضافية."]
+    - ["هل PDFWallet مجاني؟", "نعم. الميزات الأساسية مثل عرض PDF والباركود بملء الشاشة والترتيب مجانية ودون إعلانات. يفتح شراء لمرة واحدة داخل التطبيق، دون اشتراك، جميع الميزات الإضافية."]
     - ["هل يعمل PDFWallet دون اتصال بالإنترنت؟", "نعم. تُحفظ جميع المستندات على جهازك، لذا تبقى تذاكرك ورموزك الشريطية متاحة حتى دون اتصال بالإنترنت."]
     - ["ما الرموز الشريطية المدعومة؟", "QR وAztec وDataMatrix وPDF417 والرموز الشريطية أحادية البعد الشائعة مثل EAN وUPC وCode 39 وCode 93 وCode 128 وITF وCodabar."]
     - ["هل تُرفع مستنداتي إلى أي مكان؟", "لا. يعمل التطبيق بالكامل على جهازك دون أي تتبع. ويمكنك حمايته اختياريًا باستخدام Face ID أو بصمة الإصبع."]
