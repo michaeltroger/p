@@ -17,7 +17,7 @@ en:
     - ["🏷️", "Tags & sorting", "Organize with tags, sort, drag & drop to reorder, switch between list and grid, and share or delete in bulk."]
     - ["🌙", "Dark mode", "Beautiful in dark mode – keep documents in their original colors or invert them."]
     - ["👆", "Biometric lock", "Optionally protect your wallet with Face ID or fingerprint authentication."]
-    - ["📥", "Import in one tap", "Share PDFs from email, your browser or files straight into your wallet – several at once."]
+    - ["📥", "Import in one tap", "Share PDFs from email, your browser or files straight into PDFWallet – several at once."]
     - ["🔍", "Find it fast", "Search by name and filter by tag or by documents with barcodes."]
     - ["👉", "Swipe between passes", "Swipe through pages and documents – ideal for group travel."]
   barcodes_title: "Supported barcodes"
@@ -62,7 +62,7 @@ de:
     - ["🏷️", "Tags & Sortierung", "Mit Tags organisieren, sortieren, per Drag & Drop anordnen, zwischen Liste und Raster wechseln und mehrere Dokumente auf einmal teilen oder löschen."]
     - ["🌙", "Dunkelmodus", "Schön im Dunkelmodus – Dokumente in Originalfarben behalten oder Farben invertieren."]
     - ["👆", "Biometrische Sperre", "Optional mit Face ID oder Fingerabdruck schützen."]
-    - ["📥", "Import mit einem Tipp", "PDFs aus E-Mail, Browser oder Dateien direkt in dein Wallet teilen – auch mehrere auf einmal."]
+    - ["📥", "Import mit einem Tipp", "PDFs aus E-Mail, Browser oder Dateien direkt in PDFWallet teilen – auch mehrere auf einmal."]
     - ["🔍", "Schnell gefunden", "Nach Namen suchen und nach Tags oder Dokumenten mit Barcodes filtern."]
     - ["👉", "Zwischen Tickets wischen", "Durch Seiten und Dokumente wischen – ideal für Gruppenreisen."]
   barcodes_title: "Unterstützte Barcodes"
@@ -107,7 +107,7 @@ es:
     - ["🏷️", "Etiquetas y orden", "Organiza con etiquetas, ordena, reordena arrastrando, alterna entre lista y cuadrícula, y comparte o elimina varios a la vez."]
     - ["🌙", "Modo oscuro", "Precioso en modo oscuro: mantén los colores originales de los documentos o inviértelos."]
     - ["👆", "Bloqueo biométrico", "Protege tu cartera opcionalmente con Face ID o huella dactilar."]
-    - ["📥", "Importa con un toque", "Comparte PDF desde el correo, el navegador o archivos directamente a tu cartera, incluso varios a la vez."]
+    - ["📥", "Importa con un toque", "Comparte PDF desde el correo, el navegador o archivos directamente a PDFWallet, incluso varios a la vez."]
     - ["🔍", "Encuéntralo rápido", "Busca por nombre y filtra por etiqueta o por documentos con códigos."]
     - ["👉", "Desliza entre billetes", "Desliza entre páginas y documentos: ideal para viajes en grupo."]
   barcodes_title: "Códigos compatibles"
@@ -152,7 +152,7 @@ fr:
     - ["🏷️", "Étiquettes et tri", "Organisez avec des étiquettes, triez, réordonnez par glisser-déposer, passez de la liste à la grille, et partagez ou supprimez en lot."]
     - ["🌙", "Mode sombre", "Superbe en mode sombre : gardez les couleurs d'origine des documents ou inversez-les."]
     - ["👆", "Verrou biométrique", "Protégez votre portefeuille avec Face ID ou l'empreinte digitale (optionnel)."]
-    - ["📥", "Import en un geste", "Partagez des PDF depuis vos e-mails, votre navigateur ou vos fichiers directement dans votre wallet, même plusieurs à la fois."]
+    - ["📥", "Import en un geste", "Partagez des PDF depuis vos e-mails, votre navigateur ou vos fichiers directement dans PDFWallet, même plusieurs à la fois."]
     - ["🔍", "Trouvez vite", "Recherchez par nom et filtrez par étiquette ou par documents avec codes-barres."]
     - ["👉", "Balayez entre vos billets", "Balayez entre les pages et les documents, idéal pour les voyages en groupe."]
   barcodes_title: "Codes-barres pris en charge"
@@ -197,7 +197,7 @@ it:
     - ["🏷️", "Tag e ordinamento", "Organizza con i tag, ordina, riordina trascinando, passa da elenco a griglia e condividi o elimina più documenti insieme."]
     - ["🌙", "Modalità scura", "Bellissima in modalità scura: mantieni i colori originali dei documenti o invertili."]
     - ["👆", "Blocco biometrico", "Proteggi il wallet con Face ID o impronta digitale (opzionale)."]
-    - ["📥", "Importa con un tocco", "Condividi PDF da email, browser o file direttamente nel tuo wallet, anche più alla volta."]
+    - ["📥", "Importa con un tocco", "Condividi PDF da email, browser o file direttamente in PDFWallet, anche più alla volta."]
     - ["🔍", "Trova subito", "Cerca per nome e filtra per tag o per documenti con codici a barre."]
     - ["👉", "Scorri tra i biglietti", "Scorri tra pagine e documenti: ideale per i viaggi di gruppo."]
   barcodes_title: "Codici supportati"
@@ -242,7 +242,7 @@ pt:
     - ["🏷️", "Tags e ordenação", "Organize com tags, ordene, reorganize arrastando, alterne entre lista e grade, e compartilhe ou exclua vários de uma vez."]
     - ["🌙", "Modo escuro", "Lindo no modo escuro: mantenha as cores originais dos documentos ou inverta-as."]
     - ["👆", "Bloqueio biométrico", "Proteja sua carteira com Face ID ou impressão digital (opcional)."]
-    - ["📥", "Importe com um toque", "Compartilhe PDFs do e-mail, navegador ou arquivos direto para sua carteira, até vários de uma vez."]
+    - ["📥", "Importe com um toque", "Compartilhe PDFs do e-mail, navegador ou arquivos direto para o PDFWallet, até vários de uma vez."]
     - ["🔍", "Encontre rápido", "Pesquise por nome e filtre por tag ou por documentos com códigos de barras."]
     - ["👉", "Deslize entre bilhetes", "Deslize entre páginas e documentos: ideal para viagens em grupo."]
   barcodes_title: "Códigos suportados"
@@ -332,7 +332,7 @@ ko:
     - ["🏷️", "태그 및 정렬", "태그로 정리하고, 정렬하고, 드래그 앤 드롭으로 순서를 바꾸고, 목록과 그리드를 전환하며, 여러 문서를 한 번에 공유하거나 삭제하세요."]
     - ["🌙", "다크 모드", "다크 모드에서도 아름답게. 문서를 원래 색상으로 유지하거나 색상을 반전할 수 있습니다."]
     - ["👆", "생체 인식 잠금", "Face ID 또는 지문으로 지갑을 보호하세요(선택 사항)."]
-    - ["📥", "탭 한 번으로 가져오기", "이메일, 브라우저, 파일에서 PDF를 공유해 바로 지갑에 추가하세요. 여러 개도 한 번에."]
+    - ["📥", "탭 한 번으로 가져오기", "이메일, 브라우저, 파일에서 PDF를 공유해 바로 PDFWallet에 추가하세요. 여러 개도 한 번에."]
     - ["🔍", "빠르게 찾기", "이름으로 검색하고 태그나 바코드가 있는 문서로 필터링하세요."]
     - ["👉", "스와이프로 전환", "페이지와 문서를 스와이프로 넘기세요. 단체 여행에 딱입니다."]
   barcodes_title: "지원 바코드"
@@ -377,7 +377,7 @@ ru:
     - ["🏷️", "Теги и сортировка", "Упорядочивайте тегами, сортируйте, меняйте порядок перетаскиванием, переключайтесь между списком и сеткой, делитесь и удаляйте сразу несколько."]
     - ["🌙", "Тёмная тема", "Красиво в тёмной теме: сохраняйте исходные цвета документов или инвертируйте их."]
     - ["👆", "Биометрическая защита", "Защитите кошелёк с помощью Face ID или отпечатка пальца (по желанию)."]
-    - ["📥", "Импорт в одно касание", "Делитесь PDF из почты, браузера или файлов прямо в кошелёк — даже несколькими сразу."]
+    - ["📥", "Импорт в одно касание", "Делитесь PDF из почты, браузера или файлов прямо в PDFWallet — даже несколькими сразу."]
     - ["🔍", "Быстрый поиск", "Ищите по названию и фильтруйте по тегу или по документам со штрихкодами."]
     - ["👉", "Листайте билеты", "Листайте страницы и документы свайпом — идеально для групповых поездок."]
   barcodes_title: "Поддерживаемые коды"
@@ -422,7 +422,7 @@ ar:
     - ["🏷️", "الوسوم والترتيب", "نظّم بالوسوم، ورتّب، وأعد الترتيب بالسحب والإفلات، وبدّل بين القائمة والشبكة، وشارك أو احذف عدة مستندات دفعة واحدة."]
     - ["🌙", "الوضع الداكن", "جميل في الوضع الداكن: احتفظ بألوان المستندات الأصلية أو اعكسها."]
     - ["👆", "قفل بيومتري", "احمِ محفظتك باستخدام Face ID أو بصمة الإصبع (اختياري)."]
-    - ["📥", "استيراد بلمسة", "شارك ملفات PDF من البريد أو المتصفح أو الملفات مباشرة إلى محفظتك، حتى عدة ملفات معًا."]
+    - ["📥", "استيراد بلمسة", "شارك ملفات PDF من البريد أو المتصفح أو الملفات مباشرة إلى PDFWallet، حتى عدة ملفات معًا."]
     - ["🔍", "اعثر عليه بسرعة", "ابحث بالاسم وصفِّ حسب الوسم أو المستندات التي تحتوي على باركود."]
     - ["👉", "تنقّل بالسحب", "اسحب للتنقل بين الصفحات والمستندات، مثالي لرحلات المجموعات."]
   barcodes_title: "الرموز المدعومة"
