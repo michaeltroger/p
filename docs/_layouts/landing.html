@@ -161,6 +161,7 @@
           <div class="card"><div class="ico" aria-hidden="true">{{ f[0] }}</div><h3>{{ f[1] }}</h3><p>{{ f[2] }}</p></div>
           {%- endfor %}
         </div>
+        <p class="pricing" style="margin-top:32px">{{ t.pricing }}</p>
       </section>
 
       <section>
@@ -181,7 +182,6 @@
           {%- assign codes = "QR,Aztec,DataMatrix,PDF417,UPC-A,UPC-E,EAN-8,EAN-13,Code 39,Code 93,Code 128,ITF,Codabar" | split: "," -%}
           {%- for c in codes %}<span class="chip">{{ c }}</span>{% endfor %}
         </div>
-        <p class="pricing" style="margin-top:32px">{{ t.pricing }}</p>
       </section>
 
       <section>
