@@ -33,6 +33,142 @@ pdf-to-wallet:
       - ["Kann ich ein PDF zur Apple Wallet hinzufügen?", "Nicht direkt. Apple Wallet unterstützt nur .pkpass-Dateien. PDFWallet speichert das PDF selbst und zeigt den QR-Code oder Barcode im Vollbild."]
       - ["Kann ich ein PDF zur Google Wallet hinzufügen?", "Google Wallet importiert keine beliebigen PDF-Tickets. Mit PDFWallet speicherst du jedes PDF-Ticket auf deinem Android-Handy und zeigst es offline."]
       - ["Ist PDFWallet kostenlos?", "Ja. PDFs ansehen, Barcodes im Vollbild und Sortieren sind kostenlos. Ein einmaliger Kauf, kein Abo, schaltet weitere Funktionen frei."]
+  es:
+    title: "Añade un billete PDF a tu wallet – la alternativa a Apple y Google Wallet"
+    description: "Apple Wallet y Google Wallet no pueden guardar billetes en PDF. PDFWallet guarda tus billetes PDF, tarjetas de embarque y códigos QR en tu móvil – sin conexión, gratis y sin anuncios."
+    h1: "¿Tu billete PDF no se puede añadir a Apple o Google Wallet?"
+    intro: "Apple Wallet solo acepta archivos .pkpass y Google Wallet solo admite pases emitidos por el proveedor. Muchas aerolíneas, operadores ferroviarios y ticketeras solo envían un PDF. PDFWallet es una wallet creada justo para esos PDF."
+    steps_title: "Cómo poner un billete PDF en una wallet"
+    steps:
+      - ["Abre el PDF", "Abre el PDF desde tu correo, el navegador o la app de archivos."]
+      - ["Compártelo con PDFWallet", "Toca compartir y elige PDFWallet – o impórtalo dentro de la app. También funciona con varios archivos a la vez."]
+      - ["Muestra el código", "Los códigos de barras se detectan automáticamente. Toca uno para mostrarlo a pantalla completa en la puerta de embarque, la entrada o la caja."]
+    sections:
+      - ["¿Por qué no dejar el PDF en mis archivos?", "Buscar un PDF entre tus descargas en la puerta de embarque es estresante. PDFWallet guarda todos los billetes en un solo lugar, ordenados a tu manera, y muestra el código a pantalla completa para que se escanee en segundos."]
+      - ["Funciona sin internet", "Todo se guarda en tu dispositivo. Tus billetes se abren incluso en modo avión, en el extranjero o bajo tierra – y tus documentos nunca salen de tu móvil."]
+    faq:
+      - ["¿Puedo añadir un PDF a Apple Wallet?", "No directamente. Apple Wallet solo admite archivos .pkpass. PDFWallet guarda el propio PDF y muestra su código QR o de barras a pantalla completa."]
+      - ["¿Puedo añadir un PDF a Google Wallet?", "Google Wallet no importa cualquier billete PDF. Con PDFWallet puedes guardar cualquier billete PDF en tu Android y mostrarlo sin conexión."]
+      - ["¿PDFWallet es gratis?", "Sí. Ver PDF, los códigos a pantalla completa y la ordenación son gratis. Una compra única, sin suscripción, desbloquea funciones adicionales."]
+  fr:
+    title: "Ajouter un billet PDF à votre wallet – l'alternative à Apple et Google Wallet"
+    description: "Apple Wallet et Google Wallet ne peuvent pas stocker de billets PDF. PDFWallet garde vos billets PDF, cartes d'embarquement et QR codes sur votre téléphone – hors ligne, gratuit, sans publicité."
+    h1: "Votre billet PDF ne s'ajoute pas à Apple ou Google Wallet ?"
+    intro: "Apple Wallet n'accepte que les fichiers .pkpass et Google Wallet ne prend en charge que les cartes émises par le fournisseur. Beaucoup de compagnies aériennes, d'opérateurs ferroviaires et de billetteries envoient simplement un PDF. PDFWallet est un wallet conçu exactement pour ces PDF."
+    steps_title: "Comment mettre un billet PDF dans un wallet"
+    steps:
+      - ["Ouvrez le PDF", "Ouvrez le PDF depuis votre e-mail, votre navigateur ou l'app Fichiers."]
+      - ["Partagez-le avec PDFWallet", "Touchez Partager et choisissez PDFWallet – ou importez-le dans l'app. Plusieurs fichiers à la fois, c'est possible aussi."]
+      - ["Affichez le code", "Les codes-barres sont détectés automatiquement. Touchez-en un pour l'afficher en plein écran à la porte d'embarquement, à l'entrée ou à la caisse."]
+    sections:
+      - ["Pourquoi ne pas laisser le PDF dans mes fichiers ?", "Chercher un PDF dans ses téléchargements à la porte d'embarquement est stressant. PDFWallet réunit tous vos billets au même endroit, triés comme vous le souhaitez, et affiche le code-barres en plein écran pour un scan en quelques secondes."]
+      - ["Fonctionne sans internet", "Tout est stocké sur votre appareil. Vos billets s'ouvrent même en mode avion, à l'étranger ou dans le métro – et vos documents ne quittent jamais votre téléphone."]
+    faq:
+      - ["Puis-je ajouter un PDF à Apple Wallet ?", "Pas directement. Apple Wallet ne prend en charge que les fichiers .pkpass. PDFWallet stocke le PDF lui-même et affiche son QR code ou code-barres en plein écran."]
+      - ["Puis-je ajouter un PDF à Google Wallet ?", "Google Wallet n'importe pas n'importe quel billet PDF. Avec PDFWallet, vous gardez tout billet PDF sur votre téléphone Android et l'affichez hors ligne."]
+      - ["PDFWallet est-il gratuit ?", "Oui. L'affichage des PDF, les codes-barres en plein écran et le tri sont gratuits. Un achat unique, sans abonnement, débloque des fonctionnalités supplémentaires."]
+  it:
+    title: "Aggiungi un biglietto PDF al tuo wallet – l'alternativa ad Apple e Google Wallet"
+    description: "Apple Wallet e Google Wallet non possono salvare biglietti PDF. PDFWallet conserva biglietti PDF, carte d'imbarco e codici QR sul tuo telefono – offline, gratis, senza pubblicità."
+    h1: "Il tuo biglietto PDF non si aggiunge ad Apple o Google Wallet?"
+    intro: "Apple Wallet accetta solo file .pkpass e Google Wallet supporta solo i pass emessi dal fornitore. Molte compagnie aeree, ferroviarie e biglietterie inviano solo un PDF. PDFWallet è un wallet pensato proprio per questi PDF."
+    steps_title: "Come mettere un biglietto PDF in un wallet"
+    steps:
+      - ["Apri il PDF", "Apri il PDF dalla tua email, dal browser o dall'app File."]
+      - ["Condividilo con PDFWallet", "Tocca Condividi e scegli PDFWallet – oppure importalo nell'app. Funziona anche con più file insieme."]
+      - ["Mostra il codice", "I codici a barre vengono rilevati automaticamente. Toccane uno per mostrarlo a schermo intero al gate, all'ingresso o alla cassa."]
+    sections:
+      - ["Perché non lasciare il PDF tra i miei file?", "Cercare un PDF tra i download al gate è stressante. PDFWallet tiene tutti i biglietti in un unico posto, ordinati come vuoi tu, e mostra il codice a barre a schermo intero per una scansione in pochi secondi."]
+      - ["Funziona senza internet", "Tutto è salvato sul tuo dispositivo. I biglietti si aprono anche in modalità aereo, all'estero o in metropolitana – e i tuoi documenti non lasciano mai il telefono."]
+    faq:
+      - ["Posso aggiungere un PDF ad Apple Wallet?", "Non direttamente. Apple Wallet supporta solo file .pkpass. PDFWallet salva il PDF stesso e mostra il suo codice QR o a barre a schermo intero."]
+      - ["Posso aggiungere un PDF a Google Wallet?", "Google Wallet non importa qualsiasi biglietto PDF. Con PDFWallet puoi conservare qualsiasi biglietto PDF sul tuo telefono Android e mostrarlo offline."]
+      - ["PDFWallet è gratuito?", "Sì. Visualizzare i PDF, i codici a schermo intero e l'ordinamento sono gratuiti. Un acquisto unico, senza abbonamento, sblocca funzioni aggiuntive."]
+  pt:
+    title: "Adicione um bilhete PDF à sua carteira – a alternativa ao Apple e Google Wallet"
+    description: "O Apple Wallet e o Google Wallet não guardam bilhetes em PDF. O PDFWallet guarda seus bilhetes PDF, cartões de embarque e QR codes no celular – offline, grátis e sem anúncios."
+    h1: "Seu bilhete PDF não entra no Apple ou Google Wallet?"
+    intro: "O Apple Wallet só aceita arquivos .pkpass e o Google Wallet só suporta passes emitidos pelo fornecedor. Muitas companhias aéreas, operadoras ferroviárias e bilheterias enviam apenas um PDF. O PDFWallet é uma carteira feita exatamente para esses PDFs."
+    steps_title: "Como colocar um bilhete PDF numa carteira"
+    steps:
+      - ["Abra o PDF", "Abra o PDF a partir do seu e-mail, navegador ou app de arquivos."]
+      - ["Compartilhe com o PDFWallet", "Toque em compartilhar e escolha o PDFWallet – ou importe-o dentro do app. Vários arquivos de uma vez também funcionam."]
+      - ["Mostre o código", "Os códigos de barras são detectados automaticamente. Toque num deles para mostrá-lo em tela cheia no portão, na entrada ou no caixa."]
+    sections:
+      - ["Por que não deixar o PDF nos meus arquivos?", "Procurar um PDF nos downloads no portão de embarque é estressante. O PDFWallet mantém todos os bilhetes num só lugar, organizados do seu jeito, e mostra o código em tela cheia para ser lido em segundos."]
+      - ["Funciona sem internet", "Tudo fica guardado no seu dispositivo. Seus bilhetes abrem até no modo avião, no exterior ou no metrô – e seus documentos nunca saem do seu celular."]
+    faq:
+      - ["Posso adicionar um PDF ao Apple Wallet?", "Não diretamente. O Apple Wallet só suporta arquivos .pkpass. O PDFWallet guarda o próprio PDF e mostra o QR code ou código de barras em tela cheia."]
+      - ["Posso adicionar um PDF ao Google Wallet?", "O Google Wallet não importa qualquer bilhete PDF. Com o PDFWallet você guarda qualquer bilhete PDF no seu Android e o mostra offline."]
+      - ["O PDFWallet é grátis?", "Sim. Ver PDFs, códigos em tela cheia e a ordenação são grátis. Uma compra única, sem assinatura, desbloqueia recursos adicionais."]
+  ja:
+    title: "PDFチケットをウォレットに – Apple・Google ウォレットの代わりに"
+    description: "Apple ウォレットや Google ウォレットには PDF チケットを保存できません。PDFWallet なら PDF チケット、搭乗券、QR コードをスマホにオフラインで保存できます。無料・広告なし。"
+    h1: "PDFチケットが Apple・Google ウォレットに追加できない？"
+    intro: "Apple ウォレットは .pkpass ファイルのみ、Google ウォレットは発行元が提供するパスのみに対応しています。多くの航空会社、鉄道会社、チケットショップは PDF しか送ってくれません。PDFWallet はそんな PDF のためのウォレットです。"
+    steps_title: "PDFチケットをウォレットに入れる方法"
+    steps:
+      - ["PDFを開く", "メール、ブラウザ、またはファイルアプリから PDF を開きます。"]
+      - ["PDFWallet に共有", "共有をタップして PDFWallet を選ぶか、アプリ内でインポートします。複数ファイルの同時インポートも可能です。"]
+      - ["コードを表示", "バーコードは自動で検出されます。タップすると、搭乗口、入場口、レジで全画面表示できます。"]
+    sections:
+      - ["ファイルに PDF を置いておくだけではダメ？", "搭乗口でダウンロードの中から PDF を探すのはストレスです。PDFWallet ならすべてのチケットを好きな順番で一か所にまとめ、バーコードを全画面表示して数秒で読み取れます。"]
+      - ["インターネット不要", "すべて端末内に保存されます。機内モードでも、海外でも、地下でもチケットを開けます。書類がスマホの外に出ることはありません。"]
+    faq:
+      - ["PDF を Apple ウォレットに追加できますか？", "直接はできません。Apple ウォレットは .pkpass ファイルのみ対応です。PDFWallet は PDF そのものを保存し、QR コードやバーコードを全画面表示します。"]
+      - ["PDF を Google ウォレットに追加できますか？", "Google ウォレットは任意の PDF チケットを取り込めません。PDFWallet なら、どんな PDF チケットも Android スマホに保存してオフラインで表示できます。"]
+      - ["PDFWallet は無料ですか？", "はい。PDF の表示、バーコードの全画面表示、並べ替えは無料です。サブスクリプションなしの買い切りで追加機能が使えます。"]
+  ko:
+    title: "PDF 티켓을 월렛에 – Apple·Google 월렛의 대안"
+    description: "Apple 월렛과 Google 월렛은 PDF 티켓을 저장할 수 없습니다. PDFWallet은 PDF 티켓, 탑승권, QR 코드를 휴대폰에 오프라인으로 보관합니다. 무료, 광고 없음."
+    h1: "PDF 티켓이 Apple 또는 Google 월렛에 추가되지 않나요?"
+    intro: "Apple 월렛은 .pkpass 파일만, Google 월렛은 제공업체가 발급한 패스만 지원합니다. 많은 항공사, 철도 회사, 티켓 판매처는 PDF만 보내줍니다. PDFWallet은 바로 그런 PDF를 위한 월렛입니다."
+    steps_title: "PDF 티켓을 월렛에 넣는 방법"
+    steps:
+      - ["PDF 열기", "이메일, 브라우저 또는 파일 앱에서 PDF를 엽니다."]
+      - ["PDFWallet로 공유", "공유를 탭하고 PDFWallet을 선택하거나 앱 안에서 가져옵니다. 여러 파일을 한 번에 가져올 수도 있습니다."]
+      - ["코드 보여주기", "바코드는 자동으로 감지됩니다. 탭하면 탑승구, 입구, 계산대에서 전체 화면으로 보여줄 수 있습니다."]
+    sections:
+      - ["그냥 파일에 PDF를 두면 안 되나요?", "탑승구에서 다운로드 폴더를 뒤져 PDF를 찾는 건 스트레스입니다. PDFWallet은 모든 티켓을 원하는 순서로 한곳에 모아 두고, 바코드를 전체 화면으로 보여줘 몇 초 만에 스캔됩니다."]
+      - ["인터넷 없이 작동", "모든 것이 기기에 저장됩니다. 비행기 모드, 해외, 지하에서도 티켓이 열리며 문서는 휴대폰 밖으로 나가지 않습니다."]
+    faq:
+      - ["PDF를 Apple 월렛에 추가할 수 있나요?", "직접은 불가능합니다. Apple 월렛은 .pkpass 파일만 지원합니다. PDFWallet은 PDF 자체를 저장하고 QR 코드나 바코드를 전체 화면으로 보여줍니다."]
+      - ["PDF를 Google 월렛에 추가할 수 있나요?", "Google 월렛은 임의의 PDF 티켓을 가져오지 않습니다. PDFWallet을 사용하면 어떤 PDF 티켓이든 Android 휴대폰에 보관하고 오프라인으로 보여줄 수 있습니다."]
+      - ["PDFWallet은 무료인가요?", "네. PDF 보기, 바코드 전체 화면 표시, 정렬은 무료입니다. 구독 없는 일회성 구매로 추가 기능을 사용할 수 있습니다."]
+  ru:
+    title: "Добавьте PDF-билет в кошелёк – альтернатива Apple и Google Wallet"
+    description: "Apple Wallet и Google Wallet не умеют хранить PDF-билеты. PDFWallet хранит PDF-билеты, посадочные талоны и QR-коды на телефоне – офлайн, бесплатно, без рекламы."
+    h1: "PDF-билет не добавляется в Apple или Google Wallet?"
+    intro: "Apple Wallet принимает только файлы .pkpass, а Google Wallet – только карты, выпущенные поставщиком. Многие авиакомпании, железные дороги и билетные сервисы присылают просто PDF. PDFWallet – кошелёк, созданный именно для таких PDF."
+    steps_title: "Как положить PDF-билет в кошелёк"
+    steps:
+      - ["Откройте PDF", "Откройте PDF из почты, браузера или приложения «Файлы»."]
+      - ["Поделитесь с PDFWallet", "Нажмите «Поделиться» и выберите PDFWallet – или импортируйте файл в приложении. Можно сразу несколько файлов."]
+      - ["Покажите код", "Штрихкоды распознаются автоматически. Нажмите на код, чтобы показать его на весь экран у выхода на посадку, на входе или на кассе."]
+    sections:
+      - ["Почему бы не оставить PDF в файлах?", "Искать PDF в загрузках у выхода на посадку – это стресс. PDFWallet хранит все билеты в одном месте в удобном вам порядке и показывает штрихкод на весь экран, чтобы его считали за секунды."]
+      - ["Работает без интернета", "Всё хранится на устройстве. Билеты открываются даже в авиарежиме, за границей или в метро – а документы никогда не покидают телефон."]
+    faq:
+      - ["Можно ли добавить PDF в Apple Wallet?", "Напрямую нельзя. Apple Wallet поддерживает только файлы .pkpass. PDFWallet хранит сам PDF и показывает его QR-код или штрихкод на весь экран."]
+      - ["Можно ли добавить PDF в Google Wallet?", "Google Wallet не импортирует произвольные PDF-билеты. С PDFWallet можно хранить любой PDF-билет на Android-телефоне и показывать его офлайн."]
+      - ["PDFWallet бесплатный?", "Да. Просмотр PDF, полноэкранные штрихкоды и сортировка бесплатны. Разовая покупка без подписки открывает дополнительные функции."]
+  ar:
+    title: "أضف تذكرة PDF إلى محفظتك – البديل عن Apple Wallet وGoogle Wallet"
+    description: "لا يمكن لـ Apple Wallet وGoogle Wallet حفظ تذاكر PDF. يحفظ PDFWallet تذاكر PDF وبطاقات الصعود ورموز QR على هاتفك – دون اتصال، مجانًا، وبلا إعلانات."
+    h1: "لا يمكن إضافة تذكرة PDF إلى Apple Wallet أو Google Wallet؟"
+    intro: "يقبل Apple Wallet ملفات .pkpass فقط، ويدعم Google Wallet البطاقات الصادرة عن المزوّد فقط. كثير من شركات الطيران والسكك الحديدية ومتاجر التذاكر ترسل ملف PDF فقط. PDFWallet محفظة مصممة لهذه الملفات تحديدًا."
+    steps_title: "كيف تضع تذكرة PDF في محفظة"
+    steps:
+      - ["افتح ملف PDF", "افتح الملف من بريدك الإلكتروني أو المتصفح أو تطبيق الملفات."]
+      - ["شاركه مع PDFWallet", "اضغط على مشاركة واختر PDFWallet – أو استورده داخل التطبيق. يمكنك أيضًا استيراد عدة ملفات دفعة واحدة."]
+      - ["اعرض الرمز", "يتم اكتشاف الرموز الشريطية تلقائيًا. اضغط على أحدها لعرضه بملء الشاشة عند البوابة أو المدخل أو الصندوق."]
+    sections:
+      - ["لماذا لا أترك الملف في ملفاتي فقط؟", "البحث عن ملف PDF في التنزيلات عند البوابة أمر مرهق. يجمع PDFWallet كل تذاكرك في مكان واحد بالترتيب الذي تريده، ويعرض الرمز الشريطي بملء الشاشة ليُمسح في ثوانٍ."]
+      - ["يعمل بدون إنترنت", "كل شيء محفوظ على جهازك. تفتح تذاكرك حتى في وضع الطيران أو في الخارج أو تحت الأرض – ولا تغادر مستنداتك هاتفك أبدًا."]
+    faq:
+      - ["هل يمكنني إضافة PDF إلى Apple Wallet؟", "ليس مباشرة. يدعم Apple Wallet ملفات .pkpass فقط. يحفظ PDFWallet ملف PDF نفسه ويعرض رمز QR أو الرمز الشريطي بملء الشاشة."]
+      - ["هل يمكنني إضافة PDF إلى Google Wallet؟", "لا يستورد Google Wallet أي تذكرة PDF عشوائية. مع PDFWallet يمكنك حفظ أي تذكرة PDF على هاتف Android وعرضها دون اتصال."]
+      - ["هل PDFWallet مجاني؟", "نعم. عرض ملفات PDF والرموز بملء الشاشة والترتيب مجانية. شراء لمرة واحدة، بدون اشتراك، يفتح ميزات إضافية."]
 
 boarding-pass:
   en:
@@ -69,6 +205,142 @@ boarding-pass:
       - ["Brauche ich am Flughafen Internet?", "Nein. Deine Bordkarten sind auf dem Gerät gespeichert und öffnen sich offline, auch im Flugmodus."]
       - ["Welche Barcodes werden unterstützt?", "Aztec, PDF417, QR, DataMatrix und gängige 1D-Barcodes – die Formate, die auf Bordkarten verwendet werden."]
       - ["Werden meine Daten hochgeladen?", "Nein. PDFWallet arbeitet vollständig auf deinem Gerät, ohne Werbung und Tracking."]
+  es:
+    title: "Guarda tu tarjeta de embarque PDF sin conexión en el móvil"
+    description: "Guarda tarjetas de embarque en PDF en tu iPhone o Android y muestra el código a pantalla completa en el control de seguridad y la puerta de embarque – incluso sin internet."
+    h1: "Tu tarjeta de embarque, sin conexión y lista en la puerta"
+    intro: "Muchas aerolíneas envían la tarjeta de embarque en PDF. PDFWallet la guarda en tu móvil, detecta automáticamente el código Aztec, PDF417 o QR y lo muestra a pantalla completa – sin Wi-Fi ni roaming."
+    steps_title: "Cómo guardar una tarjeta de embarque PDF"
+    steps:
+      - ["Descarga la tarjeta de embarque", "Obtén el PDF desde el correo, la web o la app de la aerolínea después del check-in."]
+      - ["Compártela con PDFWallet", "Toca compartir y elige PDFWallet. El código se encuentra automáticamente."]
+      - ["Escanéala en la puerta", "Abre la tarjeta y toca el código para mostrarlo a pantalla completa en el control y el embarque."]
+    sections:
+      - ["¿Viajas en grupo?", "Desliza entre documentos para mostrar las tarjetas de embarque de todos los pasajeros una tras otra, sin salir de la pantalla completa."]
+      - ["Vuelo de vuelta incluido", "Etiqueta las tarjetas por viaje y ordénalas, para que las de ida y vuelta estén siempre donde las esperas."]
+    faq:
+      - ["¿Necesito internet en el aeropuerto?", "No. Tus tarjetas de embarque se guardan en el dispositivo y se abren sin conexión, también en modo avión."]
+      - ["¿Qué códigos de barras se admiten?", "Aztec, PDF417, QR, DataMatrix y los códigos 1D habituales – los formatos que se usan en las tarjetas de embarque."]
+      - ["¿Se suben mis datos a algún sitio?", "No. PDFWallet funciona completamente en tu dispositivo, sin anuncios ni rastreo."]
+  fr:
+    title: "Gardez votre carte d'embarquement PDF hors ligne sur votre téléphone"
+    description: "Conservez vos cartes d'embarquement PDF sur votre iPhone ou Android et affichez le code-barres en plein écran au contrôle de sécurité et à la porte – même sans internet."
+    h1: "Votre carte d'embarquement, hors ligne et prête à la porte"
+    intro: "De nombreuses compagnies envoient la carte d'embarquement en PDF. PDFWallet la stocke sur votre téléphone, détecte automatiquement le code Aztec, PDF417 ou QR et l'affiche en plein écran – sans Wi-Fi ni itinérance."
+    steps_title: "Comment enregistrer une carte d'embarquement PDF"
+    steps:
+      - ["Téléchargez la carte d'embarquement", "Récupérez le PDF depuis l'e-mail, le site ou l'app de la compagnie après l'enregistrement."]
+      - ["Partagez-la avec PDFWallet", "Touchez Partager et choisissez PDFWallet. Le code-barres est trouvé automatiquement."]
+      - ["Scannez à la porte", "Ouvrez la carte et touchez le code-barres pour l'afficher en plein écran au contrôle et à l'embarquement."]
+    sections:
+      - ["Vous voyagez en groupe ?", "Balayez entre les documents pour montrer la carte d'embarquement de chaque passager l'une après l'autre, sans quitter le plein écran."]
+      - ["Vol retour inclus", "Étiquetez les cartes par voyage et triez-les, pour que l'aller et le retour soient toujours là où vous les attendez."]
+    faq:
+      - ["Ai-je besoin d'internet à l'aéroport ?", "Non. Vos cartes d'embarquement sont stockées sur l'appareil et s'ouvrent hors ligne, même en mode avion."]
+      - ["Quels codes-barres sont pris en charge ?", "Aztec, PDF417, QR, DataMatrix et les codes-barres 1D courants – les formats utilisés sur les cartes d'embarquement."]
+      - ["Mes données sont-elles envoyées quelque part ?", "Non. PDFWallet fonctionne entièrement sur votre appareil, sans publicité ni pistage."]
+  it:
+    title: "Salva la carta d'imbarco PDF offline sul telefono"
+    description: "Conserva le carte d'imbarco PDF sul tuo iPhone o Android e mostra il codice a barre a schermo intero ai controlli di sicurezza e al gate – anche senza internet."
+    h1: "La tua carta d'imbarco, offline e pronta al gate"
+    intro: "Molte compagnie aeree inviano la carta d'imbarco in PDF. PDFWallet la salva sul tuo telefono, rileva automaticamente il codice Aztec, PDF417 o QR e lo mostra a schermo intero – senza Wi-Fi né roaming."
+    steps_title: "Come salvare una carta d'imbarco PDF"
+    steps:
+      - ["Scarica la carta d'imbarco", "Ottieni il PDF dall'email, dal sito o dall'app della compagnia dopo il check-in."]
+      - ["Condividila con PDFWallet", "Tocca Condividi e scegli PDFWallet. Il codice a barre viene trovato automaticamente."]
+      - ["Scansiona al gate", "Apri la carta e tocca il codice a barre per mostrarlo a schermo intero ai controlli e all'imbarco."]
+    sections:
+      - ["Viaggi in gruppo?", "Scorri tra i documenti per mostrare la carta d'imbarco di ogni passeggero, una dopo l'altra, senza uscire dallo schermo intero."]
+      - ["Volo di ritorno incluso", "Aggiungi tag per viaggio e ordina le carte, così andata e ritorno sono sempre dove te le aspetti."]
+    faq:
+      - ["Serve internet in aeroporto?", "No. Le carte d'imbarco sono salvate sul dispositivo e si aprono offline, anche in modalità aereo."]
+      - ["Quali codici a barre sono supportati?", "Aztec, PDF417, QR, DataMatrix e i comuni codici 1D – i formati usati sulle carte d'imbarco."]
+      - ["I miei dati vengono caricati da qualche parte?", "No. PDFWallet funziona interamente sul tuo dispositivo, senza pubblicità né tracciamento."]
+  pt:
+    title: "Guarde seu cartão de embarque PDF offline no celular"
+    description: "Guarde cartões de embarque em PDF no seu iPhone ou Android e mostre o código em tela cheia na segurança e no portão – mesmo sem internet."
+    h1: "Seu cartão de embarque, offline e pronto no portão"
+    intro: "Muitas companhias aéreas enviam o cartão de embarque em PDF. O PDFWallet guarda-o no seu celular, detecta automaticamente o código Aztec, PDF417 ou QR e mostra-o em tela cheia – sem Wi-Fi nem roaming."
+    steps_title: "Como guardar um cartão de embarque PDF"
+    steps:
+      - ["Baixe o cartão de embarque", "Obtenha o PDF no e-mail, site ou app da companhia aérea após o check-in."]
+      - ["Compartilhe com o PDFWallet", "Toque em compartilhar e escolha o PDFWallet. O código é encontrado automaticamente."]
+      - ["Escaneie no portão", "Abra o cartão e toque no código para mostrá-lo em tela cheia na segurança e no embarque."]
+    sections:
+      - ["Viajando em grupo?", "Deslize entre documentos para mostrar o cartão de embarque de cada passageiro, um após o outro, sem sair da tela cheia."]
+      - ["Voo de volta incluído", "Marque os cartões por viagem e ordene-os, para que ida e volta estejam sempre onde você espera."]
+    faq:
+      - ["Preciso de internet no aeroporto?", "Não. Seus cartões de embarque ficam no dispositivo e abrem offline, também no modo avião."]
+      - ["Quais códigos de barras são suportados?", "Aztec, PDF417, QR, DataMatrix e códigos 1D comuns – os formatos usados em cartões de embarque."]
+      - ["Meus dados são enviados para algum lugar?", "Não. O PDFWallet funciona inteiramente no seu dispositivo, sem anúncios nem rastreamento."]
+  ja:
+    title: "PDF搭乗券をスマホにオフライン保存"
+    description: "PDF の搭乗券を iPhone や Android に保存し、保安検査場や搭乗口でバーコードを全画面表示。インターネットがなくても使えます。"
+    h1: "搭乗券をオフラインで、搭乗口ですぐに"
+    intro: "多くの航空会社は搭乗券を PDF で送ってきます。PDFWallet はそれをスマホに保存し、Aztec・PDF417・QR コードを自動検出して全画面表示します。Wi-Fi もローミングも不要です。"
+    steps_title: "PDF搭乗券を保存する方法"
+    steps:
+      - ["搭乗券をダウンロード", "チェックイン後、航空会社のメール、ウェブサイト、アプリから PDF を取得します。"]
+      - ["PDFWallet に共有", "共有をタップして PDFWallet を選びます。バーコードは自動で見つかります。"]
+      - ["搭乗口でスキャン", "搭乗券を開いてバーコードをタップすると、保安検査や搭乗時に全画面表示できます。"]
+    sections:
+      - ["グループで旅行？", "書類間をスワイプして、全員の搭乗券を全画面表示のまま次々に見せられます。"]
+      - ["復路もおまかせ", "旅行ごとにタグを付けて並べ替えれば、往路と復路の搭乗券がいつも決まった場所にあります。"]
+    faq:
+      - ["空港でインターネットは必要ですか？", "いいえ。搭乗券は端末に保存され、機内モードでもオフラインで開けます。"]
+      - ["どのバーコードに対応していますか？", "Aztec、PDF417、QR、DataMatrix、一般的な1次元バーコードなど、搭乗券で使われる形式に対応しています。"]
+      - ["データはどこかにアップロードされますか？", "いいえ。PDFWallet は完全に端末内で動作し、広告やトラッキングもありません。"]
+  ko:
+    title: "PDF 탑승권을 휴대폰에 오프라인으로 저장"
+    description: "PDF 탑승권을 iPhone 또는 Android 휴대폰에 보관하고 보안 검색대와 탑승구에서 바코드를 전체 화면으로 보여주세요. 인터넷이 없어도 됩니다."
+    h1: "오프라인으로, 탑승구에서 바로 쓰는 탑승권"
+    intro: "많은 항공사가 탑승권을 PDF로 보냅니다. PDFWallet은 이를 휴대폰에 저장하고 Aztec, PDF417, QR 코드를 자동으로 감지해 전체 화면으로 보여줍니다. Wi-Fi나 로밍이 필요 없습니다."
+    steps_title: "PDF 탑승권 저장 방법"
+    steps:
+      - ["탑승권 다운로드", "체크인 후 항공사 이메일, 웹사이트 또는 앱에서 PDF를 받습니다."]
+      - ["PDFWallet로 공유", "공유를 탭하고 PDFWallet을 선택합니다. 바코드는 자동으로 찾아집니다."]
+      - ["탑승구에서 스캔", "탑승권을 열고 바코드를 탭하면 보안 검색과 탑승 시 전체 화면으로 보여줄 수 있습니다."]
+    sections:
+      - ["단체 여행인가요?", "문서 사이를 스와이프해 전체 화면을 벗어나지 않고 모든 탑승객의 탑승권을 차례로 보여주세요."]
+      - ["왕복 항공편도 간편하게", "여행별로 태그를 달고 정렬하면 가는 편과 오는 편 탑승권이 항상 예상한 자리에 있습니다."]
+    faq:
+      - ["공항에서 인터넷이 필요한가요?", "아니요. 탑승권은 기기에 저장되어 비행기 모드에서도 오프라인으로 열립니다."]
+      - ["어떤 바코드를 지원하나요?", "Aztec, PDF417, QR, DataMatrix 및 일반적인 1D 바코드 등 탑승권에 쓰이는 형식을 지원합니다."]
+      - ["내 데이터가 어딘가에 업로드되나요?", "아니요. PDFWallet은 광고와 추적 없이 전적으로 기기에서 작동합니다."]
+  ru:
+    title: "Сохраните посадочный талон PDF офлайн на телефоне"
+    description: "Храните посадочные талоны в PDF на iPhone или Android и показывайте штрихкод на весь экран на досмотре и у выхода на посадку – даже без интернета."
+    h1: "Посадочный талон – офлайн и под рукой у выхода"
+    intro: "Многие авиакомпании присылают посадочный талон в PDF. PDFWallet сохраняет его на телефоне, автоматически находит код Aztec, PDF417 или QR и показывает его на весь экран – без Wi-Fi и роуминга."
+    steps_title: "Как сохранить посадочный талон в PDF"
+    steps:
+      - ["Скачайте посадочный талон", "Получите PDF из письма, на сайте или в приложении авиакомпании после регистрации."]
+      - ["Поделитесь с PDFWallet", "Нажмите «Поделиться» и выберите PDFWallet. Штрихкод найдётся автоматически."]
+      - ["Сканируйте у выхода", "Откройте талон и нажмите на штрихкод, чтобы показать его на весь экран на досмотре и посадке."]
+    sections:
+      - ["Летите компанией?", "Листайте документы, чтобы показать посадочные талоны всех пассажиров один за другим, не выходя из полноэкранного режима."]
+      - ["Обратный рейс тоже", "Отмечайте талоны тегами по поездкам и сортируйте их – талоны туда и обратно всегда будут на своих местах."]
+    faq:
+      - ["Нужен ли интернет в аэропорту?", "Нет. Посадочные талоны хранятся на устройстве и открываются офлайн, в том числе в авиарежиме."]
+      - ["Какие штрихкоды поддерживаются?", "Aztec, PDF417, QR, DataMatrix и распространённые 1D-штрихкоды – форматы, используемые в посадочных талонах."]
+      - ["Мои данные куда-то загружаются?", "Нет. PDFWallet работает полностью на устройстве, без рекламы и отслеживания."]
+  ar:
+    title: "احفظ بطاقة الصعود PDF على هاتفك دون اتصال"
+    description: "احتفظ ببطاقات الصعود بصيغة PDF على iPhone أو Android واعرض الرمز الشريطي بملء الشاشة عند التفتيش الأمني والبوابة – حتى بدون إنترنت."
+    h1: "بطاقة صعودك، دون اتصال وجاهزة عند البوابة"
+    intro: "ترسل كثير من شركات الطيران بطاقة الصعود بصيغة PDF. يحفظها PDFWallet على هاتفك، ويكتشف رمز Aztec أو PDF417 أو QR تلقائيًا ويعرضه بملء الشاشة – دون Wi-Fi أو تجوال."
+    steps_title: "كيف تحفظ بطاقة صعود PDF"
+    steps:
+      - ["نزّل بطاقة الصعود", "احصل على ملف PDF من بريد شركة الطيران أو موقعها أو تطبيقها بعد تسجيل الوصول."]
+      - ["شاركها مع PDFWallet", "اضغط على مشاركة واختر PDFWallet. يتم العثور على الرمز الشريطي تلقائيًا."]
+      - ["امسحها عند البوابة", "افتح البطاقة واضغط على الرمز الشريطي لعرضه بملء الشاشة عند التفتيش والصعود."]
+    sections:
+      - ["تسافر مع مجموعة؟", "اسحب بين المستندات لعرض بطاقة صعود كل مسافر واحدة تلو الأخرى دون مغادرة وضع ملء الشاشة."]
+      - ["رحلة العودة أيضًا", "ضع وسومًا على البطاقات حسب الرحلة ورتّبها، لتجد بطاقتي الذهاب والعودة دائمًا حيث تتوقع."]
+    faq:
+      - ["هل أحتاج إلى الإنترنت في المطار؟", "لا. بطاقات الصعود محفوظة على الجهاز وتفتح دون اتصال، حتى في وضع الطيران."]
+      - ["ما الرموز الشريطية المدعومة؟", "Aztec وPDF417 وQR وDataMatrix والرموز الشريطية أحادية البعد الشائعة – وهي الصيغ المستخدمة في بطاقات الصعود."]
+      - ["هل تُرفع بياناتي إلى أي مكان؟", "لا. يعمل PDFWallet بالكامل على جهازك، بدون إعلانات أو تتبع."]
 
 train-tickets:
   en:
@@ -103,6 +375,134 @@ train-tickets:
     faq:
       - ["Kann der Code vom Display gescannt werden?", "Ja. PDFWallet zeigt den Code im Vollbild und kann ihn auch im Dark Mode in Originalfarben darstellen – für zuverlässiges Scannen."]
       - ["Brauche ich noch die App der Bahn?", "Zum Vorzeigen eines PDF-Tickets nicht. PDFWallet funktioniert mit jedem PDF-Ticket, unabhängig vom Anbieter."]
+  es:
+    title: "Billetes de tren en PDF – guárdalos sin conexión en el móvil"
+    description: "Guarda billetes de tren en PDF en tu móvil y muestra el código Aztec a pantalla completa al revisor – sin conexión, incluso en túneles y zonas rurales."
+    h1: "Billetes de tren en PDF, listos para el revisor"
+    intro: "Los operadores ferroviarios de toda Europa envían billetes en PDF con un código Aztec. La cobertura en el tren suele ser mala – PDFWallet guarda tus billetes sin conexión y muestra el código a pantalla completa con un toque."
+    steps_title: "Cómo guardar un billete de tren PDF"
+    steps:
+      - ["Reserva tu billete", "Descarga el billete PDF del correo de reserva o de la web del operador."]
+      - ["Compártelo con PDFWallet", "Toca compartir y elige PDFWallet. El código Aztec se detecta automáticamente."]
+      - ["Muéstralo a bordo", "Toca el código para mostrarlo a pantalla completa cuando el revisor compruebe los billetes."]
+    sections:
+      - ["¿Sin cobertura? No hay problema", "Tus billetes se guardan en el dispositivo, así que se abren en túneles, en el extranjero y en modo avión."]
+      - ["Trayectos diarios o Interrail", "Reúne todos los billetes de un viaje, etiquétalos y arrástralos en el orden del trayecto."]
+    faq:
+      - ["¿Puede el revisor escanear el código desde mi pantalla?", "Sí. PDFWallet muestra el código a pantalla completa y puede mantenerlo en sus colores originales para un escaneo fiable, también en modo oscuro."]
+      - ["¿Sigo necesitando la app del operador?", "No para mostrar un billete PDF. PDFWallet funciona con cualquier billete PDF, sea cual sea el operador."]
+  fr:
+    title: "Billets de train en PDF – gardez-les hors ligne sur votre téléphone"
+    description: "Conservez vos billets de train PDF sur votre téléphone et affichez le code Aztec en plein écran au contrôleur – hors ligne, même dans les tunnels et à la campagne."
+    h1: "Billets de train PDF, prêts pour le contrôleur"
+    intro: "Les opérateurs ferroviaires européens envoient leurs billets en PDF avec un code Aztec. Le réseau dans le train est souvent faible – PDFWallet garde vos billets hors ligne et affiche le code en plein écran en un geste."
+    steps_title: "Comment enregistrer un billet de train PDF"
+    steps:
+      - ["Réservez votre billet", "Téléchargez le billet PDF depuis l'e-mail de réservation ou le site de l'opérateur."]
+      - ["Partagez-le avec PDFWallet", "Touchez Partager et choisissez PDFWallet. Le code Aztec est détecté automatiquement."]
+      - ["Présentez-le à bord", "Touchez le code pour l'afficher en plein écran lors du contrôle des billets."]
+    sections:
+      - ["Pas de réseau ? Pas de problème", "Vos billets sont stockés sur l'appareil et s'ouvrent dans les tunnels, à l'étranger et en mode avion."]
+      - ["Trajets quotidiens ou Interrail", "Rassemblez tous les billets d'un voyage, étiquetez-les et glissez-les dans l'ordre du trajet."]
+    faq:
+      - ["Le contrôleur peut-il scanner le code sur mon écran ?", "Oui. PDFWallet affiche le code en plein écran et peut le garder dans ses couleurs d'origine pour un scan fiable, même en mode sombre."]
+      - ["Ai-je encore besoin de l'app de l'opérateur ?", "Pas pour présenter un billet PDF. PDFWallet fonctionne avec tout billet PDF, quel que soit l'opérateur."]
+  it:
+    title: "Biglietti del treno in PDF – salvali offline sul telefono"
+    description: "Conserva i biglietti del treno PDF sul telefono e mostra il codice Aztec a schermo intero al controllore – offline, anche in galleria e nelle zone senza campo."
+    h1: "Biglietti del treno PDF, pronti per il controllore"
+    intro: "Gli operatori ferroviari europei inviano biglietti PDF con un codice Aztec. In treno la copertura è spesso scarsa – PDFWallet tiene i biglietti offline e mostra il codice a schermo intero con un tocco."
+    steps_title: "Come salvare un biglietto del treno PDF"
+    steps:
+      - ["Prenota il biglietto", "Scarica il biglietto PDF dall'email di prenotazione o dal sito dell'operatore."]
+      - ["Condividilo con PDFWallet", "Tocca Condividi e scegli PDFWallet. Il codice Aztec viene rilevato automaticamente."]
+      - ["Mostralo a bordo", "Tocca il codice per mostrarlo a schermo intero durante il controllo."]
+    sections:
+      - ["Niente campo? Nessun problema", "I biglietti sono salvati sul dispositivo e si aprono in galleria, all'estero e in modalità aereo."]
+      - ["Pendolare o Interrail", "Raccogli tutti i biglietti di un viaggio, aggiungi tag e trascinali nell'ordine del percorso."]
+    faq:
+      - ["Il controllore può scansionare il codice dal mio schermo?", "Sì. PDFWallet mostra il codice a schermo intero e può mantenerlo nei colori originali per una scansione affidabile, anche in modalità scura."]
+      - ["Mi serve ancora l'app dell'operatore?", "Non per mostrare un biglietto PDF. PDFWallet funziona con qualsiasi biglietto PDF, indipendentemente dall'operatore."]
+  pt:
+    title: "Bilhetes de trem em PDF – guarde-os offline no celular"
+    description: "Guarde bilhetes de trem em PDF no celular e mostre o código Aztec em tela cheia ao fiscal – offline, até em túneis e áreas rurais."
+    h1: "Bilhetes de trem em PDF, prontos para o fiscal"
+    intro: "As operadoras ferroviárias da Europa enviam bilhetes em PDF com um código Aztec. O sinal no trem costuma ser fraco – o PDFWallet mantém seus bilhetes offline e mostra o código em tela cheia com um toque."
+    steps_title: "Como guardar um bilhete de trem PDF"
+    steps:
+      - ["Reserve seu bilhete", "Baixe o bilhete PDF do e-mail de reserva ou do site da operadora."]
+      - ["Compartilhe com o PDFWallet", "Toque em compartilhar e escolha o PDFWallet. O código Aztec é detectado automaticamente."]
+      - ["Mostre a bordo", "Toque no código para mostrá-lo em tela cheia quando o fiscal verificar os bilhetes."]
+    sections:
+      - ["Sem sinal? Sem problema", "Seus bilhetes ficam no dispositivo e abrem em túneis, no exterior e no modo avião."]
+      - ["Trajetos diários ou Interrail", "Junte todos os bilhetes de uma viagem, marque-os e arraste-os na ordem do percurso."]
+    faq:
+      - ["O fiscal consegue escanear o código na minha tela?", "Sim. O PDFWallet mostra o código em tela cheia e pode mantê-lo nas cores originais para uma leitura confiável, também no modo escuro."]
+      - ["Ainda preciso do app da operadora?", "Não para mostrar um bilhete PDF. O PDFWallet funciona com qualquer bilhete PDF, independentemente da operadora."]
+  ja:
+    title: "PDFの鉄道切符をスマホにオフライン保存"
+    description: "PDF の鉄道切符をスマホに保存し、車掌に Aztec コードを全画面表示。トンネルや電波の弱い地域でもオフラインで使えます。"
+    h1: "PDFの鉄道切符を、検札ですぐに"
+    intro: "ヨーロッパの鉄道会社は Aztec コード付きの PDF で切符を送ってきます。車内は電波が悪いことも多いので、PDFWallet なら切符をオフラインで保存し、ワンタップでコードを全画面表示できます。"
+    steps_title: "PDFの鉄道切符を保存する方法"
+    steps:
+      - ["切符を予約", "予約確認メールや鉄道会社のウェブサイトから PDF の切符をダウンロードします。"]
+      - ["PDFWallet に共有", "共有をタップして PDFWallet を選びます。Aztec コードは自動で検出されます。"]
+      - ["車内で提示", "検札のときにコードをタップして全画面表示します。"]
+    sections:
+      - ["圏外でも大丈夫", "切符は端末に保存されているので、トンネル内でも、海外でも、機内モードでも開けます。"]
+      - ["通勤にもインターレイルにも", "旅行の切符をすべてまとめ、タグを付けて、ドラッグで乗車順に並べられます。"]
+    faq:
+      - ["画面のコードを読み取ってもらえますか？", "はい。PDFWallet はコードを全画面表示し、ダークモードでも元の色のまま表示できるので確実に読み取れます。"]
+      - ["鉄道会社のアプリはまだ必要ですか？", "PDF の切符を提示するだけなら不要です。PDFWallet は鉄道会社を問わず、どんな PDF の切符にも対応します。"]
+  ko:
+    title: "PDF 기차표를 휴대폰에 오프라인으로 저장"
+    description: "PDF 기차표를 휴대폰에 보관하고 검표원에게 Aztec 코드를 전체 화면으로 보여주세요. 터널이나 시골 지역에서도 오프라인으로 작동합니다."
+    h1: "검표 준비 완료된 PDF 기차표"
+    intro: "유럽 전역의 철도 회사는 Aztec 코드가 있는 PDF로 기차표를 보냅니다. 기차 안은 신호가 약한 경우가 많습니다. PDFWallet은 기차표를 오프라인으로 보관하고 한 번의 탭으로 코드를 전체 화면에 보여줍니다."
+    steps_title: "PDF 기차표 저장 방법"
+    steps:
+      - ["기차표 예매", "예매 확인 이메일이나 철도 회사 웹사이트에서 PDF 기차표를 다운로드합니다."]
+      - ["PDFWallet로 공유", "공유를 탭하고 PDFWallet을 선택합니다. Aztec 코드는 자동으로 감지됩니다."]
+      - ["열차에서 보여주기", "검표할 때 코드를 탭해 전체 화면으로 보여주세요."]
+    sections:
+      - ["신호가 없어도 괜찮아요", "기차표는 기기에 저장되어 터널, 해외, 비행기 모드에서도 열립니다."]
+      - ["출퇴근이나 인터레일 여행", "여행의 모든 기차표를 모아 태그를 달고 드래그해 여정 순서대로 정리하세요."]
+    faq:
+      - ["검표원이 화면의 코드를 스캔할 수 있나요?", "네. PDFWallet은 코드를 전체 화면으로 보여주며 다크 모드에서도 원래 색상을 유지해 안정적으로 스캔됩니다."]
+      - ["철도 회사 앱이 여전히 필요한가요?", "PDF 기차표를 보여주는 데는 필요 없습니다. PDFWallet은 운영사와 관계없이 모든 PDF 기차표에서 작동합니다."]
+  ru:
+    title: "Билеты на поезд в PDF – храните их офлайн на телефоне"
+    description: "Храните PDF-билеты на поезд в телефоне и показывайте код Aztec на весь экран контролёру – офлайн, даже в туннелях и за городом."
+    h1: "PDF-билеты на поезд – готовы к проверке"
+    intro: "Железные дороги по всей Европе присылают билеты в PDF с кодом Aztec. Связь в поезде часто плохая – PDFWallet хранит билеты офлайн и показывает код на весь экран одним касанием."
+    steps_title: "Как сохранить PDF-билет на поезд"
+    steps:
+      - ["Купите билет", "Скачайте PDF-билет из письма с подтверждением или на сайте перевозчика."]
+      - ["Поделитесь с PDFWallet", "Нажмите «Поделиться» и выберите PDFWallet. Код Aztec распознаётся автоматически."]
+      - ["Покажите в поезде", "Нажмите на код, чтобы показать его на весь экран при проверке билетов."]
+    sections:
+      - ["Нет связи? Не проблема", "Билеты хранятся на устройстве, поэтому открываются в туннелях, за границей и в авиарежиме."]
+      - ["Поездки на работу или Interrail", "Соберите все билеты поездки, отметьте их тегами и перетащите в порядке маршрута."]
+    faq:
+      - ["Сможет ли контролёр отсканировать код с экрана?", "Да. PDFWallet показывает код на весь экран и может сохранять оригинальные цвета для надёжного сканирования, даже в тёмной теме."]
+      - ["Нужно ли ещё приложение перевозчика?", "Для показа PDF-билета – нет. PDFWallet работает с любым PDF-билетом, независимо от перевозчика."]
+  ar:
+    title: "تذاكر القطار بصيغة PDF – احفظها على هاتفك دون اتصال"
+    description: "احتفظ بتذاكر القطار بصيغة PDF على هاتفك واعرض رمز Aztec بملء الشاشة للمفتش – دون اتصال، حتى في الأنفاق والمناطق الريفية."
+    h1: "تذاكر قطار PDF، جاهزة للمفتش"
+    intro: "ترسل شركات السكك الحديدية في أوروبا التذاكر بصيغة PDF مع رمز Aztec. غالبًا ما تكون التغطية ضعيفة في القطار – يحفظ PDFWallet تذاكرك دون اتصال ويعرض الرمز بملء الشاشة بلمسة واحدة."
+    steps_title: "كيف تحفظ تذكرة قطار PDF"
+    steps:
+      - ["احجز تذكرتك", "نزّل تذكرة PDF من بريد الحجز أو من موقع شركة القطارات."]
+      - ["شاركها مع PDFWallet", "اضغط على مشاركة واختر PDFWallet. يتم اكتشاف رمز Aztec تلقائيًا."]
+      - ["اعرضها في القطار", "اضغط على الرمز لعرضه بملء الشاشة عند فحص التذاكر."]
+    sections:
+      - ["لا توجد تغطية؟ لا مشكلة", "تذاكرك محفوظة على الجهاز، لذا تفتح في الأنفاق وفي الخارج وفي وضع الطيران."]
+      - ["التنقل اليومي أو Interrail", "اجمع كل تذاكر الرحلة، وضع عليها وسومًا، واسحبها بترتيب المسار."]
+    faq:
+      - ["هل يمكن للمفتش مسح الرمز من شاشتي؟", "نعم. يعرض PDFWallet الرمز بملء الشاشة ويمكنه إبقاؤه بألوانه الأصلية لمسح موثوق، حتى في الوضع الداكن."]
+      - ["هل ما زلت بحاجة إلى تطبيق شركة القطارات؟", "ليس لعرض تذكرة PDF. يعمل PDFWallet مع أي تذكرة PDF بغض النظر عن الشركة."]
 
 event-tickets:
   en:
@@ -120,6 +520,141 @@ event-tickets:
     faq:
       - ["Do I need internet at the venue?", "No. Tickets are stored on your device and open offline."]
       - ["Can I organize tickets by event?", "Yes. Use tags, sorting and drag & drop to keep tickets in order."]
+  de:
+    title: "Konzert- & Eventtickets als PDF – QR-Code offline zeigen"
+    description: "Speichere PDF-Tickets für Konzerte, Festivals, Spiele und Museen auf dem Handy und zeige den QR-Code am Einlass im Vollbild – ganz ohne Empfang."
+    h1: "Eventtickets, die sich auch ohne Netz öffnen"
+    intro: "In Stadien und auf Festivals ist das Mobilfunknetz oft überlastet. Bewahre deine PDF-Tickets in PDFWallet auf und zeige den QR-Code am Einlass im Vollbild – auch offline."
+    steps_title: "So speicherst du ein PDF-Eventticket"
+    steps:
+      - ["PDF holen", "Lade das Ticket aus der E-Mail oder von der Website des Ticketshops."]
+      - ["An PDFWallet teilen", "Tippe auf Teilen und wähle PDFWallet. Auch mehrere Tickets gleichzeitig."]
+      - ["Am Einlass zeigen", "Tippe auf den QR-Code, um ihn im Vollbild zu zeigen, und wische zu den Tickets deiner Freunde."]
+    sections:
+      - ["Tickets für die ganze Gruppe", "Wische zwischen den Tickets, damit alle schnell reinkommen – ohne App-Wechsel."]
+    faq:
+      - ["Brauche ich vor Ort Internet?", "Nein. Tickets sind auf deinem Gerät gespeichert und öffnen sich offline."]
+      - ["Kann ich Tickets nach Event ordnen?", "Ja. Mit Tags, Sortierung und Drag & Drop behältst du den Überblick."]
+  es:
+    title: "Entradas de conciertos y eventos en PDF – muestra el QR sin conexión"
+    description: "Guarda entradas en PDF de conciertos, festivales, partidos y museos en tu móvil y muestra el código QR a pantalla completa en la entrada – sin necesidad de cobertura."
+    h1: "Entradas que se abren aunque la red no funcione"
+    intro: "En estadios y festivales las redes móviles suelen estar saturadas. Guarda tus entradas PDF en PDFWallet y muestra el código QR a pantalla completa en la entrada, incluso sin conexión."
+    steps_title: "Cómo guardar una entrada PDF"
+    steps:
+      - ["Consigue el PDF", "Descarga la entrada del correo o la web de la ticketera."]
+      - ["Compártela con PDFWallet", "Toca compartir y elige PDFWallet. También funciona con varias entradas a la vez."]
+      - ["Muéstrala en la entrada", "Toca el código QR para mostrarlo a pantalla completa y desliza a las entradas de tus amigos."]
+    sections:
+      - ["Entradas para todo el grupo", "Desliza entre entradas para que todos entren rápido, sin cambiar de app."]
+    faq:
+      - ["¿Necesito internet en el recinto?", "No. Las entradas se guardan en tu dispositivo y se abren sin conexión."]
+      - ["¿Puedo organizar las entradas por evento?", "Sí. Usa etiquetas, ordenación y arrastrar y soltar para mantenerlas en orden."]
+  fr:
+    title: "Billets de concert et d'événement en PDF – affichez le QR code hors ligne"
+    description: "Stockez vos billets PDF de concerts, festivals, matchs et musées sur votre téléphone et affichez le QR code en plein écran à l'entrée – sans réseau."
+    h1: "Des billets qui s'ouvrent même quand le réseau ne suit pas"
+    intro: "Les stades et festivals sont réputés pour leurs réseaux mobiles saturés. Gardez vos billets PDF dans PDFWallet et affichez le QR code en plein écran à l'entrée, même hors ligne."
+    steps_title: "Comment enregistrer un billet d'événement PDF"
+    steps:
+      - ["Récupérez le PDF", "Téléchargez le billet depuis l'e-mail ou le site de la billetterie."]
+      - ["Partagez-le avec PDFWallet", "Touchez Partager et choisissez PDFWallet. Plusieurs billets à la fois, c'est possible aussi."]
+      - ["Présentez-le à l'entrée", "Touchez le QR code pour l'afficher en plein écran et balayez vers les billets de vos amis."]
+    sections:
+      - ["Des billets pour tout le groupe", "Balayez entre les billets pour que tout le monde entre vite, sans changer d'app."]
+    faq:
+      - ["Ai-je besoin d'internet sur place ?", "Non. Les billets sont stockés sur votre appareil et s'ouvrent hors ligne."]
+      - ["Puis-je classer les billets par événement ?", "Oui. Utilisez les étiquettes, le tri et le glisser-déposer pour garder vos billets en ordre."]
+  it:
+    title: "Biglietti per concerti ed eventi in PDF – mostra il QR offline"
+    description: "Salva sul telefono i biglietti PDF di concerti, festival, partite e musei e mostra il codice QR a schermo intero all'ingresso – senza bisogno di campo."
+    h1: "Biglietti che si aprono anche quando la rete no"
+    intro: "Stadi e festival sono famosi per le reti mobili sovraccariche. Tieni i biglietti PDF in PDFWallet e mostra il codice QR a schermo intero all'ingresso, anche offline."
+    steps_title: "Come salvare un biglietto per un evento in PDF"
+    steps:
+      - ["Ottieni il PDF", "Scarica il biglietto dall'email o dal sito della biglietteria."]
+      - ["Condividilo con PDFWallet", "Tocca Condividi e scegli PDFWallet. Funziona anche con più biglietti insieme."]
+      - ["Mostralo all'ingresso", "Tocca il codice QR per mostrarlo a schermo intero e scorri ai biglietti dei tuoi amici."]
+    sections:
+      - ["Biglietti per tutto il gruppo", "Scorri tra i biglietti così tutti entrano in fretta, senza cambiare app."]
+    faq:
+      - ["Serve internet sul posto?", "No. I biglietti sono salvati sul dispositivo e si aprono offline."]
+      - ["Posso organizzare i biglietti per evento?", "Sì. Usa tag, ordinamento e trascinamento per tenerli in ordine."]
+  pt:
+    title: "Ingressos de shows e eventos em PDF – mostre o QR code offline"
+    description: "Guarde ingressos em PDF de shows, festivais, jogos e museus no celular e mostre o QR code em tela cheia na entrada – sem precisar de sinal."
+    h1: "Ingressos que abrem mesmo quando a rede não funciona"
+    intro: "Estádios e festivais são conhecidos pelas redes móveis congestionadas. Guarde seus ingressos PDF no PDFWallet e mostre o QR code em tela cheia na entrada, mesmo offline."
+    steps_title: "Como guardar um ingresso PDF"
+    steps:
+      - ["Pegue o PDF", "Baixe o ingresso do e-mail ou do site da bilheteria."]
+      - ["Compartilhe com o PDFWallet", "Toque em compartilhar e escolha o PDFWallet. Vários ingressos de uma vez também funcionam."]
+      - ["Mostre na entrada", "Toque no QR code para mostrá-lo em tela cheia e deslize para os ingressos dos seus amigos."]
+    sections:
+      - ["Ingressos para o grupo todo", "Deslize entre os ingressos para que todos entrem rápido, sem trocar de app."]
+    faq:
+      - ["Preciso de internet no local?", "Não. Os ingressos ficam no seu dispositivo e abrem offline."]
+      - ["Posso organizar ingressos por evento?", "Sim. Use tags, ordenação e arrastar e soltar para manter tudo em ordem."]
+  ja:
+    title: "コンサート・イベントのPDFチケット – QRコードをオフラインで表示"
+    description: "コンサート、フェス、試合、美術館の PDF チケットをスマホに保存し、入場口で QR コードを全画面表示。電波がなくても大丈夫です。"
+    h1: "電波がなくても開けるイベントチケット"
+    intro: "スタジアムやフェスではモバイル回線が混雑しがちです。PDF チケットを PDFWallet に保存すれば、オフラインでも入場口で QR コードを全画面表示できます。"
+    steps_title: "PDFのイベントチケットを保存する方法"
+    steps:
+      - ["PDFを入手", "チケットショップのメールやウェブサイトからチケットをダウンロードします。"]
+      - ["PDFWallet に共有", "共有をタップして PDFWallet を選びます。複数のチケットもまとめて追加できます。"]
+      - ["入場口で提示", "QR コードをタップして全画面表示し、スワイプで友達のチケットに切り替えます。"]
+    sections:
+      - ["グループ全員分のチケット", "チケット間をスワイプすれば、アプリを切り替えずに全員がスムーズに入場できます。"]
+    faq:
+      - ["会場でインターネットは必要ですか？", "いいえ。チケットは端末に保存され、オフラインで開けます。"]
+      - ["イベントごとにチケットを整理できますか？", "はい。タグ、並べ替え、ドラッグ＆ドロップで整理できます。"]
+  ko:
+    title: "콘서트·이벤트 PDF 티켓 – QR 코드를 오프라인으로 보여주기"
+    description: "콘서트, 페스티벌, 경기, 박물관 PDF 티켓을 휴대폰에 보관하고 입구에서 QR 코드를 전체 화면으로 보여주세요. 신호가 없어도 됩니다."
+    h1: "네트워크가 안 돼도 열리는 이벤트 티켓"
+    intro: "경기장과 페스티벌은 모바일 네트워크가 혼잡하기로 유명합니다. PDF 티켓을 PDFWallet에 보관하고 오프라인에서도 입구에서 QR 코드를 전체 화면으로 보여주세요."
+    steps_title: "PDF 이벤트 티켓 저장 방법"
+    steps:
+      - ["PDF 받기", "티켓 판매처의 이메일이나 웹사이트에서 티켓을 다운로드합니다."]
+      - ["PDFWallet로 공유", "공유를 탭하고 PDFWallet을 선택합니다. 여러 티켓을 한 번에 추가할 수도 있습니다."]
+      - ["입구에서 보여주기", "QR 코드를 탭해 전체 화면으로 보여주고, 스와이프해 친구들의 티켓으로 넘어가세요."]
+    sections:
+      - ["그룹 전체의 티켓", "티켓 사이를 스와이프하면 앱을 전환하지 않고도 모두가 빠르게 입장할 수 있습니다."]
+    faq:
+      - ["현장에서 인터넷이 필요한가요?", "아니요. 티켓은 기기에 저장되어 오프라인으로 열립니다."]
+      - ["이벤트별로 티켓을 정리할 수 있나요?", "네. 태그, 정렬, 드래그 앤 드롭으로 티켓을 정리하세요."]
+  ru:
+    title: "Билеты на концерты и мероприятия в PDF – QR-код офлайн"
+    description: "Храните PDF-билеты на концерты, фестивали, матчи и в музеи на телефоне и показывайте QR-код на весь экран на входе – связь не нужна."
+    h1: "Билеты, которые открываются, даже когда сеть – нет"
+    intro: "На стадионах и фестивалях мобильная сеть часто перегружена. Храните PDF-билеты в PDFWallet и показывайте QR-код на весь экран на входе, даже офлайн."
+    steps_title: "Как сохранить PDF-билет на мероприятие"
+    steps:
+      - ["Получите PDF", "Скачайте билет из письма или с сайта билетного сервиса."]
+      - ["Поделитесь с PDFWallet", "Нажмите «Поделиться» и выберите PDFWallet. Можно сразу несколько билетов."]
+      - ["Покажите на входе", "Нажмите на QR-код, чтобы показать его на весь экран, и листайте к билетам друзей."]
+    sections:
+      - ["Билеты для всей компании", "Листайте билеты, чтобы все прошли быстро, не переключаясь между приложениями."]
+    faq:
+      - ["Нужен ли интернет на месте?", "Нет. Билеты хранятся на устройстве и открываются офлайн."]
+      - ["Можно ли упорядочить билеты по мероприятиям?", "Да. Используйте теги, сортировку и перетаскивание."]
+  ar:
+    title: "تذاكر الحفلات والفعاليات بصيغة PDF – اعرض رمز QR دون اتصال"
+    description: "احفظ تذاكر PDF للحفلات والمهرجانات والمباريات والمتاحف على هاتفك واعرض رمز QR بملء الشاشة عند المدخل – دون الحاجة إلى تغطية."
+    h1: "تذاكر فعاليات تفتح حتى عندما لا تعمل الشبكة"
+    intro: "تشتهر الملاعب والمهرجانات بازدحام شبكات الهاتف. احفظ تذاكر PDF في PDFWallet واعرض رمز QR بملء الشاشة عند المدخل، حتى دون اتصال."
+    steps_title: "كيف تحفظ تذكرة فعالية PDF"
+    steps:
+      - ["احصل على ملف PDF", "نزّل التذكرة من بريد متجر التذاكر أو موقعه."]
+      - ["شاركها مع PDFWallet", "اضغط على مشاركة واختر PDFWallet. يمكنك أيضًا إضافة عدة تذاكر دفعة واحدة."]
+      - ["اعرضها عند المدخل", "اضغط على رمز QR لعرضه بملء الشاشة، واسحب إلى تذاكر أصدقائك."]
+    sections:
+      - ["تذاكر للمجموعة كلها", "اسحب بين التذاكر ليدخل الجميع بسرعة، دون التبديل بين التطبيقات."]
+    faq:
+      - ["هل أحتاج إلى الإنترنت في المكان؟", "لا. التذاكر محفوظة على جهازك وتفتح دون اتصال."]
+      - ["هل يمكنني تنظيم التذاكر حسب الفعالية؟", "نعم. استخدم الوسوم والترتيب والسحب والإفلات لإبقاء التذاكر منظمة."]
 
 barcodes:
   en:
@@ -138,3 +673,147 @@ barcodes:
     faq:
       - ["Can I filter documents that contain barcodes?", "Yes. Filter your list to show only documents with barcodes."]
       - ["Does detection happen online?", "No. Barcode detection runs entirely on your device."]
+  de:
+    title: "QR-, Aztec- & PDF417-Codes aus einem PDF im Vollbild zeigen"
+    description: "PDFWallet findet QR-Codes, Aztec, DataMatrix, PDF417 und 1D-Barcodes in deinen PDFs automatisch und zeigt sie im Vollbild – für schnelles Scannen."
+    h1: "Den Barcode aus jedem PDF im Vollbild zeigen"
+    intro: "Kleine Barcodes in einem PDF lassen sich schwer scannen. PDFWallet erkennt QR, Aztec, DataMatrix, PDF417, EAN, UPC, Code 128 und mehr in deinen PDFs und zeigt sie groß und hell."
+    steps_title: "So zeigst du einen Barcode aus einem PDF"
+    steps:
+      - ["PDF importieren", "Teile es an PDFWallet oder importiere es in der App."]
+      - ["Automatische Erkennung", "PDFWallet durchsucht jede Seite und findet unterstützte Barcodes."]
+      - ["Tippen zum Vergrößern", "Tippe auf den Barcode, um ihn für den Scanner im Vollbild zu zeigen."]
+    sections:
+      - ["Unterstützte Formate", "QR, Aztec, DataMatrix, PDF417, UPC-A, UPC-E, EAN-8, EAN-13, Code 39, Code 93, Code 128, ITF und Codabar."]
+      - ["Gutscheine und Kundenkarten", "PDF-Gutscheine und Mitgliedskarten mit EAN- oder Code-128-Barcodes funktionieren genau wie Tickets."]
+    faq:
+      - ["Kann ich Dokumente mit Barcodes filtern?", "Ja. Filtere deine Liste, um nur Dokumente mit Barcodes anzuzeigen."]
+      - ["Findet die Erkennung online statt?", "Nein. Die Barcode-Erkennung läuft vollständig auf deinem Gerät."]
+  es:
+    title: "Muestra códigos QR, Aztec y PDF417 de un PDF a pantalla completa"
+    description: "PDFWallet encuentra automáticamente códigos QR, Aztec, DataMatrix, PDF417 y códigos 1D en tus PDF y los muestra a pantalla completa para un escaneo rápido."
+    h1: "Muestra el código de barras de cualquier PDF a pantalla completa"
+    intro: "Los códigos pequeños dentro de un PDF son difíciles de escanear. PDFWallet detecta QR, Aztec, DataMatrix, PDF417, EAN, UPC, Code 128 y más en tus PDF y los muestra grandes y brillantes."
+    steps_title: "Cómo mostrar un código de barras de un PDF"
+    steps:
+      - ["Importa el PDF", "Compártelo con PDFWallet o impórtalo en la app."]
+      - ["Detección automática", "PDFWallet analiza cada página y encuentra los códigos compatibles."]
+      - ["Toca para ampliar", "Toca el código para mostrarlo a pantalla completa ante el escáner."]
+    sections:
+      - ["Formatos compatibles", "QR, Aztec, DataMatrix, PDF417, UPC-A, UPC-E, EAN-8, EAN-13, Code 39, Code 93, Code 128, ITF y Codabar."]
+      - ["Cupones y tarjetas de fidelidad", "Los cupones y tarjetas de socio en PDF con códigos EAN o Code 128 funcionan igual que los billetes."]
+    faq:
+      - ["¿Puedo filtrar los documentos que contienen códigos?", "Sí. Filtra tu lista para ver solo documentos con códigos de barras."]
+      - ["¿La detección se hace en línea?", "No. La detección de códigos se ejecuta completamente en tu dispositivo."]
+  fr:
+    title: "Afficher en plein écran les codes QR, Aztec et PDF417 d'un PDF"
+    description: "PDFWallet trouve automatiquement les QR codes, Aztec, DataMatrix, PDF417 et codes-barres 1D dans vos PDF et les affiche en plein écran pour un scan rapide."
+    h1: "Affichez en plein écran le code-barres de n'importe quel PDF"
+    intro: "Les petits codes-barres dans un PDF sont difficiles à scanner. PDFWallet détecte QR, Aztec, DataMatrix, PDF417, EAN, UPC, Code 128 et plus dans vos PDF et les affiche en grand et bien lumineux."
+    steps_title: "Comment afficher un code-barres d'un PDF"
+    steps:
+      - ["Importez le PDF", "Partagez-le avec PDFWallet ou importez-le dans l'app."]
+      - ["Détection automatique", "PDFWallet analyse chaque page et trouve les codes-barres pris en charge."]
+      - ["Touchez pour agrandir", "Touchez le code-barres pour l'afficher en plein écran devant le scanner."]
+    sections:
+      - ["Formats pris en charge", "QR, Aztec, DataMatrix, PDF417, UPC-A, UPC-E, EAN-8, EAN-13, Code 39, Code 93, Code 128, ITF et Codabar."]
+      - ["Bons de réduction et cartes de fidélité", "Les bons et cartes de membre PDF avec codes EAN ou Code 128 fonctionnent comme des billets."]
+    faq:
+      - ["Puis-je filtrer les documents contenant des codes-barres ?", "Oui. Filtrez votre liste pour n'afficher que les documents avec codes-barres."]
+      - ["La détection se fait-elle en ligne ?", "Non. La détection des codes-barres s'effectue entièrement sur votre appareil."]
+  it:
+    title: "Mostra codici QR, Aztec e PDF417 da un PDF a schermo intero"
+    description: "PDFWallet trova automaticamente codici QR, Aztec, DataMatrix, PDF417 e codici 1D nei tuoi PDF e li mostra a schermo intero per una scansione rapida."
+    h1: "Mostra a schermo intero il codice a barre di qualsiasi PDF"
+    intro: "I codici piccoli in un PDF sono difficili da scansionare. PDFWallet rileva QR, Aztec, DataMatrix, PDF417, EAN, UPC, Code 128 e altro nei tuoi PDF e li mostra grandi e luminosi."
+    steps_title: "Come mostrare un codice a barre da un PDF"
+    steps:
+      - ["Importa il PDF", "Condividilo con PDFWallet o importalo nell'app."]
+      - ["Rilevamento automatico", "PDFWallet analizza ogni pagina e trova i codici supportati."]
+      - ["Tocca per ingrandire", "Tocca il codice per mostrarlo a schermo intero allo scanner."]
+    sections:
+      - ["Formati supportati", "QR, Aztec, DataMatrix, PDF417, UPC-A, UPC-E, EAN-8, EAN-13, Code 39, Code 93, Code 128, ITF e Codabar."]
+      - ["Coupon e carte fedeltà", "Coupon e tessere PDF con codici EAN o Code 128 funzionano proprio come i biglietti."]
+    faq:
+      - ["Posso filtrare i documenti con codici a barre?", "Sì. Filtra l'elenco per mostrare solo i documenti con codici a barre."]
+      - ["Il rilevamento avviene online?", "No. Il rilevamento dei codici avviene interamente sul tuo dispositivo."]
+  pt:
+    title: "Mostre códigos QR, Aztec e PDF417 de um PDF em tela cheia"
+    description: "O PDFWallet encontra automaticamente QR codes, Aztec, DataMatrix, PDF417 e códigos 1D nos seus PDFs e os mostra em tela cheia para leitura rápida."
+    h1: "Mostre o código de barras de qualquer PDF em tela cheia"
+    intro: "Códigos pequenos dentro de um PDF são difíceis de ler. O PDFWallet detecta QR, Aztec, DataMatrix, PDF417, EAN, UPC, Code 128 e mais nos seus PDFs e os mostra grandes e brilhantes."
+    steps_title: "Como mostrar um código de barras de um PDF"
+    steps:
+      - ["Importe o PDF", "Compartilhe com o PDFWallet ou importe no app."]
+      - ["Detecção automática", "O PDFWallet analisa cada página e encontra os códigos suportados."]
+      - ["Toque para ampliar", "Toque no código para mostrá-lo em tela cheia ao leitor."]
+    sections:
+      - ["Formatos suportados", "QR, Aztec, DataMatrix, PDF417, UPC-A, UPC-E, EAN-8, EAN-13, Code 39, Code 93, Code 128, ITF e Codabar."]
+      - ["Cupons e cartões de fidelidade", "Cupons e cartões de sócio em PDF com códigos EAN ou Code 128 funcionam como bilhetes."]
+    faq:
+      - ["Posso filtrar documentos que contêm códigos?", "Sim. Filtre sua lista para mostrar apenas documentos com códigos de barras."]
+      - ["A detecção acontece online?", "Não. A detecção de códigos roda inteiramente no seu dispositivo."]
+  ja:
+    title: "PDFのQR・Aztec・PDF417コードを全画面表示"
+    description: "PDFWallet は PDF 内の QR コード、Aztec、DataMatrix、PDF417、1次元バーコードを自動で見つけ、すばやく読み取れるよう全画面表示します。"
+    h1: "どんなPDFのバーコードも全画面表示"
+    intro: "PDF 内の小さなバーコードは読み取りにくいものです。PDFWallet は PDF 内の QR、Aztec、DataMatrix、PDF417、EAN、UPC、Code 128 などを検出し、大きく明るく表示します。"
+    steps_title: "PDFのバーコードを表示する方法"
+    steps:
+      - ["PDFをインポート", "PDFWallet に共有するか、アプリ内でインポートします。"]
+      - ["自動検出", "PDFWallet がすべてのページをスキャンし、対応バーコードを見つけます。"]
+      - ["タップで拡大", "バーコードをタップすると、スキャナー用に全画面表示します。"]
+    sections:
+      - ["対応形式", "QR、Aztec、DataMatrix、PDF417、UPC-A、UPC-E、EAN-8、EAN-13、Code 39、Code 93、Code 128、ITF、Codabar。"]
+      - ["クーポンやポイントカード", "EAN や Code 128 のバーコード付き PDF クーポンや会員証も、チケットと同じように使えます。"]
+    faq:
+      - ["バーコードを含む書類だけを絞り込めますか？", "はい。リストを絞り込んで、バーコードのある書類だけを表示できます。"]
+      - ["検出はオンラインで行われますか？", "いいえ。バーコード検出はすべて端末内で行われます。"]
+  ko:
+    title: "PDF의 QR, Aztec, PDF417 코드를 전체 화면으로"
+    description: "PDFWallet은 PDF에서 QR 코드, Aztec, DataMatrix, PDF417, 1D 바코드를 자동으로 찾아 빠른 스캔을 위해 전체 화면으로 보여줍니다."
+    h1: "어떤 PDF의 바코드든 전체 화면으로"
+    intro: "PDF 안의 작은 바코드는 스캔하기 어렵습니다. PDFWallet은 PDF에서 QR, Aztec, DataMatrix, PDF417, EAN, UPC, Code 128 등을 감지해 크고 밝게 보여줍니다."
+    steps_title: "PDF의 바코드를 보여주는 방법"
+    steps:
+      - ["PDF 가져오기", "PDFWallet로 공유하거나 앱에서 가져옵니다."]
+      - ["자동 감지", "PDFWallet이 모든 페이지를 스캔해 지원되는 바코드를 찾습니다."]
+      - ["탭하여 확대", "바코드를 탭하면 스캐너용으로 전체 화면에 표시됩니다."]
+    sections:
+      - ["지원 형식", "QR, Aztec, DataMatrix, PDF417, UPC-A, UPC-E, EAN-8, EAN-13, Code 39, Code 93, Code 128, ITF, Codabar."]
+      - ["쿠폰과 멤버십 카드", "EAN 또는 Code 128 바코드가 있는 PDF 쿠폰과 멤버십 카드도 티켓처럼 사용할 수 있습니다."]
+    faq:
+      - ["바코드가 있는 문서만 필터링할 수 있나요?", "네. 목록을 필터링해 바코드가 있는 문서만 표시할 수 있습니다."]
+      - ["감지는 온라인으로 이루어지나요?", "아니요. 바코드 감지는 전적으로 기기에서 실행됩니다."]
+  ru:
+    title: "QR, Aztec и PDF417 из PDF – на весь экран"
+    description: "PDFWallet автоматически находит в PDF QR-коды, Aztec, DataMatrix, PDF417 и 1D-штрихкоды и показывает их на весь экран для быстрого сканирования."
+    h1: "Штрихкод из любого PDF – на весь экран"
+    intro: "Маленькие штрихкоды в PDF плохо сканируются. PDFWallet находит в PDF коды QR, Aztec, DataMatrix, PDF417, EAN, UPC, Code 128 и другие и показывает их крупно и ярко."
+    steps_title: "Как показать штрихкод из PDF"
+    steps:
+      - ["Импортируйте PDF", "Поделитесь им с PDFWallet или импортируйте в приложении."]
+      - ["Автоматическое распознавание", "PDFWallet просматривает каждую страницу и находит поддерживаемые штрихкоды."]
+      - ["Нажмите, чтобы увеличить", "Нажмите на штрихкод, чтобы показать его сканеру на весь экран."]
+    sections:
+      - ["Поддерживаемые форматы", "QR, Aztec, DataMatrix, PDF417, UPC-A, UPC-E, EAN-8, EAN-13, Code 39, Code 93, Code 128, ITF и Codabar."]
+      - ["Купоны и карты лояльности", "PDF-купоны и клубные карты со штрихкодами EAN или Code 128 работают так же, как билеты."]
+    faq:
+      - ["Можно ли отфильтровать документы со штрихкодами?", "Да. Отфильтруйте список, чтобы видеть только документы со штрихкодами."]
+      - ["Распознавание происходит онлайн?", "Нет. Распознавание штрихкодов выполняется полностью на устройстве."]
+  ar:
+    title: "اعرض رموز QR وAztec وPDF417 من ملف PDF بملء الشاشة"
+    description: "يعثر PDFWallet تلقائيًا على رموز QR وAztec وDataMatrix وPDF417 والرموز الشريطية أحادية البعد في ملفات PDF ويعرضها بملء الشاشة لمسح سريع."
+    h1: "اعرض الرمز الشريطي من أي ملف PDF بملء الشاشة"
+    intro: "يصعب مسح الرموز الشريطية الصغيرة داخل ملف PDF. يكتشف PDFWallet رموز QR وAztec وDataMatrix وPDF417 وEAN وUPC وCode 128 وغيرها في ملفاتك ويعرضها كبيرة وساطعة."
+    steps_title: "كيف تعرض رمزًا شريطيًا من ملف PDF"
+    steps:
+      - ["استورد ملف PDF", "شاركه مع PDFWallet أو استورده داخل التطبيق."]
+      - ["اكتشاف تلقائي", "يفحص PDFWallet كل صفحة ويعثر على الرموز الشريطية المدعومة."]
+      - ["اضغط للتكبير", "اضغط على الرمز الشريطي لعرضه بملء الشاشة أمام الماسح."]
+    sections:
+      - ["الصيغ المدعومة", "QR وAztec وDataMatrix وPDF417 وUPC-A وUPC-E وEAN-8 وEAN-13 وCode 39 وCode 93 وCode 128 وITF وCodabar."]
+      - ["القسائم وبطاقات الولاء", "تعمل قسائم PDF وبطاقات العضوية ذات رموز EAN أو Code 128 تمامًا مثل التذاكر."]
+    faq:
+      - ["هل يمكنني تصفية المستندات التي تحتوي على رموز شريطية؟", "نعم. صفِّ قائمتك لعرض المستندات التي تحتوي على رموز شريطية فقط."]
+      - ["هل يتم الاكتشاف عبر الإنترنت؟", "لا. يعمل اكتشاف الرموز الشريطية بالكامل على جهازك."]
