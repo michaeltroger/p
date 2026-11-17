@@ -13,4 +13,17 @@ permalink: /sitemap.xml
     <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}/"/>
   </url>
 {%- endfor %}
+{%- for uc in site.data.usecases %}
+{%- for page_lang in uc[1] %}
+  <url>
+    <loc>{{ site.url }}/{{ page_lang[0] }}/{{ uc[0] }}/</loc>
+    {%- for l in uc[1] %}
+    <xhtml:link rel="alternate" hreflang="{{ l[0] }}" href="{{ site.url }}/{{ l[0] }}/{{ uc[0] }}/"/>
+    {%- endfor %}
+    {%- if uc[1].en %}
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/{{ uc[0] }}/"/>
+    {%- endif %}
+  </url>
+{%- endfor %}
+{%- endfor %}
 </urlset>

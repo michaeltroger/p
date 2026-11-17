@@ -1,0 +1,140 @@
+pdf-to-wallet:
+  en:
+    title: "Add a PDF ticket to your wallet – the Apple & Google Wallet alternative"
+    description: "Apple Wallet and Google Wallet can't store PDF tickets. PDFWallet keeps your PDF tickets, boarding passes and QR codes on your phone – offline, free, no ads."
+    h1: "Your PDF ticket won't go into Apple or Google Wallet?"
+    intro: "Apple Wallet only accepts .pkpass files, and Google Wallet only supports passes issued by the provider. Many airlines, rail operators and ticket shops just send a PDF. PDFWallet is a wallet built for exactly those PDFs."
+    steps_title: "How to put a PDF ticket in a wallet"
+    steps:
+      - ["Open the PDF", "Open the PDF from your email, browser or files app."]
+      - ["Share it to PDFWallet", "Tap share and choose PDFWallet – or import it inside the app. Several files at once work too."]
+      - ["Show the code", "Barcodes are detected automatically. Tap one to show it fullscreen at the gate, the entrance or the checkout."]
+    sections:
+      - ["Why not just keep the PDF in my files?", "Finding a PDF in your downloads at the gate is stressful. PDFWallet keeps all tickets in one place, sorted your way, and shows the barcode fullscreen so scanners read it in seconds."]
+      - ["Works without internet", "Everything is stored on your device. Your tickets open even in flight mode, abroad or underground – and your documents never leave your phone."]
+    faq:
+      - ["Can I add a PDF to Apple Wallet?", "Not directly. Apple Wallet only supports .pkpass files. PDFWallet stores the PDF itself and shows its QR code or barcode fullscreen."]
+      - ["Can I add a PDF to Google Wallet?", "Google Wallet doesn't import arbitrary PDF tickets. With PDFWallet you can keep any PDF ticket on your Android phone and show it offline."]
+      - ["Is PDFWallet free?", "Yes. Viewing PDFs, fullscreen barcodes and sorting are free. A one-time purchase, no subscription, unlocks additional features."]
+  de:
+    title: "PDF-Ticket in die Wallet – die Alternative zu Apple & Google Wallet"
+    description: "Apple Wallet und Google Wallet können keine PDF-Tickets speichern. PDFWallet speichert PDF-Tickets, Bordkarten und QR-Codes offline auf dem Handy – kostenlos, ohne Werbung."
+    h1: "Dein PDF-Ticket lässt sich nicht zur Apple oder Google Wallet hinzufügen?"
+    intro: "Apple Wallet akzeptiert nur .pkpass-Dateien, Google Wallet nur Pässe des Anbieters. Viele Airlines, Bahnen und Ticketshops verschicken aber nur ein PDF. PDFWallet ist die Wallet für genau diese PDFs."
+    steps_title: "So kommt ein PDF-Ticket in die Wallet"
+    steps:
+      - ["PDF öffnen", "Öffne das PDF aus deiner E-Mail, dem Browser oder der Dateien-App."]
+      - ["An PDFWallet teilen", "Tippe auf Teilen und wähle PDFWallet – oder importiere es direkt in der App. Auch mehrere Dateien gleichzeitig."]
+      - ["Code anzeigen", "Barcodes werden automatisch erkannt. Tippe darauf, um sie am Gate, Einlass oder an der Kasse im Vollbild zu zeigen."]
+    sections:
+      - ["Warum nicht einfach in den Downloads lassen?", "Ein PDF am Gate in den Downloads zu suchen, ist stressig. PDFWallet hält alle Tickets an einem Ort, sortiert nach deinen Wünschen, und zeigt den Barcode im Vollbild – in Sekunden gescannt."]
+      - ["Funktioniert ohne Internet", "Alles wird auf deinem Gerät gespeichert. Tickets öffnen sich auch im Flugmodus, im Ausland oder im Tunnel – und deine Dokumente verlassen nie dein Handy."]
+    faq:
+      - ["Kann ich ein PDF zur Apple Wallet hinzufügen?", "Nicht direkt. Apple Wallet unterstützt nur .pkpass-Dateien. PDFWallet speichert das PDF selbst und zeigt den QR-Code oder Barcode im Vollbild."]
+      - ["Kann ich ein PDF zur Google Wallet hinzufügen?", "Google Wallet importiert keine beliebigen PDF-Tickets. Mit PDFWallet speicherst du jedes PDF-Ticket auf deinem Android-Handy und zeigst es offline."]
+      - ["Ist PDFWallet kostenlos?", "Ja. PDFs ansehen, Barcodes im Vollbild und Sortieren sind kostenlos. Ein einmaliger Kauf, kein Abo, schaltet weitere Funktionen frei."]
+
+boarding-pass:
+  en:
+    title: "Save your PDF boarding pass offline on your phone"
+    description: "Keep PDF boarding passes on your iPhone or Android phone and show the barcode fullscreen at security and the gate – even without internet."
+    h1: "Your boarding pass, offline and ready at the gate"
+    intro: "Many airlines send the boarding pass as a PDF. PDFWallet stores it on your phone, detects the Aztec, PDF417 or QR code automatically and shows it fullscreen – no Wi-Fi or roaming needed."
+    steps_title: "How to save a PDF boarding pass"
+    steps:
+      - ["Download the boarding pass", "Get the PDF from the airline's email, website or app after check-in."]
+      - ["Share it to PDFWallet", "Tap share and choose PDFWallet. The barcode is found automatically."]
+      - ["Scan at the gate", "Open the pass and tap the barcode to show it fullscreen at security and boarding."]
+    sections:
+      - ["Travelling as a group?", "Swipe between documents to show every passenger's boarding pass one after the other, without leaving the fullscreen view."]
+      - ["Return flight included", "Tag passes by trip and sort them, so the outbound and return boarding passes are always where you expect them."]
+    faq:
+      - ["Do I need internet at the airport?", "No. Your boarding passes are stored on the device and open offline, also in flight mode."]
+      - ["Which barcodes are supported?", "Aztec, PDF417, QR, DataMatrix and common 1D barcodes – the formats used on boarding passes."]
+      - ["Is my data uploaded anywhere?", "No. PDFWallet works entirely on your device, without ads and tracking."]
+  de:
+    title: "PDF-Bordkarte offline auf dem Handy speichern"
+    description: "Speichere PDF-Bordkarten auf deinem iPhone oder Android-Handy und zeige den Barcode an Sicherheitskontrolle und Gate im Vollbild – auch ohne Internet."
+    h1: "Deine Bordkarte – offline und bereit am Gate"
+    intro: "Viele Airlines verschicken die Bordkarte als PDF. PDFWallet speichert sie auf deinem Handy, erkennt den Aztec-, PDF417- oder QR-Code automatisch und zeigt ihn im Vollbild – ohne WLAN oder Roaming."
+    steps_title: "So speicherst du eine PDF-Bordkarte"
+    steps:
+      - ["Bordkarte herunterladen", "Lade das PDF nach dem Check-in aus der E-Mail, Website oder App der Airline."]
+      - ["An PDFWallet teilen", "Tippe auf Teilen und wähle PDFWallet. Der Barcode wird automatisch gefunden."]
+      - ["Am Gate scannen", "Öffne die Bordkarte und tippe auf den Barcode, um ihn bei Kontrolle und Boarding im Vollbild zu zeigen."]
+    sections:
+      - ["In der Gruppe unterwegs?", "Wische zwischen Dokumenten, um die Bordkarten aller Mitreisenden nacheinander zu zeigen – ohne die Vollbildansicht zu verlassen."]
+      - ["Hin- und Rückflug im Griff", "Versieh Bordkarten mit Tags pro Reise und sortiere sie, damit Hin- und Rückflug immer dort sind, wo du sie erwartest."]
+    faq:
+      - ["Brauche ich am Flughafen Internet?", "Nein. Deine Bordkarten sind auf dem Gerät gespeichert und öffnen sich offline, auch im Flugmodus."]
+      - ["Welche Barcodes werden unterstützt?", "Aztec, PDF417, QR, DataMatrix und gängige 1D-Barcodes – die Formate, die auf Bordkarten verwendet werden."]
+      - ["Werden meine Daten hochgeladen?", "Nein. PDFWallet arbeitet vollständig auf deinem Gerät, ohne Werbung und Tracking."]
+
+train-tickets:
+  en:
+    title: "Train tickets as PDF – store them offline on your phone"
+    description: "Keep PDF train tickets on your phone and show the Aztec code fullscreen to the conductor – offline, even in tunnels and rural areas."
+    h1: "PDF train tickets, ready for the conductor"
+    intro: "Rail operators across Europe send tickets as PDFs with an Aztec code. Mobile reception on trains is often poor – PDFWallet keeps your tickets offline and shows the code fullscreen in one tap."
+    steps_title: "How to save a PDF train ticket"
+    steps:
+      - ["Book your ticket", "Download the PDF ticket from your booking email or the operator's website."]
+      - ["Share it to PDFWallet", "Tap share and choose PDFWallet. The Aztec code is detected automatically."]
+      - ["Show it on board", "Tap the code to show it fullscreen when the conductor checks tickets."]
+    sections:
+      - ["No reception? No problem", "Your tickets are stored on the device, so they open in tunnels, abroad and in flight mode."]
+      - ["Commuting or interrailing", "Collect all tickets of a trip, tag them and drag them into travel order."]
+    faq:
+      - ["Can conductors scan the code from my screen?", "Yes. PDFWallet shows the code fullscreen and can keep it in original colors for reliable scanning, also in dark mode."]
+      - ["Do I still need the operator's app?", "Not for showing a PDF ticket. PDFWallet works with any PDF ticket, independent of the operator."]
+  de:
+    title: "Bahnticket als PDF offline auf dem Handy speichern"
+    description: "Speichere PDF-Bahntickets auf dem Handy und zeige den Aztec-Code bei der Fahrkartenkontrolle im Vollbild – offline, auch im Tunnel und Funkloch."
+    h1: "PDF-Bahntickets – bereit für die Kontrolle"
+    intro: "Viele Bahnen in Europa verschicken Tickets als PDF mit Aztec-Code. Im Zug ist der Empfang oft schlecht – PDFWallet hält deine Tickets offline bereit und zeigt den Code mit einem Tipp im Vollbild."
+    steps_title: "So speicherst du ein PDF-Bahnticket"
+    steps:
+      - ["Ticket buchen", "Lade das PDF-Ticket aus der Buchungsbestätigung oder von der Website der Bahn."]
+      - ["An PDFWallet teilen", "Tippe auf Teilen und wähle PDFWallet. Der Aztec-Code wird automatisch erkannt."]
+      - ["Im Zug vorzeigen", "Tippe auf den Code, um ihn bei der Kontrolle im Vollbild zu zeigen."]
+    sections:
+      - ["Kein Empfang? Kein Problem", "Deine Tickets sind auf dem Gerät gespeichert und öffnen sich im Tunnel, im Ausland und im Flugmodus."]
+      - ["Pendeln oder Interrail", "Sammle alle Tickets einer Reise, versieh sie mit Tags und ziehe sie in Reihenfolge."]
+    faq:
+      - ["Kann der Code vom Display gescannt werden?", "Ja. PDFWallet zeigt den Code im Vollbild und kann ihn auch im Dark Mode in Originalfarben darstellen – für zuverlässiges Scannen."]
+      - ["Brauche ich noch die App der Bahn?", "Zum Vorzeigen eines PDF-Tickets nicht. PDFWallet funktioniert mit jedem PDF-Ticket, unabhängig vom Anbieter."]
+
+event-tickets:
+  en:
+    title: "Concert & event tickets as PDF – show the QR code offline"
+    description: "Store PDF tickets for concerts, festivals, games and museums on your phone and show the QR code fullscreen at the entrance – no reception needed."
+    h1: "Event tickets that open even when the network doesn't"
+    intro: "Stadiums and festivals are notorious for overloaded mobile networks. Keep your PDF tickets in PDFWallet and show the QR code fullscreen at the entrance, even offline."
+    steps_title: "How to save a PDF event ticket"
+    steps:
+      - ["Get the PDF", "Download the ticket from the ticket shop's email or website."]
+      - ["Share it to PDFWallet", "Tap share and choose PDFWallet. Several tickets at once work too."]
+      - ["Show it at the entrance", "Tap the QR code to show it fullscreen and swipe to your friends' tickets."]
+    sections:
+      - ["Tickets for the whole group", "Swipe between tickets so everyone gets in quickly, without switching apps."]
+    faq:
+      - ["Do I need internet at the venue?", "No. Tickets are stored on your device and open offline."]
+      - ["Can I organize tickets by event?", "Yes. Use tags, sorting and drag & drop to keep tickets in order."]
+
+barcodes:
+  en:
+    title: "Show QR, Aztec & PDF417 codes from a PDF fullscreen"
+    description: "PDFWallet finds QR codes, Aztec, DataMatrix, PDF417 and 1D barcodes in your PDFs automatically and shows them fullscreen for fast scanning."
+    h1: "Show the barcode from any PDF fullscreen"
+    intro: "Small barcodes inside a PDF are hard to scan. PDFWallet detects QR, Aztec, DataMatrix, PDF417, EAN, UPC, Code 128 and more in your PDFs and shows them large and bright."
+    steps_title: "How to show a barcode from a PDF"
+    steps:
+      - ["Import the PDF", "Share it to PDFWallet or import it in the app."]
+      - ["Automatic detection", "PDFWallet scans every page and finds supported barcodes."]
+      - ["Tap to enlarge", "Tap the barcode to show it fullscreen for the scanner."]
+    sections:
+      - ["Supported formats", "QR, Aztec, DataMatrix, PDF417, UPC-A, UPC-E, EAN-8, EAN-13, Code 39, Code 93, Code 128, ITF and Codabar."]
+      - ["Coupons and loyalty cards", "PDF coupons and membership cards with EAN or Code 128 barcodes work just like tickets."]
+    faq:
+      - ["Can I filter documents that contain barcodes?", "Yes. Filter your list to show only documents with barcodes."]
+      - ["Does detection happen online?", "No. Barcode detection runs entirely on your device."]

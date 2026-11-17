@@ -203,6 +203,20 @@
       </section>
       {%- endif %}
 
+      {%- assign guides_ui = site.data.usecases_ui[page.locale] %}
+      {%- if guides_ui %}
+      <section id="guides">
+        <h2>{{ guides_ui.related }}</h2>
+        <p class="pricing">
+          {%- for uc in site.data.usecases %}
+          {%- if uc[1][page.locale] %}
+          <a href="{{ '/' | append: page.locale | append: '/' | append: uc[0] | append: '/' | relative_url }}">{{ uc[1][page.locale].h1 }}</a>{% unless forloop.last %} · {% endunless %}
+          {%- endif %}
+          {%- endfor %}
+        </p>
+      </section>
+      {%- endif %}
+
       <section id="contact">
         <h2>{{ t.contact_title }}</h2>
         <p class="pricing">{{ t.contact_text }} <a class="contact-mail" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#112;&#100;&#102;&#119;&#97;&#108;&#108;&#101;&#116;&#64;&#116;&#114;&#111;&#103;&#101;&#114;&#46;&#97;&#112;&#112;">{{ t.contact_button }}</a></p>
