@@ -173,6 +173,9 @@
       <section>
         <h2>{{ t.privacy_title }}</h2>
         <p class="pricing">{{ t.privacy_text }} <a href="{{ t.privacy_url | relative_url }}">{{ t.privacy_link }}</a></p>
+        {%- if t.developed_in_eu %}
+        <p class="pricing">{{ t.developed_in_eu }}</p>
+        {%- endif %}
       </section>
 
       {%- if t.faq %}
