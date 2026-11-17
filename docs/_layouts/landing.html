@@ -92,6 +92,9 @@
     .card .ico { font-size:1.8rem; }
     .card h3 { margin:8px 0; font-size:1.15rem; }
     .card p { margin:0; color:var(--muted); }
+    .steps { list-style:none; padding:0; margin:0; counter-reset:step; }
+    .steps .card { counter-increment:step; }
+    .steps h3::before { content:counter(step) ". "; }
     .gallery { display:flex; gap:20px; overflow-x:auto; scroll-snap-type:x mandatory; padding-bottom:12px; }
     .gallery figure { flex:0 0 auto; width:240px; margin:0; scroll-snap-align:center; text-align:center; }
     .gallery img { width:100%; height:auto; border-radius:18px; }
@@ -139,6 +142,17 @@
           <img src="{{ '/assets/screenshots/' | append: page.locale | append: '/02_barcode.jpg' | relative_url }}" alt="{{ t.shots[1] }}" width="540" height="1173" fetchpriority="high">
         </div>
       </div>
+
+      {%- if t.how_steps %}
+      <section id="how-it-works">
+        <h2>{{ t.how_title }}</h2>
+        <ol class="grid steps">
+          {%- for s in t.how_steps %}
+          <li class="card"><div class="ico" aria-hidden="true">{{ s[0] }}</div><h3>{{ s[1] }}</h3><p>{{ s[2] }}</p></li>
+          {%- endfor %}
+        </ol>
+      </section>
+      {%- endif %}
 
       <section>
         <h2>{{ t.features_title }}</h2>

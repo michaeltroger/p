@@ -9,6 +9,11 @@ en:
   promo: "Travel season? Keep boarding passes, train tickets and event tickets in PDFWallet and show their QR codes in fullscreen, even offline."
   cta: "Download for free"
   social_proof: "150,000+ downloads · 4.5 ★ on Google Play"
+  how_title: "How it works"
+  how_steps:
+    - ["📥", "Add your PDF", "Share it from your mail, browser or files app – or import it in the app."]
+    - ["🔍", "Barcodes are detected", "QR, Aztec, PDF417, EAN and more are found automatically."]
+    - ["📱", "Show it fullscreen", "Present the code at the gate or checkout – even offline."]
   features_title: "Everything you need, nothing you don't"
   features:
     - ["🔒", "Private by design", "Works offline, with no ads and no tracking. Your documents never leave your device."]
@@ -55,6 +60,11 @@ de:
   promo: "Reisezeit? Bordkarten, Bahn- und Eventtickets in PDFWallet speichern und ihre QR-Codes im Vollbild zeigen – auch offline."
   cta: "Kostenlos herunterladen"
   social_proof: "150.000+ Downloads · 4,5 ★ bei Google Play"
+  how_title: "So funktioniert's"
+  how_steps:
+    - ["📥", "PDF hinzufügen", "Aus Mail, Browser oder Dateien-App teilen – oder direkt in der App importieren."]
+    - ["🔍", "Barcodes werden erkannt", "QR, Aztec, PDF417, EAN und mehr werden automatisch gefunden."]
+    - ["📱", "Im Vollbild zeigen", "Code am Gate oder an der Kasse vorzeigen – auch offline."]
   features_title: "Alles, was du brauchst – nichts, was du nicht brauchst"
   features:
     - ["🔒", "Privatsphäre zuerst", "Funktioniert offline, ohne Werbung und ohne Tracking. Deine Dokumente verlassen nie dein Gerät."]
@@ -101,6 +111,11 @@ es:
   promo: "¿Temporada de viajes? Guarda tarjetas de embarque, billetes de tren y entradas en PDFWallet y muestra sus códigos QR en pantalla completa, incluso sin conexión."
   cta: "Descargar gratis"
   social_proof: "150.000+ descargas · 4,5 ★ en Google Play"
+  how_title: "Así funciona"
+  how_steps:
+    - ["📥", "Añade tu PDF", "Compártelo desde el correo, el navegador o la app de archivos, o impórtalo en la app."]
+    - ["🔍", "Se detectan los códigos", "QR, Aztec, PDF417, EAN y más se encuentran automáticamente."]
+    - ["📱", "Muéstralo a pantalla completa", "Presenta el código en la puerta o en caja, incluso sin conexión."]
   features_title: "Todo lo que necesitas, nada más"
   features:
     - ["🔒", "Privacidad ante todo", "Funciona sin conexión, sin anuncios y sin rastreo. Tus documentos nunca salen de tu dispositivo."]
@@ -147,6 +162,11 @@ fr:
   promo: "Vous voyagez ? Gardez cartes d'embarquement, billets de train et d'événements dans PDFWallet et affichez leurs QR codes en plein écran, même hors ligne."
   cta: "Télécharger gratuitement"
   social_proof: "150 000+ téléchargements · 4,5 ★ sur Google Play"
+  how_title: "Comment ça marche"
+  how_steps:
+    - ["📥", "Ajoutez votre PDF", "Partagez-le depuis vos e-mails, le navigateur ou l'app Fichiers – ou importez-le dans l'app."]
+    - ["🔍", "Codes détectés", "QR, Aztec, PDF417, EAN et plus sont trouvés automatiquement."]
+    - ["📱", "Affichez-le en plein écran", "Présentez le code à l'embarquement ou en caisse – même hors ligne."]
   features_title: "Tout ce qu'il vous faut, rien de superflu"
   features:
     - ["🔒", "Respect de la vie privée", "Fonctionne hors ligne, sans publicité ni pistage. Vos documents ne quittent jamais votre appareil."]
@@ -193,6 +213,11 @@ it:
   promo: "Si parte? Tieni carte d'imbarco, biglietti del treno e degli eventi in PDFWallet e mostra i loro codici QR a schermo intero, anche offline."
   cta: "Scarica gratis"
   social_proof: "150.000+ download · 4,5 ★ su Google Play"
+  how_title: "Come funziona"
+  how_steps:
+    - ["📥", "Aggiungi il tuo PDF", "Condividilo da e-mail, browser o app File – oppure importalo nell'app."]
+    - ["🔍", "Codici rilevati", "QR, Aztec, PDF417, EAN e altri vengono trovati automaticamente."]
+    - ["📱", "Mostralo a schermo intero", "Presenta il codice al gate o alla cassa – anche offline."]
   features_title: "Tutto ciò che serve, niente di superfluo"
   features:
     - ["🔒", "Privacy al primo posto", "Funziona offline, senza pubblicità e senza tracciamento. I tuoi documenti non lasciano mai il dispositivo."]
@@ -239,6 +264,11 @@ pt:
   promo: "Hora de viajar? Guarde cartões de embarque, passagens de trem e ingressos no PDFWallet e mostre os códigos QR em tela cheia, mesmo offline."
   cta: "Baixar grátis"
   social_proof: "150.000+ downloads · 4,5 ★ no Google Play"
+  how_title: "Como funciona"
+  how_steps:
+    - ["📥", "Adicione seu PDF", "Compartilhe pelo e-mail, navegador ou app de arquivos – ou importe no app."]
+    - ["🔍", "Códigos detectados", "QR, Aztec, PDF417, EAN e outros são encontrados automaticamente."]
+    - ["📱", "Mostre em tela cheia", "Apresente o código no embarque ou no caixa – mesmo offline."]
   features_title: "Tudo o que você precisa, nada a mais"
   features:
     - ["🔒", "Privacidade em primeiro lugar", "Funciona offline, sem anúncios e sem rastreamento. Seus documentos nunca saem do seu aparelho."]
@@ -285,6 +315,11 @@ ja:
   promo: "旅行シーズンに。搭乗券や電車・イベントのチケットをPDFWalletに保存して、オフラインでもQRコードを全画面表示できます。"
   cta: "無料でダウンロード"
   social_proof: "15万回以上のダウンロード · Google Playで4.5 ★"
+  how_title: "使い方"
+  how_steps:
+    - ["📥", "PDFを追加", "メール、ブラウザ、ファイルアプリから共有、またはアプリ内でインポート。"]
+    - ["🔍", "バーコードを自動検出", "QR、Aztec、PDF417、EANなどを自動で検出します。"]
+    - ["📱", "全画面で表示", "ゲートやレジでコードを提示。オフラインでも使えます。"]
   features_title: "必要なものをすべて、シンプルに"
   features:
     - ["🔒", "プライバシー重視", "オフラインで動作し、広告もトラッキングもありません。書類が端末の外に出ることはありません。"]
@@ -331,6 +366,11 @@ ko:
   promo: "여행 시즌인가요? 탑승권, 기차표, 공연 티켓을 PDFWallet에 보관하고 오프라인에서도 QR 코드를 전체 화면으로 보여주세요."
   cta: "무료 다운로드"
   social_proof: "15만 회 이상 다운로드 · Google Play 평점 4.5 ★"
+  how_title: "사용 방법"
+  how_steps:
+    - ["📥", "PDF 추가", "메일, 브라우저 또는 파일 앱에서 공유하거나 앱에서 가져오세요."]
+    - ["🔍", "바코드 자동 인식", "QR, Aztec, PDF417, EAN 등을 자동으로 찾아냅니다."]
+    - ["📱", "전체 화면으로 표시", "게이트나 계산대에서 코드를 보여주세요. 오프라인에서도 가능합니다."]
   features_title: "필요한 모든 것, 군더더기 없이"
   features:
     - ["🔒", "개인정보 보호", "오프라인으로 작동하며 광고와 추적이 없습니다. 문서는 기기 밖으로 나가지 않습니다."]
@@ -377,6 +417,11 @@ ru:
   promo: "Время путешествий? Храните посадочные талоны, ж/д и концертные билеты в PDFWallet и показывайте QR-коды на весь экран даже без интернета."
   cta: "Скачать бесплатно"
   social_proof: "150 000+ скачиваний · 4,5 ★ в Google Play"
+  how_title: "Как это работает"
+  how_steps:
+    - ["📥", "Добавьте PDF", "Поделитесь им из почты, браузера или приложения «Файлы» – или импортируйте в приложении."]
+    - ["🔍", "Коды распознаются", "QR, Aztec, PDF417, EAN и другие находятся автоматически."]
+    - ["📱", "Покажите на весь экран", "Предъявите код на посадке или на кассе – даже офлайн."]
   features_title: "Всё нужное, ничего лишнего"
   features:
     - ["🔒", "Конфиденциальность", "Работает офлайн, без рекламы и отслеживания. Документы никогда не покидают устройство."]
@@ -423,6 +468,11 @@ ar:
   promo: "موسم السفر؟ احفظ بطاقات الصعود وتذاكر القطار والفعاليات في PDFWallet واعرض رموز QR بملء الشاشة حتى دون اتصال."
   cta: "تنزيل مجاني"
   social_proof: "١٥٠٬٠٠٠+ عملية تنزيل · تقييم ٤٫٥ ★ على Google Play"
+  how_title: "كيف يعمل"
+  how_steps:
+    - ["📥", "أضف ملف PDF", "شاركه من البريد أو المتصفح أو تطبيق الملفات، أو استورده داخل التطبيق."]
+    - ["🔍", "اكتشاف الرموز", "يتم العثور على رموز QR وAztec وPDF417 وEAN وغيرها تلقائيًا."]
+    - ["📱", "اعرضه بملء الشاشة", "اعرض الرمز عند البوابة أو الدفع، حتى دون اتصال."]
   features_title: "كل ما تحتاجه، دون أي زيادة"
   features:
     - ["🔒", "الخصوصية أولًا", "يعمل دون اتصال، بلا إعلانات أو تتبع. مستنداتك لا تغادر جهازك أبدًا."]
