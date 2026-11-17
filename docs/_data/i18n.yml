@@ -30,6 +30,13 @@ en:
   contact_title: "Contact"
   contact_text: "Questions, feedback or ideas? Get in touch."
   contact_button: "Send an email"
+  faq_title: "Frequently asked questions"
+  faq:
+    - ["Is PDFWallet free?", "Yes. Core features like viewing PDFs, fullscreen barcodes and sorting are free, with no ads. An optional in-app purchase unlocks all additional functionality."]
+    - ["Does PDFWallet work offline?", "Yes. All documents are stored on your device, so your tickets and barcodes are available even without an internet connection."]
+    - ["Which barcodes are supported?", "QR, Aztec, DataMatrix, PDF417 and common 1D barcodes such as EAN, UPC, Code 39, Code 93, Code 128, ITF and Codabar."]
+    - ["Are my documents uploaded anywhere?", "No. The app operates entirely on your device, without tracking. You can optionally protect it with Face ID or fingerprint."]
+    - ["Which platforms are supported?", "PDFWallet is available for iPhone, iPad and Mac on the App Store and for Android on Google Play."]
   not_found_title: "Page not found"
   not_found_text: "Sorry, the page you are looking for doesn't exist or has been moved."
   not_found_link: "Back to home"
@@ -65,6 +72,13 @@ de:
   contact_title: "Kontakt"
   contact_text: "Fragen, Feedback oder Ideen? Schreib uns."
   contact_button: "E-Mail senden"
+  faq_title: "Häufige Fragen"
+  faq:
+    - ["Ist PDFWallet kostenlos?", "Ja. Kernfunktionen wie PDF-Anzeige, Vollbild-Barcodes und Sortierung sind kostenlos und ohne Werbung. Ein optionaler In-App-Kauf schaltet alle weiteren Funktionen frei."]
+    - ["Funktioniert PDFWallet offline?", "Ja. Alle Dokumente werden auf deinem Gerät gespeichert, deine Tickets und Barcodes sind also auch ohne Internetverbindung verfügbar."]
+    - ["Welche Barcodes werden unterstützt?", "QR, Aztec, DataMatrix, PDF417 und gängige 1D-Barcodes wie EAN, UPC, Code 39, Code 93, Code 128, ITF und Codabar."]
+    - ["Werden meine Dokumente irgendwo hochgeladen?", "Nein. Die App funktioniert vollständig auf deinem Gerät, ohne Tracking. Optional kannst du sie mit Face ID oder Fingerabdruck schützen."]
+    - ["Welche Plattformen werden unterstützt?", "PDFWallet gibt es für iPhone, iPad und Mac im App Store und für Android bei Google Play."]
   not_found_title: "Seite nicht gefunden"
   not_found_text: "Die gesuchte Seite existiert leider nicht oder wurde verschoben."
   not_found_link: "Zur Startseite"
@@ -100,6 +114,13 @@ es:
   contact_title: "Contacto"
   contact_text: "¿Preguntas, comentarios o ideas? Escríbenos."
   contact_button: "Enviar un correo"
+  faq_title: "Preguntas frecuentes"
+  faq:
+    - ["¿PDFWallet es gratis?", "Sí. Las funciones principales, como ver PDF, códigos de barras a pantalla completa y ordenar, son gratuitas y sin anuncios. Una compra opcional dentro de la app desbloquea todas las funciones adicionales."]
+    - ["¿PDFWallet funciona sin conexión?", "Sí. Todos los documentos se guardan en tu dispositivo, así que tus billetes y códigos están disponibles incluso sin conexión a internet."]
+    - ["¿Qué códigos de barras se admiten?", "QR, Aztec, DataMatrix, PDF417 y códigos 1D habituales como EAN, UPC, Code 39, Code 93, Code 128, ITF y Codabar."]
+    - ["¿Se suben mis documentos a algún sitio?", "No. La app funciona completamente en tu dispositivo, sin rastreo. Opcionalmente puedes protegerla con Face ID o huella dactilar."]
+    - ["¿Qué plataformas son compatibles?", "PDFWallet está disponible para iPhone, iPad y Mac en la App Store y para Android en Google Play."]
   not_found_title: "Página no encontrada"
   not_found_text: "Lo sentimos, la página que buscas no existe o se ha movido."
   not_found_link: "Volver al inicio"
@@ -135,6 +156,13 @@ fr:
   contact_title: "Contact"
   contact_text: "Des questions, des retours ou des idées ? Écrivez-nous."
   contact_button: "Envoyer un e-mail"
+  faq_title: "Questions fréquentes"
+  faq:
+    - ["PDFWallet est-il gratuit ?", "Oui. Les fonctions essentielles comme l'affichage des PDF, les codes-barres en plein écran et le tri sont gratuites, sans publicité. Un achat intégré facultatif débloque toutes les fonctions supplémentaires."]
+    - ["PDFWallet fonctionne-t-il hors ligne ?", "Oui. Tous les documents sont stockés sur votre appareil : vos billets et codes-barres restent disponibles même sans connexion internet."]
+    - ["Quels codes-barres sont pris en charge ?", "QR, Aztec, DataMatrix, PDF417 et les codes-barres 1D courants comme EAN, UPC, Code 39, Code 93, Code 128, ITF et Codabar."]
+    - ["Mes documents sont-ils envoyés quelque part ?", "Non. L'application fonctionne entièrement sur votre appareil, sans pistage. Vous pouvez la protéger en option avec Face ID ou l'empreinte digitale."]
+    - ["Quelles plateformes sont prises en charge ?", "PDFWallet est disponible pour iPhone, iPad et Mac sur l'App Store et pour Android sur Google Play."]
   not_found_title: "Page introuvable"
   not_found_text: "Désolé, la page que vous recherchez n'existe pas ou a été déplacée."
   not_found_link: "Retour à l'accueil"
@@ -170,6 +198,13 @@ it:
   contact_title: "Contatti"
   contact_text: "Domande, feedback o idee? Scrivici."
   contact_button: "Invia un'e-mail"
+  faq_title: "Domande frequenti"
+  faq:
+    - ["PDFWallet è gratuito?", "Sì. Le funzioni principali come la visualizzazione dei PDF, i codici a barre a schermo intero e l'ordinamento sono gratuite e senza pubblicità. Un acquisto in-app facoltativo sblocca tutte le funzioni aggiuntive."]
+    - ["PDFWallet funziona offline?", "Sì. Tutti i documenti sono salvati sul tuo dispositivo, quindi biglietti e codici a barre sono disponibili anche senza connessione internet."]
+    - ["Quali codici a barre sono supportati?", "QR, Aztec, DataMatrix, PDF417 e i comuni codici 1D come EAN, UPC, Code 39, Code 93, Code 128, ITF e Codabar."]
+    - ["I miei documenti vengono caricati da qualche parte?", "No. L'app funziona interamente sul tuo dispositivo, senza tracciamento. Puoi proteggerla facoltativamente con Face ID o impronta digitale."]
+    - ["Quali piattaforme sono supportate?", "PDFWallet è disponibile per iPhone, iPad e Mac sull'App Store e per Android su Google Play."]
   not_found_title: "Pagina non trovata"
   not_found_text: "Spiacenti, la pagina che stai cercando non esiste o è stata spostata."
   not_found_link: "Torna alla home"
@@ -205,6 +240,13 @@ pt:
   contact_title: "Contato"
   contact_text: "Dúvidas, sugestões ou ideias? Fale conosco."
   contact_button: "Enviar um e-mail"
+  faq_title: "Perguntas frequentes"
+  faq:
+    - ["O PDFWallet é gratuito?", "Sim. As funções principais, como ver PDFs, códigos de barras em ecrã inteiro e ordenação, são gratuitas e sem anúncios. Uma compra opcional na app desbloqueia todas as funções adicionais."]
+    - ["O PDFWallet funciona offline?", "Sim. Todos os documentos são guardados no seu dispositivo, por isso os seus bilhetes e códigos estão disponíveis mesmo sem ligação à internet."]
+    - ["Que códigos de barras são suportados?", "QR, Aztec, DataMatrix, PDF417 e códigos 1D comuns como EAN, UPC, Code 39, Code 93, Code 128, ITF e Codabar."]
+    - ["Os meus documentos são enviados para algum lado?", "Não. A app funciona inteiramente no seu dispositivo, sem rastreio. Opcionalmente, pode protegê-la com Face ID ou impressão digital."]
+    - ["Que plataformas são suportadas?", "O PDFWallet está disponível para iPhone, iPad e Mac na App Store e para Android no Google Play."]
   not_found_title: "Página não encontrada"
   not_found_text: "Desculpe, a página que procura não existe ou foi movida."
   not_found_link: "Voltar ao início"
@@ -240,6 +282,13 @@ ja:
   contact_title: "お問い合わせ"
   contact_text: "ご質問、ご意見、アイデアはお気軽にどうぞ。"
   contact_button: "メールを送る"
+  faq_title: "よくある質問"
+  faq:
+    - ["PDFWalletは無料ですか？", "はい。PDFの表示、バーコードの全画面表示、並べ替えなどの基本機能は無料で、広告もありません。オプションのアプリ内課金ですべての追加機能が使えるようになります。"]
+    - ["オフラインで使えますか？", "はい。すべての書類は端末に保存されるため、インターネットに接続していなくてもチケットやバーコードを表示できます。"]
+    - ["どのバーコードに対応していますか？", "QR、Aztec、DataMatrix、PDF417、およびEAN、UPC、Code 39、Code 93、Code 128、ITF、Codabarなどの一般的な1Dバーコードに対応しています。"]
+    - ["書類はどこかにアップロードされますか？", "いいえ。アプリは完全に端末上で動作し、トラッキングもありません。Face IDや指紋認証で保護することもできます。"]
+    - ["対応プラットフォームは？", "PDFWalletはApp StoreでiPhone、iPad、Mac向けに、Google PlayでAndroid向けに提供されています。"]
   not_found_title: "ページが見つかりません"
   not_found_text: "お探しのページは存在しないか、移動された可能性があります。"
   not_found_link: "ホームに戻る"
@@ -275,6 +324,13 @@ ko:
   contact_title: "문의하기"
   contact_text: "질문, 피드백 또는 아이디어가 있으신가요? 연락주세요."
   contact_button: "이메일 보내기"
+  faq_title: "자주 묻는 질문"
+  faq:
+    - ["PDFWallet은 무료인가요?", "네. PDF 보기, 전체 화면 바코드, 정렬 같은 핵심 기능은 무료이며 광고가 없습니다. 선택적 인앱 구매로 모든 추가 기능을 이용할 수 있습니다."]
+    - ["오프라인에서도 작동하나요?", "네. 모든 문서가 기기에 저장되므로 인터넷 연결 없이도 티켓과 바코드를 사용할 수 있습니다."]
+    - ["어떤 바코드를 지원하나요?", "QR, Aztec, DataMatrix, PDF417 및 EAN, UPC, Code 39, Code 93, Code 128, ITF, Codabar 같은 일반적인 1D 바코드를 지원합니다."]
+    - ["내 문서가 어딘가에 업로드되나요?", "아니요. 앱은 전적으로 기기에서 작동하며 추적이 없습니다. 원하면 Face ID나 지문으로 보호할 수 있습니다."]
+    - ["어떤 플랫폼을 지원하나요?", "PDFWallet은 App Store에서 iPhone, iPad, Mac용으로, Google Play에서 Android용으로 제공됩니다."]
   not_found_title: "페이지를 찾을 수 없습니다"
   not_found_text: "찾으시는 페이지가 존재하지 않거나 이동되었습니다."
   not_found_link: "홈으로 돌아가기"
@@ -310,6 +366,13 @@ ru:
   contact_title: "Контакты"
   contact_text: "Вопросы, отзывы или идеи? Напишите нам."
   contact_button: "Написать письмо"
+  faq_title: "Частые вопросы"
+  faq:
+    - ["PDFWallet бесплатный?", "Да. Основные функции — просмотр PDF, штрихкоды во весь экран и сортировка — бесплатны и без рекламы. Необязательная встроенная покупка открывает все дополнительные функции."]
+    - ["PDFWallet работает без интернета?", "Да. Все документы хранятся на вашем устройстве, поэтому билеты и штрихкоды доступны даже без подключения к интернету."]
+    - ["Какие штрихкоды поддерживаются?", "QR, Aztec, DataMatrix, PDF417 и распространённые 1D-штрихкоды: EAN, UPC, Code 39, Code 93, Code 128, ITF и Codabar."]
+    - ["Мои документы куда-то загружаются?", "Нет. Приложение работает полностью на вашем устройстве, без отслеживания. При желании его можно защитить с помощью Face ID или отпечатка пальца."]
+    - ["Какие платформы поддерживаются?", "PDFWallet доступен для iPhone, iPad и Mac в App Store и для Android в Google Play."]
   not_found_title: "Страница не найдена"
   not_found_text: "К сожалению, запрашиваемая страница не существует или была перемещена."
   not_found_link: "На главную"
@@ -345,6 +408,13 @@ ar:
   contact_title: "اتصل بنا"
   contact_text: "هل لديك أسئلة أو ملاحظات أو أفكار؟ تواصل معنا."
   contact_button: "أرسل بريدًا إلكترونيًا"
+  faq_title: "الأسئلة الشائعة"
+  faq:
+    - ["هل PDFWallet مجاني؟", "نعم. الميزات الأساسية مثل عرض ملفات PDF والرموز الشريطية بملء الشاشة والفرز مجانية وبدون إعلانات. وتفتح عملية شراء اختيارية داخل التطبيق جميع الميزات الإضافية."]
+    - ["هل يعمل PDFWallet دون اتصال بالإنترنت؟", "نعم. تُحفظ جميع المستندات على جهازك، لذا تبقى تذاكرك ورموزك الشريطية متاحة حتى دون اتصال بالإنترنت."]
+    - ["ما الرموز الشريطية المدعومة؟", "QR وAztec وDataMatrix وPDF417 والرموز الشريطية أحادية البعد الشائعة مثل EAN وUPC وCode 39 وCode 93 وCode 128 وITF وCodabar."]
+    - ["هل تُرفع مستنداتي إلى أي مكان؟", "لا. يعمل التطبيق بالكامل على جهازك دون أي تتبع. ويمكنك حمايته اختياريًا باستخدام Face ID أو بصمة الإصبع."]
+    - ["ما المنصات المدعومة؟", "يتوفر PDFWallet لأجهزة iPhone وiPad وMac على App Store ولأجهزة Android على Google Play."]
   not_found_title: "الصفحة غير موجودة"
   not_found_text: "عذرًا، الصفحة التي تبحث عنها غير موجودة أو تم نقلها."
   not_found_link: "العودة إلى الصفحة الرئيسية"
